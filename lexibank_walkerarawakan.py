@@ -72,9 +72,12 @@ class Dataset(BaseDataset):
                         continue
 
                     for form in split_text(value):
+                        # skip over empty forms
+                        if form in ["-"]:
+                            continue
+
                         # tokenize
-                        #segments = [c for c in form]
-                        segments = []
+                        segments = self.tokenizer(None, '^' + form + '$', column='IPA')
 
                         # add form
                         for row in ds.add_lexemes(
