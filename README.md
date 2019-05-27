@@ -10,7 +10,7 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 
 
-![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
+![Glottolog: 97%](https://img.shields.io/badge/Glottolog-97%25-green.svg "Glottolog: 97%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 76%](https://img.shields.io/badge/BIPA-76%25-yellow.svg "BIPA: 76%")
