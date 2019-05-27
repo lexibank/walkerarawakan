@@ -10,17 +10,17 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 
 
-![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
+![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 76%](https://img.shields.io/badge/BIPA-76%25-yellow.svg "BIPA: 76%")
 ![CLTS SoundClass: 76%](https://img.shields.io/badge/CLTS%20SoundClass-76%25-yellow.svg "CLTS SoundClass: 76%")
 
-- **Varieties:** 57
+- **Varieties:** 59
 - **Concepts:** 100
-- **Lexemes:** 5,723
+- **Lexemes:** 5,877
 - **Synonymy:** 1.13
 - **Invalid lexemes:** 0
-- **Tokens:** 32,394
+- **Tokens:** 33,358
 - **Segments:** 178 (42 BIPA errors, 42 CTLS sound class errors, 136 CLTS modified)
-- **Inventory size (avg):** 30.40
+- **Inventory size (avg):** 30.24

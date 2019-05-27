@@ -43,10 +43,11 @@ class Dataset(BaseDataset):
                 lid = slug(language['Name'])
                 ds.add_language(
                     ID=lid,
-                    Name=language['Glottolog_Name'],
+                    Name=language['Name'],
+                    Glottolog_Name=language['Glottolog_Name'],
                     Glottocode=language['Glottocode'],
                 )
-                lang_map[language['Glottolog_Name'].strip()] = lid
+                lang_map[language['Name'].strip()] = lid
 
             # add concepts
             for concept in self.concepts:
@@ -66,10 +67,6 @@ class Dataset(BaseDataset):
 
                 for lang, value in entry.items():
                     lang = lang.strip()
-
-                    # skip over problems
-                    if lang in ['Cariai', 'Warekena']:
-                        continue
 
                     for form in split_text(value):
                         # skip over empty forms

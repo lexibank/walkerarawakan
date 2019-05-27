@@ -5,42 +5,42 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 5393 | ✓ | ✓ |
-| i | 4173 | ✓ | ✓ |
-| e | 1924 | ✓ | ✓ |
-| n | 1859 | ✓ | ✓ |
-| u | 1742 | ✓ | ✓ |
-| k | 1628 | ✓ | ✓ |
-| t | 1375 | ✓ | ✓ |
-| <?> | 1255 | ? | ? |
-| o | 1122 | ✓ | ✓ |
-| h | 1064 | ✓ | ✓ |
-| r | 1036 | ✓ | ✓ |
-| m | 1003 | ✓ | ✓ |
-| p | 970 | ✓ | ✓ |
-| ɨ | 652 | ✓ | ✓ |
-| <<,>> | 630 | ? | ? |
-| w | 595 | ✓ | ✓ |
-| l | 534 | ✓ | ✓ |
-| y | 441 | ✓ | ✓ |
-| ts | 391 | ✓ | ✓ |
-| b | 384 | ✓ | ✓ |
-| tʃ | 356 | ✓ | ✓ |
-| s | 353 | ✓ | ✓ |
-| d | 349 | ✓ | ✓ |
+| a | 5575 | ✓ | ✓ |
+| i | 4355 | ✓ | ✓ |
+| e | 1974 | ✓ | ✓ |
+| n | 1921 | ✓ | ✓ |
+| u | 1800 | ✓ | ✓ |
+| k | 1709 | ✓ | ✓ |
+| t | 1402 | ✓ | ✓ |
+| <?> | 1277 | ? | ? |
+| o | 1128 | ✓ | ✓ |
+| h | 1086 | ✓ | ✓ |
+| r | 1047 | ✓ | ✓ |
+| m | 1033 | ✓ | ✓ |
+| p | 1004 | ✓ | ✓ |
+| ɨ | 669 | ✓ | ✓ |
+| <<,>> | 632 | ? | ? |
+| w | 616 | ✓ | ✓ |
+| l | 567 | ✓ | ✓ |
+| y | 459 | ✓ | ✓ |
+| s | 411 | ✓ | ✓ |
+| b | 396 | ✓ | ✓ |
+| ts | 395 | ✓ | ✓ |
+| tʃ | 363 | ✓ | ✓ |
+| d | 362 | ✓ | ✓ |
 | ʔ | 284 | ✓ | ✓ |
 | g | 281 | ✓ | ✓ |
-| j | 254 | ✓ | ✓ |
+| j | 257 | ✓ | ✓ |
 | ʃ | 242 | ✓ | ✓ |
-| aː | 137 | ✓ | ✓ |
+| aː | 138 | ✓ | ✓ |
 | á | 125 | ✓ | ✓ |
 | iː | 101 | ✓ | ✓ |
-| ɲ | 86 | ✓ | ✓ |
+| ɲ | 87 | ✓ | ✓ |
 | ʂ | 79 | ✓ | ✓ |
 | ɻ | 75 | ✓ | ✓ |
 | eː | 68 | ✓ | ✓ |
 | ɾ | 67 | ✓ | ✓ |
-| ã | 63 | ✓ | ✓ |
+| ã | 64 | ✓ | ✓ |
 | í | 59 | ✓ | ✓ |
 | ĩ | 58 | ✓ | ✓ |
 | aa | 50 | ✓ | ✓ |
@@ -49,13 +49,13 @@
 | v | 44 | ✓ | ✓ |
 | ɔ | 42 | ✓ | ✓ |
 | dʒ | 39 | ✓ | ✓ |
+| ph | 39 | ✓ | ✓ |
 | kh | 38 | ✓ | ✓ |
-| ph | 38 | ✓ | ✓ |
 | é | 35 | ✓ | ✓ |
 | ɖ | 35 | ✓ | ✓ |
 | c | 33 | ✓ | ✓ |
+| uː | 33 | ✓ | ✓ |
 | ɽ | 33 | ✓ | ✓ |
-| uː | 32 | ✓ | ✓ |
 | ú | 32 | ✓ | ✓ |
 | th | 31 | ✓ | ✓ |
 | ii | 28 | ✓ | ✓ |
@@ -63,16 +63,16 @@
 | ee | 21 | ✓ | ✓ |
 | uu | 17 | ✓ | ✓ |
 | ɨ́ | 17 | ✓ | ✓ |
+| kw | 16 | ✓ | ✓ |
 | à | 15 | ✓ | ✓ |
 | ũ | 15 | ✓ | ✓ |
 | ɣ | 15 | ✓ | ✓ |
 | ε | 15 | ✓ | ✓ |
-| kw | 14 | ✓ | ✓ |
+| hw | 13 | ? | ? |
 | ù | 13 | ✓ | ✓ |
 | <</>> | 12 | ? | ? |
 | oː | 12 | ✓ | ✓ |
 | x | 12 | ✓ | ✓ |
-| hw | 11 | ? | ? |
 | õ | 11 | ✓ | ✓ |
 | β | 11 | ✓ | ✓ |
 | ẽ | 11 | ✓ | ✓ |
@@ -200,107 +200,107 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:----------------------------------------|:--------------------|:------------------|:---------|:-------------------------------------------------------|
-| achagua-Walker-2011-100-8-1 | achagua | Walker-2011-100-8 | ma- | m a <s> <?> </s> <s> <<,>> </s> |
-| amueshayanesha-Walker-2011-100-6-1 | amueshayanesha | Walker-2011-100-6 | esoʼt | e s <s> oʼ </s> t |
-| amueshayanesha-Walker-2011-100-7-1 | amueshayanesha | Walker-2011-100-7 | eseʃaʼt | e s e ʃ <s> aʼ </s> t |
+|:-------------------------------------|:-----------------|:------------------|:---------|:-------------------------------------------------------|
 | anauya-Walker-2011-100-5-1 | anauya | Walker-2011-100-5 | iraha | i r a h a <s> <<,>> </s> a k i <s> <<,>> </s> m aː t a |
 | anauya-Walker-2011-100-5-2 | anauya | Walker-2011-100-5 | aki | i r a h a <s> <<,>> </s> a k i <s> <<,>> </s> m aː t a |
 | anauya-Walker-2011-100-5-3 | anauya | Walker-2011-100-5 | maːta | i r a h a <s> <<,>> </s> a k i <s> <<,>> </s> m aː t a |
-| apurinaapurina-Walker-2011-100-4-1 | apurinaapurina | Walker-2011-100-4 | ɨ-je | ɨ <s> <?> </s> j e |
-| apurinaapurina-Walker-2011-100-5-1 | apurinaapurina | Walker-2011-100-5 | ɨ-kara | ɨ <s> <?> </s> k a r a |
-| apurinaapurina-Walker-2011-100-6-1 | apurinaapurina | Walker-2011-100-6 | ke-pa | k e <s> <?> </s> p a |
-| apurinaapurina-Walker-2011-100-7-1 | apurinaapurina | Walker-2011-100-7 | ke-rɨ-pa | k e <s> <?> </s> r ɨ <s> <?> </s> p a |
-| aruaarua-Walker-2011-100-5-1 | aruaarua | Walker-2011-100-5 | ay | a y <s> <<,>> </s> |
-| bahuanashiriana-Walker-2011-100-6-1 | bahuanashiriana | Walker-2011-100-6 | jáɨ | j á ɨ <s> <<,>> </s> |
-| bahuanashiriana-Walker-2011-100-7-1 | bahuanashiriana | Walker-2011-100-7 | jaɨ | j a ɨ <s> <<,>> </s> |
-| bahuanashiriana-Walker-2011-100-8-1 | bahuanashiriana | Walker-2011-100-8 | ma- | m a <s> <?> </s> <s> <<,>> </s> |
-| banivaavanibaniwado-Walker-2011-100-8-1 | banivaavanibaniwado | Walker-2011-100-8 | ma | m a <s> <<,>> </s> |
-| baniwaicana-Walker-2011-100-3-1 | baniwaicana | Walker-2011-100-3 | hwaː | <s> hw </s> aː |
-| barebarawana-Walker-2011-100-1-1 | barebarawana | Walker-2011-100-1 | nu-ni | n u <s> <?> </s> n i <s> <<,>> </s> |
-| barebarawana-Walker-2011-100-2-1 | barebarawana | Walker-2011-100-2 | bi-ni | b i <s> <?> </s> n i <s> <<,>> </s> |
-| barebarawana-Walker-2011-100-3-1 | barebarawana | Walker-2011-100-3 | wa-ni | w a <s> <?> </s> n i <s> <<,>> </s> |
-| barebarawana-Walker-2011-100-5-1 | barebarawana | Walker-2011-100-5 | asaha | a s a h a <s> <</>> </s> e ns a |
-| barebarawana-Walker-2011-100-5-2 | barebarawana | Walker-2011-100-5 | ensa | a s a h a <s> <</>> </s> e ns a |
+| apurina-Walker-2011-100-4-1 | apurina | Walker-2011-100-4 | ɨ-je | ɨ <s> <?> </s> j e |
+| apurina-Walker-2011-100-5-1 | apurina | Walker-2011-100-5 | ɨ-kara | ɨ <s> <?> </s> k a r a |
+| apurina-Walker-2011-100-6-1 | apurina | Walker-2011-100-6 | ke-pa | k e <s> <?> </s> p a |
+| apurina-Walker-2011-100-7-1 | apurina | Walker-2011-100-7 | ke-rɨ-pa | k e <s> <?> </s> r ɨ <s> <?> </s> p a |
+| araicu-Walker-2011-100-1-1 | araicu | Walker-2011-100-1 | u-nu | u <s> <?> </s> n u |
+| araicu-Walker-2011-100-2-1 | araicu | Walker-2011-100-2 | u-pɨe | u <s> <?> </s> p ɨ e |
+| araicu-Walker-2011-100-8-1 | araicu | Walker-2011-100-8 | hɨnka | h ɨ n k a <s> <<,>> </s> e i <s> <<,>> </s> |
+| araicu-Walker-2011-100-8-2 | araicu | Walker-2011-100-8 | ei | h ɨ n k a <s> <<,>> </s> e i <s> <<,>> </s> |
+| aruan-Walker-2011-100-5-1 | aruan | Walker-2011-100-5 | ay | a y <s> <<,>> </s> |
+| baniwadoicana-Walker-2011-100-3-1 | baniwadoicana | Walker-2011-100-3 | hwaː | <s> hw </s> aː |
+| bare-Walker-2011-100-1-1 | bare | Walker-2011-100-1 | nu-ni | n u <s> <?> </s> n i <s> <<,>> </s> |
+| bare-Walker-2011-100-2-1 | bare | Walker-2011-100-2 | bi-ni | b i <s> <?> </s> n i <s> <<,>> </s> |
+| bare-Walker-2011-100-3-1 | bare | Walker-2011-100-3 | wa-ni | w a <s> <?> </s> n i <s> <<,>> </s> |
+| bare-Walker-2011-100-5-1 | bare | Walker-2011-100-5 | asaha | a s a h a <s> <</>> </s> e ns a |
+| bare-Walker-2011-100-5-2 | bare | Walker-2011-100-5 | ensa | a s a h a <s> <</>> </s> e ns a |
 | baure-Walker-2011-100-5-1 | baure | Walker-2011-100-5 | ten | t e n <s> <<,>> </s> |
-| cabiyaricaviyari-Walker-2011-100-3-1 | cabiyaricaviyari | Walker-2011-100-3 | whe | <s> wh </s> e |
-| caquintepoyenisati-Walker-2011-100-3-1 | caquintepoyenisati | Walker-2011-100-3 | aːtiNpa | aː t i <s> <?> </s> p a |
-| caquintepoyenisati-Walker-2011-100-5-1 | caquintepoyenisati | Walker-2011-100-5 | iriNta | i r i <s> <?> </s> t a |
-| garifunablackcarib-Walker-2011-100-2-1 | garifunablackcarib | Walker-2011-100-2 | amɨrɨ | a m ɨ r ɨ <s> <<,>> </s> |
-| garifunablackcarib-Walker-2011-100-2-2 | garifunablackcarib | Walker-2011-100-2 | ban | b a n <s> <<,>> </s> |
-| garifunablackcarib-Walker-2011-100-2-3 | garifunablackcarib | Walker-2011-100-2 | hugίa | h u g <s> <?> </s> a <s> <<,>> </s> |
-| garifunablackcarib-Walker-2011-100-2-4 | garifunablackcarib | Walker-2011-100-2 | huguya | h u g u y a <s> <<,>> </s> |
-| garifunablackcarib-Walker-2011-100-3-1 | garifunablackcarib | Walker-2011-100-3 | wagίa | w a g <s> <?> </s> a |
-| garifunablackcarib-Walker-2011-100-4-1 | garifunablackcarib | Walker-2011-100-4 | le | l e <s> <<,>> </s> |
-| garifunablackcarib-Walker-2011-100-6-1 | garifunablackcarib | Walker-2011-100-6 | ka | k a <s> <<,>> </s> |
-| garifunablackcarib-Walker-2011-100-7-1 | garifunablackcarib | Walker-2011-100-7 | ka | k a <s> <<,>> </s> k a t e i <s> <<,>> </s> |
-| garifunablackcarib-Walker-2011-100-7-2 | garifunablackcarib | Walker-2011-100-7 | katei | k a <s> <<,>> </s> k a t e i <s> <<,>> </s> |
-| guajirowayuu-Walker-2011-100-1-1 | guajirowayuu | Walker-2011-100-1 | ta-ya | t a <s> <?> </s> y a |
-| guajirowayuu-Walker-2011-100-3-1 | guajirowayuu | Walker-2011-100-3 | wa-ya | w a <s> <?> </s> y a |
-| islandcaribkarifuna-Walker-2011-100-1-1 | islandcaribkarifuna | Walker-2011-100-1 | nu-guia | n u <s> <?> </s> g u i a |
-| islandcaribkarifuna-Walker-2011-100-2-1 | islandcaribkarifuna | Walker-2011-100-2 | hu-guia | h u <s> <?> </s> g u i a |
-| kauixana-Walker-2011-100-4-2 | kauixana | Walker-2011-100-4 | ima | i m a <s> <<,>> </s> |
-| kauixana-Walker-2011-100-5-1 | kauixana | Walker-2011-100-5 | peta | p e t a <s> <<,>> </s> |
-| kauixana-Walker-2011-100-6-1 | kauixana | Walker-2011-100-6 | napa | n a p a <s> <<,>> </s> |
-| kauixana-Walker-2011-100-6-2 | kauixana | Walker-2011-100-6 | -hi | <s> <?> </s> h i <s> <<,>> </s> |
-| kauixana-Walker-2011-100-7-1 | kauixana | Walker-2011-100-7 | napa | n a p a <s> <<,>> </s> |
-| kauixana-Walker-2011-100-7-2 | kauixana | Walker-2011-100-7 | -hi | <s> <?> </s> h i <s> <<,>> </s> |
+| cabiyari-Walker-2011-100-3-1 | cabiyari | Walker-2011-100-3 | whe | <s> wh </s> e |
+| caquinte-Walker-2011-100-3-1 | caquinte | Walker-2011-100-3 | aːtiNpa | aː t i <s> <?> </s> p a |
+| caquinte-Walker-2011-100-5-1 | caquinte | Walker-2011-100-5 | iriNta | i r i <s> <?> </s> t a |
+| cariai-Walker-2011-100-1-1 | cariai | Walker-2011-100-1 | ni-wai | n i <s> <?> </s> w a i |
+| cariai-Walker-2011-100-2-1 | cariai | Walker-2011-100-2 | pi-wai | p i <s> <?> </s> w a i |
+| garifuna-Walker-2011-100-2-1 | garifuna | Walker-2011-100-2 | amɨrɨ | a m ɨ r ɨ <s> <<,>> </s> |
+| garifuna-Walker-2011-100-2-2 | garifuna | Walker-2011-100-2 | ban | b a n <s> <<,>> </s> |
+| garifuna-Walker-2011-100-2-3 | garifuna | Walker-2011-100-2 | hugίa | h u g <s> <?> </s> a <s> <<,>> </s> |
+| garifuna-Walker-2011-100-2-4 | garifuna | Walker-2011-100-2 | huguya | h u g u y a <s> <<,>> </s> |
+| garifuna-Walker-2011-100-3-1 | garifuna | Walker-2011-100-3 | wagίa | w a g <s> <?> </s> a |
+| garifuna-Walker-2011-100-4-1 | garifuna | Walker-2011-100-4 | le | l e <s> <<,>> </s> |
+| garifuna-Walker-2011-100-6-1 | garifuna | Walker-2011-100-6 | ka | k a <s> <<,>> </s> |
+| garifuna-Walker-2011-100-7-1 | garifuna | Walker-2011-100-7 | ka | k a <s> <<,>> </s> k a t e i <s> <<,>> </s> |
+| garifuna-Walker-2011-100-7-2 | garifuna | Walker-2011-100-7 | katei | k a <s> <<,>> </s> k a t e i <s> <<,>> </s> |
+| islandcarib-Walker-2011-100-1-1 | islandcarib | Walker-2011-100-1 | nu-guia | n u <s> <?> </s> g u i a |
+| islandcarib-Walker-2011-100-2-1 | islandcarib | Walker-2011-100-2 | hu-guia | h u <s> <?> </s> g u i a |
+| jumana-Walker-2011-100-1-1 | jumana | Walker-2011-100-1 | nɨ-te | n ɨ <s> <?> </s> t e |
+| jumana-Walker-2011-100-2-1 | jumana | Walker-2011-100-2 | pɨ-la | p ɨ <s> <?> </s> l a |
+| jumana-Walker-2011-100-3-1 | jumana | Walker-2011-100-3 | te-la | t e <s> <?> </s> l a |
+| kaishana-Walker-2011-100-4-2 | kaishana | Walker-2011-100-4 | ima | i m a <s> <<,>> </s> |
+| kaishana-Walker-2011-100-5-1 | kaishana | Walker-2011-100-5 | peta | p e t a <s> <<,>> </s> |
+| kaishana-Walker-2011-100-6-1 | kaishana | Walker-2011-100-6 | napa | n a p a <s> <<,>> </s> |
+| kaishana-Walker-2011-100-6-2 | kaishana | Walker-2011-100-6 | -hi | <s> <?> </s> h i <s> <<,>> </s> |
+| kaishana-Walker-2011-100-7-1 | kaishana | Walker-2011-100-7 | napa | n a p a <s> <<,>> </s> |
+| kaishana-Walker-2011-100-7-2 | kaishana | Walker-2011-100-7 | -hi | <s> <?> </s> h i <s> <<,>> </s> |
 | maipure-Walker-2011-100-4-1 | maipure | Walker-2011-100-4 | ia | i a <s> <<,>> </s> |
 | maipure-Walker-2011-100-4-2 | maipure | Walker-2011-100-4 | yaya | y a y a <s> <<,>> </s> |
 | maipure-Walker-2011-100-4-3 | maipure | Walker-2011-100-4 | are-pina | a r e <s> <?> </s> p i n a |
 | maipure-Walker-2011-100-5-1 | maipure | Walker-2011-100-5 | naya | n a y a <s> <<,>> </s> |
 | maipure-Walker-2011-100-5-2 | maipure | Walker-2011-100-5 | -ya | <s> <?> </s> y a <s> <<,>> </s> |
-| maipure-Walker-2011-100-8-1 | maipure | Walker-2011-100-8 | ma- | m a <s> <?> </s> <s> <<,>> </s> |
-| maipure-Walker-2011-100-8-2 | maipure | Walker-2011-100-8 | nuka- | n u k a <s> <?> </s> <s> <<,>> </s> |
-| maipure-Walker-2011-100-8-3 | maipure | Walker-2011-100-8 | maka- | m a k a <s> <?> </s> |
 | manao-Walker-2011-100-5-1 | manao | Walker-2011-100-5 | eruti | e r u t i <s> <<,>> </s> |
 | manao-Walker-2011-100-6-1 | manao | Walker-2011-100-6 | kapa- | k a p a <s> <?> </s> |
 | manao-Walker-2011-100-7-1 | manao | Walker-2011-100-7 | kapa- | k a p a <s> <?> </s> |
-| mandawakamandahuaca-Walker-2011-100-1-1 | mandawakamandahuaca | Walker-2011-100-1 | nu-yaha | n u <s> <?> </s> y a h a |
-| mandawakamandahuaca-Walker-2011-100-2-1 | mandawakamandahuaca | Walker-2011-100-2 | hi-yaha | h i <s> <?> </s> y a h a |
-| mandawakamandahuaca-Walker-2011-100-3-1 | mandawakamandahuaca | Walker-2011-100-3 | wa-yaha | w a <s> <?> </s> y a h a |
-| marawamaragua-Walker-2011-100-5-1 | marawamaragua | Walker-2011-100-5 | akirahi | a k i r a h i <s> <<,>> </s> l a tʒ <s> <<,>> </s> |
-| marawamaragua-Walker-2011-100-5-2 | marawamaragua | Walker-2011-100-5 | latʒ | a k i r a h i <s> <<,>> </s> l a tʒ <s> <<,>> </s> |
-| marawamaragua-Walker-2011-100-6-1 | marawamaragua | Walker-2011-100-6 | ka- | k a <s> <?> </s> <s> <<,>> </s> a i <s> <?> </s> |
-| marawamaragua-Walker-2011-100-6-2 | marawamaragua | Walker-2011-100-6 | ai- | k a <s> <?> </s> <s> <<,>> </s> a i <s> <?> </s> |
-| marawamaragua-Walker-2011-100-6-3 | marawamaragua | Walker-2011-100-6 | ya- | y a <s> <?> </s> |
-| marawamaragua-Walker-2011-100-7-1 | marawamaragua | Walker-2011-100-7 | ka- | k a <s> <?> </s> <s> <<,>> </s> a i <s> <?> </s> |
-| marawamaragua-Walker-2011-100-7-2 | marawamaragua | Walker-2011-100-7 | ai- | k a <s> <?> </s> <s> <<,>> </s> a i <s> <?> </s> |
-| marawamaragua-Walker-2011-100-7-3 | marawamaragua | Walker-2011-100-7 | ya- | y a <s> <?> </s> |
+| mandahuaca-Walker-2011-100-1-1 | mandahuaca | Walker-2011-100-1 | nu-yaha | n u <s> <?> </s> y a h a |
+| mandahuaca-Walker-2011-100-2-1 | mandahuaca | Walker-2011-100-2 | hi-yaha | h i <s> <?> </s> y a h a |
+| mandahuaca-Walker-2011-100-3-1 | mandahuaca | Walker-2011-100-3 | wa-yaha | w a <s> <?> </s> y a h a |
+| mapidianmawayana-Walker-2011-100-4-1 | mapidianmawayana | Walker-2011-100-4 | ti’a | t i <s> <?> </s> a |
+| mapidianmawayana-Walker-2011-100-5-1 | mapidianmawayana | Walker-2011-100-5 | arura’ra | a r u r a <s> <?> </s> r a |
+| maragua-Walker-2011-100-5-1 | maragua | Walker-2011-100-5 | akirahi | a k i r a h i <s> <<,>> </s> l a tʒ <s> <<,>> </s> |
+| maragua-Walker-2011-100-5-2 | maragua | Walker-2011-100-5 | latʒ | a k i r a h i <s> <<,>> </s> l a tʒ <s> <<,>> </s> |
+| maragua-Walker-2011-100-6-1 | maragua | Walker-2011-100-6 | ka- | k a <s> <?> </s> <s> <<,>> </s> a i <s> <?> </s> |
+| maragua-Walker-2011-100-6-2 | maragua | Walker-2011-100-6 | ai- | k a <s> <?> </s> <s> <<,>> </s> a i <s> <?> </s> |
+| maragua-Walker-2011-100-6-3 | maragua | Walker-2011-100-6 | ya- | y a <s> <?> </s> |
+| maragua-Walker-2011-100-7-1 | maragua | Walker-2011-100-7 | ka- | k a <s> <?> </s> <s> <<,>> </s> a i <s> <?> </s> |
+| maragua-Walker-2011-100-7-2 | maragua | Walker-2011-100-7 | ai- | k a <s> <?> </s> <s> <<,>> </s> a i <s> <?> </s> |
+| maragua-Walker-2011-100-7-3 | maragua | Walker-2011-100-7 | ya- | y a <s> <?> </s> |
+| maragua-Walker-2011-100-8-1 | maragua | Walker-2011-100-8 | -mepe | <s> <?> </s> m e p e <s> <<,>> </s> |
+| maragua-Walker-2011-100-8-2 | maragua | Walker-2011-100-8 | ma- | m a <s> <?> </s> |
 | marawan-Walker-2011-100-1-1 | marawan | Walker-2011-100-1 | nu- | n u <s> <?> </s> |
 | marawan-Walker-2011-100-2-1 | marawan | Walker-2011-100-2 | pi- | p i <s> <?> </s> |
 | marawan-Walker-2011-100-3-1 | marawan | Walker-2011-100-3 | wi- | w i <s> <?> </s> |
-| marawan-Walker-2011-100-8-1 | marawan | Walker-2011-100-8 | ka-oka | k a <s> <?> </s> o k a |
-| mawayanamapidian-Walker-2011-100-4-1 | mawayanamapidian | Walker-2011-100-4 | ti’a | t i <s> <?> </s> a |
-| mawayanamapidian-Walker-2011-100-5-1 | mawayanamapidian | Walker-2011-100-5 | arura’ra | a r u r a <s> <?> </s> r a |
 | palikur-Walker-2011-100-4-2 | palikur | Walker-2011-100-4 | ini | i n i <s> <<,>> </s> |
-| paresiparecis-Walker-2011-100-1-1 | paresiparecis | Walker-2011-100-1 | natjwo | n a t <s> jw </s> o |
-| paresiparecis-Walker-2011-100-5-1 | paresiparecis | Walker-2011-100-5 | hatjwo | h a t <s> jw </s> o |
-| pasepase-Walker-2011-100-8-1 | pasepase | Walker-2011-100-8 | ma- | m a <s> <?> </s> <s> <<,>> </s> |
-| resigaroresigaro-Walker-2011-100-2-1 | resigaroresigaro | Walker-2011-100-2 | phu | ph u <s> <<,>> </s> |
-| resigaroresigaro-Walker-2011-100-6-1 | resigaroresigaro | Walker-2011-100-6 | heʔe | h e ʔ e <s> <<,>> </s> |
-| resigaroresigaro-Walker-2011-100-6-2 | resigaroresigaro | Walker-2011-100-6 | heʔeː | h e ʔ eː <s> <<,>> </s> |
-| resigaroresigaro-Walker-2011-100-7-1 | resigaroresigaro | Walker-2011-100-7 | keːni | k eː n i <s> <<,>> </s> |
-| resigaroresigaro-Walker-2011-100-7-2 | resigaroresigaro | Walker-2011-100-7 | keheː | k e h eː <s> <<,>> </s> k o ʔ i g i |
-| resigaroresigaro-Walker-2011-100-7-3 | resigaroresigaro | Walker-2011-100-7 | koʔigi | k e h eː <s> <<,>> </s> k o ʔ i g i |
-| tainotaino-Walker-2011-100-1-1 | tainotaino | Walker-2011-100-1 | nu | n u <s> <<,>> </s> |
-| tainotaino-Walker-2011-100-1-2 | tainotaino | Walker-2011-100-1 | da- | d a <s> <?> </s> <s> <<,>> </s> |
-| tainotaino-Walker-2011-100-2-1 | tainotaino | Walker-2011-100-2 | ti | t i <s> <<,>> </s> |
-| tainotaino-Walker-2011-100-2-2 | tainotaino | Walker-2011-100-2 | bu- | b u <s> <?> </s> <s> <<,>> </s> |
-| tainotaino-Walker-2011-100-2-3 | tainotaino | Walker-2011-100-2 | uara’ | u a r a <s> <?> </s> |
-| tainotaino-Walker-2011-100-3-1 | tainotaino | Walker-2011-100-3 | guakia | g u a k i a <s> <<,>> </s> |
-| tainotaino-Walker-2011-100-3-2 | tainotaino | Walker-2011-100-3 | ua- | u a <s> <?> </s> <s> <<,>> </s> |
-| tainotaino-Walker-2011-100-3-3 | tainotaino | Walker-2011-100-3 | -wo | <s> <?> </s> w o |
-| tainotaino-Walker-2011-100-5-1 | tainotaino | Walker-2011-100-5 | ʒi | ʒ i <s> <<,>> </s> |
-| wainuma-Walker-2011-100-3-1 | wainuma | Walker-2011-100-3 | wa’a | w a <s> <?> </s> a |
-| wapixanawapishana-Walker-2011-100-4-1 | wapixanawapishana | Walker-2011-100-4 | ɖiwɨɽaː | ɖ i w ɨ ɽ aː <s> <<,>> </s> |
-| waraicu-Walker-2011-100-1-1 | waraicu | Walker-2011-100-1 | u-nu | u <s> <?> </s> n u |
-| waraicu-Walker-2011-100-2-1 | waraicu | Walker-2011-100-2 | u-pɨe | u <s> <?> </s> p ɨ e |
-| waurawaura-Walker-2011-100-5-1 | waurawaura | Walker-2011-100-5 | ʐa | ʐ a <s> <<,>> </s> |
-| yumana-Walker-2011-100-1-1 | yumana | Walker-2011-100-1 | nɨ-te | n ɨ <s> <?> </s> t e |
-| yumana-Walker-2011-100-2-1 | yumana | Walker-2011-100-2 | pɨ-la | p ɨ <s> <?> </s> l a |
-| yumana-Walker-2011-100-3-1 | yumana | Walker-2011-100-3 | te-la | t e <s> <?> </s> l a |
-| yumana-Walker-2011-100-8-1 | yumana | Walker-2011-100-8 | meyu | m e y u <s> <<,>> </s> |
+| palikur-Walker-2011-100-8-1 | palikur | Walker-2011-100-8 | ka- | k a <s> <?> </s> |
+| parecis-Walker-2011-100-1-1 | parecis | Walker-2011-100-1 | natjwo | n a t <s> jw </s> o |
+| parecis-Walker-2011-100-5-1 | parecis | Walker-2011-100-5 | hatjwo | h a t <s> jw </s> o |
+| resigaro-Walker-2011-100-2-1 | resigaro | Walker-2011-100-2 | phu | ph u <s> <<,>> </s> |
+| resigaro-Walker-2011-100-6-1 | resigaro | Walker-2011-100-6 | heʔe | h e ʔ e <s> <<,>> </s> |
+| resigaro-Walker-2011-100-6-2 | resigaro | Walker-2011-100-6 | heʔeː | h e ʔ eː <s> <<,>> </s> |
+| resigaro-Walker-2011-100-7-1 | resigaro | Walker-2011-100-7 | keːni | k eː n i <s> <<,>> </s> |
+| resigaro-Walker-2011-100-7-2 | resigaro | Walker-2011-100-7 | keheː | k e h eː <s> <<,>> </s> k o ʔ i g i |
+| resigaro-Walker-2011-100-7-3 | resigaro | Walker-2011-100-7 | koʔigi | k e h eː <s> <<,>> </s> k o ʔ i g i |
+| taino-Walker-2011-100-1-1 | taino | Walker-2011-100-1 | nu | n u <s> <<,>> </s> |
+| taino-Walker-2011-100-1-2 | taino | Walker-2011-100-1 | da- | d a <s> <?> </s> <s> <<,>> </s> |
+| taino-Walker-2011-100-2-1 | taino | Walker-2011-100-2 | ti | t i <s> <<,>> </s> |
+| taino-Walker-2011-100-2-2 | taino | Walker-2011-100-2 | bu- | b u <s> <?> </s> <s> <<,>> </s> |
+| taino-Walker-2011-100-2-3 | taino | Walker-2011-100-2 | uara’ | u a r a <s> <?> </s> |
+| taino-Walker-2011-100-3-1 | taino | Walker-2011-100-3 | guakia | g u a k i a <s> <<,>> </s> |
+| taino-Walker-2011-100-3-2 | taino | Walker-2011-100-3 | ua- | u a <s> <?> </s> <s> <<,>> </s> |
+| taino-Walker-2011-100-3-3 | taino | Walker-2011-100-3 | -wo | <s> <?> </s> w o |
+| taino-Walker-2011-100-5-1 | taino | Walker-2011-100-5 | ʒi | ʒ i <s> <<,>> </s> |
+| uainumamariate-Walker-2011-100-3-1 | uainumamariate | Walker-2011-100-3 | wa’a | w a <s> <?> </s> a |
+| wapishana-Walker-2011-100-4-1 | wapishana | Walker-2011-100-4 | ɖiwɨɽaː | ɖ i w ɨ ɽ aː <s> <<,>> </s> |
+| waura-Walker-2011-100-5-1 | waura | Walker-2011-100-5 | ʐa | ʐ a <s> <<,>> </s> |
+| wayuu-Walker-2011-100-1-1 | wayuu | Walker-2011-100-1 | ta-ya | t a <s> <?> </s> y a |
+| wayuu-Walker-2011-100-3-1 | wayuu | Walker-2011-100-3 | wa-ya | w a <s> <?> </s> y a |
+| wayuu-Walker-2011-100-8-1 | wayuu | Walker-2011-100-8 | nnoho | <s> nn </s> o h o |
+| xiriana-Walker-2011-100-6-1 | xiriana | Walker-2011-100-6 | jáɨ | j á ɨ <s> <<,>> </s> |
+| xiriana-Walker-2011-100-7-1 | xiriana | Walker-2011-100-7 | jaɨ | j a ɨ <s> <<,>> </s> |
+| xiriana-Walker-2011-100-8-1 | xiriana | Walker-2011-100-8 | ma- | m a <s> <?> </s> <s> <<,>> </s> |
+| yanesha-Walker-2011-100-6-1 | yanesha | Walker-2011-100-6 | esoʼt | e s <s> oʼ </s> t |
+| yanesha-Walker-2011-100-7-1 | yanesha | Walker-2011-100-7 | eseʃaʼt | e s e ʃ <s> aʼ </s> t |
 
 (100 rows)
 
