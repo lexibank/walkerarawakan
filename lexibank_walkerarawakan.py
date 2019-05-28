@@ -69,8 +69,13 @@ class Dataset(BaseDataset):
                     lang = lang.strip()
 
                     for form in split_text(value):
+                        # removing the commas in code and not in profile,
+                        # so that entries only with a comma will not be
+                        # included as empty entries in the results
+                        form = form.replace(",", "")
+
                         # skip over empty forms
-                        if form in ["-"]:
+                        if form in ["-", ""]:
                             continue
 
                         # tokenize
