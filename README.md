@@ -18,9 +18,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 - **Varieties:** 59
 - **Concepts:** 100
-- **Lexemes:** 5,844
+- **Lexemes:** 5,830
 - **Synonymy:** 1.12
 - **Invalid lexemes:** 0
-- **Tokens:** 32,372
+- **Tokens:** 32,350
 - **Segments:** 181 (42 BIPA errors, 42 CTLS sound class errors, 139 CLTS modified)
-- **Inventory size (avg):** 30.03
+- **Inventory size (avg):** 30.05

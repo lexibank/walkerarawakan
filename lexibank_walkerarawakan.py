@@ -68,11 +68,10 @@ class Dataset(BaseDataset):
                 for lang, value in entry.items():
                     lang = lang.strip()
 
-                    for form in split_text(value):
-                        # removing the commas in code and not in profile,
-                        # so that entries only with a comma will not be
-                        # included as empty entries in the results
-                        form = form.replace(",", "")
+                    for form in split_text(value, separators='/,', strip=True):
+                        # strip only square brackets (others have phonological
+                        # material inside)
+                        form = strip_brackets(form, brackets={'[':']'})
 
                         # skip over empty forms
                         if form in ["-", ""]:
