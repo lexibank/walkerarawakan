@@ -1,13 +1,9 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "aboutUrl": null,
     "dc:bibliographicCitation": "Robert S. Walker and Lincoln A. Ribeiro. 2011. Bayesian phylogeography of the Arawak expansion in lowland South America. *Proceedings of the Royal Society B: Biological Sciences*. Volume 278, Number 1718, 2562--2567. DOI: 10.1098/rspb.2010.2579",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": null,
     "dc:identifier": "",
-    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
-    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "walkerarawakan",
     "dcat:accessURL": "https://github.com/lexibank/walkerarawakan",
@@ -20,8 +16,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "",
-                "concepticon_version": ""
+                "glottolog_version": "pyglottolog-1.2.1-135-gce9d923",
+                "concepticon_version": "pyconcepticon-1.4.0-112-g903cf66"
             }
         }
     ],

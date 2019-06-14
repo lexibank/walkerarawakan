@@ -78,7 +78,7 @@ class Dataset(BaseDataset):
                             continue
 
                         # tokenize
-                        segments = self.tokenizer(None, '^' + form + '$', column='IPA')
+                        segments = self.tokenizer(None, form, column='IPA')
 
                         # add form
                         for row in ds.add_lexemes(

@@ -3,6 +3,8 @@ Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				
 (	NULL				
 )	NULL				
+^-	NULL
+-$	NULL
 a	a	atapana, bana	wapixanawapishana, matchiguengamatsigenka, yukunamatapi, nomatsiguenga, bahuanashiriana, banivaavanibaniwado, wainuma, garifunablackcarib, mehinaku, marawamaragua, kauixana, paresiparecis, ignacianomoxos, asheninkacampa, guajirowayuu, baniwaicana, achagua, guinauguinao, barebarawana, tainotaino, kurripacowakuenai, yaviteroparaene, piapocodzaze, mandawakamandahuaca, waurawaura, chamicuro, cabiyaricaviyari, resigaroresigaro, saraveka, tariana, warekena, palikur, inapariinamari, piroyine, yawalapitiyawalapiti, islandcaribkarifuna, lokonoarawak, yumana, mawayanamapidian, amueshayanesha, manao, maipure, aruaarua, apurinaapurina, paraujanoanu, caquintepoyenisati, manxinerimachinere, kinikinauguana, anauya, waraicu, pasepase, karutanakarutana, enawenemaweenawenenawe, trinitariomoxos, marawan, terenaterena, baure	3076	U+0061
 i	i	katsirinkaiteri, hiya	matchiguengamatsigenka, marawamaragua, nomatsiguenga, garifunablackcarib, yaviteroparaene, paresiparecis, manxinerimachinere, banivaavanibaniwado, asheninkacampa, baniwaicana, maipure, kurripacowakuenai, achagua, warekena, bahuanashiriana, wapixanawapishana, yukunamatapi, baure, palikur, yawalapitiyawalapiti, tainotaino, wainuma, piroyine, paraujanoanu, resigaroresigaro, barebarawana, kauixana, lokonoarawak, ignacianomoxos, islandcaribkarifuna, tariana, guajirowayuu, saraveka, waraicu, caquintepoyenisati, inapariinamari, yumana, mandawakamandahuaca, piapocodzaze, kinikinauguana, manao, marawan, guinauguinao, cabiyaricaviyari, trinitariomoxos, mawayanamapidian, mehinaku, enawenemaweenawenenawe, aruaarua, karutanakarutana, anauya, apurinaapurina, chamicuro, waurawaura, pasepase, terenaterena	1979	U+0069
 a$	a	ma-, ata	baniwaicana, kauixana, bahuanashiriana, warekena, garifunablackcarib, marawamaragua, achagua, ignacianomoxos, tainotaino, apurinaapurina, tariana, yaviteroparaene, waurawaura, yawalapitiyawalapiti, maipure, cabiyaricaviyari, islandcaribkarifuna, yumana, barebarawana, paresiparecis, wainuma, mawayanamapidian, piapocodzaze, chamicuro, manao, guajirowayuu, guinauguinao, mehinaku, mandawakamandahuaca, banivaavanibaniwado, karutanakarutana, enawenemaweenawenenawe, kurripacowakuenai, yukunamatapi, paraujanoanu, lokonoarawak, asheninkacampa, pasepase, caquintepoyenisati, waraicu, palikur, inapariinamari, saraveka, piroyine, kinikinauguana, terenaterena, aruaarua, nomatsiguenga, matchiguengamatsigenka, anauya, trinitariomoxos, wapixanawapishana, manxinerimachinere, marawan, amueshayanesha, resigaroresigaro, baure	1673	U+0061 U+0024
@@ -50,7 +52,7 @@ j	j	batʃijatja, patjenjets	amueshayanesha, paresiparecis, terenaterena, marawam
 n$	n	kotiskon, ten	lokonoarawak, baure, wapixanawapishana, garifunablackcarib, palikur, tainotaino, paraujanoanu, guajirowayuu, anauya, marawan, amueshayanesha, marawamaragua, kinikinauguana, saraveka, trinitariomoxos, caquintepoyenisati, waraicu, wainuma, aruaarua	137	U+006e U+0024
 ^s	s	siba, si	manxinerimachinere, garifunablackcarib, tariana, trinitariomoxos, ignacianomoxos, apurinaapurina, yaviteroparaene, piroyine, lokonoarawak, yumana, baure, pasepase, maipure, tainotaino, kauixana, guajirowayuu, terenaterena, chamicuro, nomatsiguenga, matchiguengamatsigenka, islandcaribkarifuna, manao, kinikinauguana, asheninkacampa, mandawakamandahuaca, enawenemaweenawenenawe, wapixanawapishana, warekena, guinauguinao, mawayanamapidian, palikur, barebarawana, aruaarua, saraveka, waurawaura, bahuanashiriana, kurripacowakuenai, caquintepoyenisati, marawan, resigaroresigaro, piapocodzaze	137	U+005e U+0073
 ^tʃ	tʃ	tʃa, tʃinu	pasepase, chamicuro, warekena, trinitariomoxos, wainuma, cabiyaricaviyari, baure, manxinerimachinere, achagua, tariana, yawalapitiyawalapiti, mawayanamapidian, inapariinamari, amueshayanesha, kinikinauguana, karutanakarutana, yumana, caquintepoyenisati, paraujanoanu, piroyine, barebarawana, mandawakamandahuaca, ignacianomoxos, guajirowayuu, apurinaapurina, paresiparecis, yukunamatapi, matchiguengamatsigenka, guinauguinao, banivaavanibaniwado, piapocodzaze	112	U+005e U+0074 U+0283
-^ts	t s	tsinane, tsuida	banivaavanibaniwado, matchiguengamatsigenka, asheninkacampa, kauixana, nomatsiguenga, baniwaicana, yaviteroparaene, yumana, bahuanashiriana, kurripacowakuenai, resigaroresigaro, amueshayanesha, caquintepoyenisati, warekena, yawalapitiyawalapiti, marawan, wainuma, guinauguinao, apurinaapurina, paresiparecis, tariana, waurawaura, mandawakamandahuaca, trinitariomoxos, ignacianomoxos, piroyine	105	U+005e U+0074 U+0073
+^ts	ts	tsinane, tsuida	banivaavanibaniwado, matchiguengamatsigenka, asheninkacampa, kauixana, nomatsiguenga, baniwaicana, yaviteroparaene, yumana, bahuanashiriana, kurripacowakuenai, resigaroresigaro, amueshayanesha, caquintepoyenisati, warekena, yawalapitiyawalapiti, marawan, wainuma, guinauguinao, apurinaapurina, paresiparecis, tariana, waurawaura, mandawakamandahuaca, trinitariomoxos, ignacianomoxos, piroyine	105	U+005e U+0074 U+0073
 ^o	o	oni, otaki	amueshayanesha, nomatsiguenga, asheninkacampa, caquintepoyenisati, lokonoarawak, yumana, matchiguengamatsigenka, guajirowayuu, paraujanoanu, resigaroresigaro, enawenemaweenawenenawe, trinitariomoxos, terenaterena, anauya, pasepase, chamicuro, marawamaragua, tainotaino, kurripacowakuenai, apurinaapurina, garifunablackcarib, aruaarua, paresiparecis, kinikinauguana, saraveka, kauixana, marawan, waraicu, guinauguinao, islandcaribkarifuna, inapariinamari	104	U+005e U+006f
 ^d	d	daka, deːta	barebarawana, lokonoarawak, bahuanashiriana, aruaarua, garifunablackcarib, guinauguinao, tariana, mandawakamandahuaca, enawenemaweenawenenawe, tainotaino, anauya, wainuma, islandcaribkarifuna, marawamaragua, achagua, palikur, paraujanoanu, resigaroresigaro, piapocodzaze, karutanakarutana, kurripacowakuenai, kauixana, marawan, mawayanamapidian, banivaavanibaniwado, baniwaicana	92	U+005e U+0064
 ^b	b	bana, biama	lokonoarawak, tainotaino, islandcaribkarifuna, garifunablackcarib, barebarawana, achagua, wainuma, palikur, bahuanashiriana, wapixanawapishana, kauixana, warekena, banivaavanibaniwado, yumana, baure, marawamaragua, mandawakamandahuaca, maipure, anauya, waraicu, guinauguinao, manao, resigaroresigaro, yaviteroparaene, piapocodzaze, paresiparecis	87	U+005e U+0062
@@ -84,7 +86,6 @@ dʒ	dʒ	oːdʒadʒaʔ, idʒa	resigaroresigaro, guinauguinao, wainuma	29	U+0064 U
 ʔ$	ʔ	tsaphoʔ, ipogiʔ	resigaroresigaro, baure, terenaterena, garifunablackcarib, cabiyaricaviyari	27	U+0294 U+0024
 ĩ$	ĩ	karitʃhũĩ, sĩjãlakĩ	mehinaku, kauixana, waurawaura, manxinerimachinere, inapariinamari, enawenemaweenawenenawe, cabiyaricaviyari, apurinaapurina, mawayanamapidian, wainuma, barebarawana, mandawakamandahuaca	26	U+0129 U+0024
 aa$	aː	maa, aikaľa-waa	guajirowayuu, manao, cabiyaricaviyari, trinitariomoxos, marawan, caquintepoyenisati, wainuma, baniwaicana, wapixanawapishana	26	U+0061 U+0061 U+0024
-aa$	aa	tanaa, -waa	kauixana, yawalapitiyawalapiti, achagua		
 k$	k	penek, tʃonok	baure, palikur, amueshayanesha, manxinerimachinere, paraujanoanu, achagua, waurawaura, aruaarua	26	U+006b U+0024
 ã$	ã	ĩporã, mepĩjãwã	mandawakamandahuaca, apurinaapurina, waurawaura, barebarawana, marawamaragua, mehinaku, manxinerimachinere, mawayanamapidian, tariana, warekena	26	U+00e3 U+0024
 aː$	aː	taː, -taː	baniwaicana, achagua, resigaroresigaro, caquintepoyenisati, wapixanawapishana, manao, cabiyaricaviyari, maipure, kurripacowakuenai	25	U+0061 U+02d0 U+0024
@@ -100,7 +101,6 @@ d’	dʲ 	id’ua-ɻi	barebarawana	24	U+2019
 ĩ	ĩ	hĩhĩte, mepĩjãwã	manxinerimachinere, waurawaura, inapariinamari, mehinaku, mawayanamapidian, enawenemaweenawenenawe, apurinaapurina, kauixana	21	U+0129
 t$	t	nit, yet	palikur, amueshayanesha, paraujanoanu, caquintepoyenisati, yaviteroparaene, trinitariomoxos, kauixana, terenaterena, waraicu, yawalapitiyawalapiti	21	U+0074 U+0024
 aa	aː	hɨ-pɨʃuaaľeeya, paaktexa	matchiguengamatsigenka, nomatsiguenga, guajirowayuu, wainuma, paraujanoanu, marawan, asheninkacampa, mandawakamandahuaca	21	U+0061 U+0061
-aa	aa	ίtʃaagua, tʃaá(ma)	garifunablackcarib, saraveka, kauixana, yumana		
 c	c	oconuco, roco	tainotaino, bahuanashiriana, kauixana, yumana, saraveka, paresiparecis	20	U+0063
 ^aː	aː	-aːpi, aːpa	baniwaicana, resigaroresigaro, kurripacowakuenai, caquintepoyenisati, waraicu, banivaavanibaniwado, mandawakamandahuaca	20	U+005e U+0061 U+02d0
 kh	kʰ	mikha, kewereakhe	kurripacowakuenai, cabiyaricaviyari, wapixanawapishana, baniwaicana, lokonoarawak, barebarawana, resigaroresigaro	20	U+006b U+0068
@@ -114,7 +114,6 @@ N	N/n	tʃaNtʃanahai, katsaNtsa	caquintepoyenisati, nomatsiguenga, garifunablack
 r$	r	ner, ar	palikur, baure, paraujanoanu, marawan, tainotaino, caquintepoyenisati, banivaavanibaniwado	18	U+0072 U+0024
 f	f	-vafou, -hafuta	garifunablackcarib, resigaroresigaro, kurripacowakuenai, islandcaribkarifuna, bahuanashiriana, kinikinauguana, marawan	17	U+0066
 ii	iː	wiiphiaɻu, siila	piroyine, guajirowayuu, wainuma, matchiguengamatsigenka, chamicuro, baniwaicana	17	U+0069 U+0069
-ii	ii	igiina, kiitsapa-i	islandcaribkarifuna, garifunablackcarib, kauixana, yawalapitiyawalapiti, waurawaura, saraveka		
 ^ɖ	ɖ	ɖiː, ɖɨnaj	wapixanawapishana	16	U+005e U+0256
 ^ɲ	ɲ	ɲika, ɲɨ	kauixana, ignacianomoxos, tariana, yawalapitiyawalapiti, yukunamatapi, manao, cabiyaricaviyari, paraujanoanu, apurinaapurina, garifunablackcarib, baniwaicana	16	U+005e U+0272
 0	NULL	unka..…	yukunamatapi, bahuanashiriana, tariana, resigaroresigaro, guinauguinao	15	U+002e
@@ -125,7 +124,6 @@ m$	m	nâum, -am-	tainotaino, baure, amueshayanesha, kinikinauguana, resigaroresi
 à	à/a	yàapusài, kàiná	piapocodzaze	14	U+00e0
 ^ʂ	ʂ	ʂialili, ʂano	banivaavanibaniwado, chamicuro, mehinaku	14	U+005e U+0282
 ee	eː	hɨ-pɨʃuaaľeeya, yeenka	paraujanoanu, asheninkacampa, chamicuro, guajirowayuu, trinitariomoxos, wainuma, baniwaicana	14	U+0065 U+0065
-ee	ee	etʃeena, -neetse	saraveka, garifunablackcarib, waurawaura, karutanakarutana		
 s$	s	kis, ihos	baure, tainotaino, palikur, aruaarua, mawayanamapidian	14	U+0073 U+0024
 ^ʒ	ʒ	ʒiːba, ʒiweːda	guinauguinao, bahuanashiriana	13	U+005e U+0292
 ^th	tʰ	thi, thuʔba	tariana, wapixanawapishana, lokonoarawak, cabiyaricaviyari, kurripacowakuenai, karutanakarutana, terenaterena, baniwaicana, mandawakamandahuaca	13	U+005e U+0074 U+0068
@@ -153,7 +151,6 @@ x	x	paaktexa, guaxeri	kinikinauguana, marawan, tainotaino, palikur, guinauguinao
 õ	õ	-yõyõba, hõnɨ	apurinaapurina, mawayanamapidian, manxinerimachinere, enawenemaweenawenenawe	8	U+00f5
 ^ú	ú/u	úpana, úmama	garifunablackcarib, ignacianomoxos, terenaterena, piapocodzaze	8	U+005e U+00fa
 uu$	uː	wayuu, nuu	guajirowayuu, wainuma, wapixanawapishana	7	U+0075 U+0075 U+0024
-uu$	uu	uikenuu, larapuu	yumana, kauixana		
 eʼ$	eˀ	poʐaʐeʼ, emmoʼɾateʼ	amueshayanesha	7	U+0065 U+02bc U+0024
 ʧ	ʧ	aĩʧa-pai, iʧeke	waurawaura, mehinaku	7	U+02a7
 tʃ$	tʃ	tetʃ, tsatʃ	baure, amueshayanesha, trinitariomoxos	7	U+0074 U+0283 U+0024
@@ -165,7 +162,6 @@ a:	aː	nu-ya:baru, ewa:ʒu	mandawakamandahuaca	7	U+0061 U+003a
 ^ί	ί/i	ίtʃaaha, ίtʃaagua	garifunablackcarib	7	U+005e U+03af
 ʃ$	ʃ	yeʐaʃ, amoʃ	amueshayanesha, baure, saraveka	6	U+0283 U+0024
 uu	uː	muuku, -kuuntakewa	guajirowayuu, cabiyaricaviyari, mandawakamandahuaca	6	U+0075 U+0075
-uu	uu	-tsuutuni, tuuka	garifunablackcarib, kauixana, waurawaura		
 β	β	tʃoβekos, aβotsi	caquintepoyenisati, matchiguengamatsigenka, baure, ignacianomoxos	6	U+03b2
 ô	ô/o	mapôi, mopôi	terenaterena	6	U+00f4
 ’$	ʔ	-tsa’, uara’	tainotaino, wainuma	6	U+2019 U+0024
@@ -175,7 +171,6 @@ w$	w	wew, -tuw	palikur, yawalapitiyawalapiti, marawamaragua	6	U+0077 U+0024
 ^ã	ã	ãitya, ãĩtya-	apurinaapurina, waurawaura, tariana	6	U+005e U+00e3
 hw	ʰw	-uːhwaː, wahwehi	yukunamatapi, baniwaicana, kauixana	6	U+0068 U+0077
 ii$	iː	te-kii, khiwinii	wapixanawapishana, guajirowayuu	6	U+0069 U+0069 U+0024
-ii$	ii	tii, marpii	islandcaribkarifuna, yumana, terenaterena		
 ^é	é/e	éeri, éewéeri	ignacianomoxos, piapocodzaze, garifunablackcarib	6	U+005e U+00e9
 gh	gʰ 	tʃighe, yirogho	paraujanoanu	5	U+0067 U+0068
 aʼ	aˀ	paʼtalj, eseʃaʼt	amueshayanesha	5	U+0061 U+02bc
@@ -188,7 +183,6 @@ mh	mʰ	emhani, ahimimhu	kauixana, manxinerimachinere, cabiyaricaviyari, tariana	
 ^e$	e	-e, e	banivaavanibaniwado, achagua, warekena, tariana, mandawakamandahuaca	5	U+005e U+0065 U+0024
 ^ɻ	ɻ	ɻuaʔa, -ɻauna	achagua, baniwaicana, bahuanashiriana	5	U+005e U+027b
 ^ii	iː	iila, iitsoki	chamicuro, asheninkacampa	5	U+005e U+0069 U+0069
-^ii	ii	iihi, iitsai	waurawaura, yukunamatapi, piapocodzaze		
 ^ɸ	ɸ	ɸarin, ɸiron	bahuanashiriana, lokonoarawak	5	U+005e U+0278
 ũ$	ũ	-pĩjũ, -tulũ	barebarawana, waurawaura, mandawakamandahuaca	5	U+0169 U+0024
 iː$	iː	ɖiː, niː	wapixanawapishana, resigaroresigaro, maipure, cabiyaricaviyari	5	U+0069 U+02d0 U+0024
@@ -218,7 +212,6 @@ oʼ	oˀ	poʼʃeʼ, koljoʼyets	amueshayanesha	4	U+006f U+02bc
 r̥	r̥	ir̥uti, tsɨr̥ɨ	yawalapitiyawalapiti	4	U+0072 U+0325
 ss	s s	nesse, esse	enawenemaweenawenenawe, waraicu, yumana	4	U+0073 U+0073
 ^aa	aː	-aapɨ, aapana	wainuma, paraujanoanu	4	U+005e U+0061 U+0061
-^aa	aa	aata, aapemári	inapariinamari, yawalapitiyawalapiti		
 ɸ	ɸ	-waɸu, -haɸuta	bahuanashiriana	3	U+0278
 ç	ç	maçida, açu	bahuanashiriana, manxinerimachinere	3	U+00e7
 eʼ	eˀ	pueʼtʃ, pueʼljomeɾ	amueshayanesha	3	U+0065 U+02bc
@@ -226,7 +219,6 @@ ww	w w	duwwe, awwe	enawenemaweenawenenawe, palikur	3	U+0077 U+0077
 n̥	n̥	-in̥iu, hameːʔn̥aʔoː	resigaroresigaro	3	U+006e U+0325
 î	î/i	harîrine, sînji	terenaterena	3	U+00ee
 ^aa$	aː	-aa	baniwaicana	3	U+005e U+0061 U+0061 U+0024
-^aa$	aa	-aa, aa	inapariinamari, kauixana		
 ns	n s	aynsima, polosiensi	barebarawana, kauixana, palikur	3	U+006e U+0073
 ^ô	ô/o	ôpe, ôo	terenaterena	3	U+005e U+00f4
 oo	oː	mmoo-ľuʔu, tooľo	guajirowayuu, paraujanoanu	3	U+006f U+006f
