@@ -77,14 +77,10 @@ class Dataset(BaseDataset):
                         if form in ["-", ""]:
                             continue
 
-                        # tokenize
-                        segments = self.tokenizer(None, form, column='IPA')
-
                         # add form
                         for row in ds.add_lexemes(
                             Language_ID=lang_map[lang],
                             Parameter_ID=pid,
                             Value=form,
-                            Segments=segments,
                             Source=['walker2011']):
                             pass
