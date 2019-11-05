@@ -1,86 +1,54 @@
 # encoding: utf-8
-from __future__ import unicode_literals, print_function
-from collections import OrderedDict, defaultdict
-
 import attr
+from pathlib import Path
+
 from clldutils.misc import slug
-from clldutils.path import Path
-from clldutils.text import split_text, strip_brackets
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.dataset import NonSplittingDataset
-from pylexibank.dataset import Concept, Language
+from pylexibank import Dataset as BaseDataset
+from pylexibank import Language as BaseLanguage
+from pylexibank import FormSpec
 
-from tqdm import tqdm
 
-import csv
-import lingpy
+@attr.s
+class Language(BaseLanguage):
+    Full_Name = attr.ib(default=None)
+    Latitude = attr.ib(default=None)
+    Longitude = attr.ib(default=None)
+
 
 class Dataset(BaseDataset):
     id = 'walkerarawakan'
     dir = Path(__file__).parent
-    concept_class = Concept
     language_class = Language
 
-    def cmd_download(self, **kw):
-        # nothing to do, as the raw data is in the repository
+    form_spec = FormSpec(
+        brackets={"[": "]", "{": "}", "(": ")", "‘": "’"},
+        separators=";/,",
+        missing_data=('-', ''),
+        strip_inside_brackets=True
+    )
+    
+    def cmd_download(self, args):
         pass
 
-    def cmd_install(self, **kw):
-        # read raw lexical data
-        raw_data = self.dir.joinpath('raw', 'Arawakan-lexemes.tsv')
-        with open(raw_data.as_posix()) as csvfile:
-            reader = csv.DictReader(csvfile, delimiter='\t')
-            raw_entries = [row for row in reader]
+    def cmd_makecldf(self, args):
+        args.writer.add_sources()
+        
+        concepts = args.writer.add_concepts(
+            id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
+            lookup_factory="Name"
+        )
+        
+        languages = args.writer.add_languages(
+            lookup_factory='Name',
+        )
+        for row in self.raw_dir.read_csv('Arawakan-lexemes.tsv', dicts=True, delimiter="\t"):
+            for col in row:
+                if col in ('ID', 'English'):
+                    continue
 
-        # add information to the dataset
-        with self.cldf as ds:
-            # add sources
-            ds.add_sources(*self.raw.read_bib())
-
-            # add languages
-            lang_map = {}
-            for language in self.languages:
-                lid = slug(language['Name'])
-                ds.add_language(
-                    ID=lid,
-                    Name=language['Name'],
-                    Glottolog_Name=language['Glottolog_Name'],
-                    Glottocode=language['Glottocode'],
+                lex = args.writer.add_forms_from_value(
+                    Language_ID=languages[col],
+                    Parameter_ID=concepts.get(row['English']),
+                    Value=row[col],
+                    Source=['walker2011']
                 )
-                lang_map[language['Name'].strip()] = lid
-
-            # add concepts
-            for concept in self.concepts:
-                ds.add_concept(
-                    ID=concept['ID'],
-                    Name=concept['ENGLISH'],
-                    Concepticon_ID=concept['CONCEPTICON_ID'],
-                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
-                )
-
-            # add lexemes
-            for idx, entry in tqdm(enumerate(raw_entries), desc='make-cldf'):
-                # Add all entries (columns) except `ID`, which holds the
-                # parameter id, and `English`, with a gloss
-                entry.pop('English')
-                pid = entry.pop('ID')
-
-                for lang, value in entry.items():
-                    lang = lang.strip()
-
-                    for form in split_text(value, separators='/,', strip=True):
-                        # strip only square brackets (others have phonological
-                        # material inside)
-                        form = strip_brackets(form, brackets={'[':']'})
-
-                        # skip over empty forms
-                        if form in ["-", ""]:
-                            continue
-
-                        # add form
-                        for row in ds.add_lexemes(
-                            Language_ID=lang_map[lang],
-                            Parameter_ID=pid,
-                            Value=form,
-                            Source=['walker2011']):
-                            pass
