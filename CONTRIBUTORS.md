@@ -1,7 +1,7 @@
 # Contributors
 
-Name | GitHub user | Role
------|-------------|------
-Tiago Tresoldi | @tresoldi | maintainer, setup file
-Natalia Morozova | @natalia-morozova | orthographic profile
+Name | GitHub user | Descripion | Role
+-----|-------------|------ | -----
+Tiago Tresoldi | @tresoldi | patron, setup file, code | Author
+Natalia Morozova | @natalia-morozova | orthographic profile | Author
 

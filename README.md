@@ -1,4 +1,4 @@
-# walkerarawakan
+# CLDF dataset derived from Walker and Ribeiro's "Bayesian Phylogeography of the Arawak expansion" from 2011
 
 Cite the source dataset as
 
@@ -24,3 +24,13 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Tokens:** 32,042
 - **Segments:** 134 (0 BIPA errors, 0 CTLS sound class errors, 134 CLTS modified)
 - **Inventory size (avg):** 28.33
+
+# Contributors
+
+Name | GitHub user | Descripion | Role
+-----|-------------|------ | -----
+Tiago Tresoldi | @tresoldi | patron, setup file, code | Author
+Natalia Morozova | @natalia-morozova | orthographic profile | Author
+
+
+

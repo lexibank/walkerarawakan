@@ -1,61 +1,61 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Full_Name
-Achagua,Achagua,acha1250,,aca,,4.42,-72.25,,Achagua
-Anauya,Anauyá,anau1243,,,,-2,-66,,Anauya
-Apurina,Apurinã,apur1254,,apu,,-9,-67,,Apurina (Apurinã)
-Araicu,Araicu,arai1239,,,,-3.1,-67.9,,Waraicu
-Aruan,Aruan,arua1264,,,,0,-50,,Arua (Aruã)
-Ashaninka,Asháninka,asha1243,,cni,,-12,-74,,Asheninka (Campa)
-Avane,Avane,bani1254,,bvv,,2.71,-67.55,,Baniva (Avani Baniwa do)
-BaniwaDoIcana,Baniwa do Icana,bani1255,,bwi,,2.67,-66.83,,Baniwa (Içana)
-Bare,Baré,bare1276,,bae,,1,-67,,Bare (Barawana)
-Baure,Baure,baur1253,,brg,,-13.08,-64.17,,Baure 
-Cabiyari,Cabiyarí,cabi1241,,cbb,,-0.5,-71.5,,Cabiyari (Caviyari)
-Caquinte,Caquinte,caqu1242,,cot,,-11.5,-73.5,,Caquinte (Poyenisati)
-Cariai,Cariai,cari1280,,,,-2,-62,,Cabiai (Cariaí)
-Chamicuro,Chamicuro,cham1318,,ccc,,-5.17,-75.67,,Chamicuro
-Curripaco,Curripaco,curr1243,,kpc,,2.5,-68.5,,Kurripaco (Wakuenai)
-EnaweneNawe,Enawené-Nawé,enaw1238,,unk,,-12.2,-58.6,,Enawene-Mawe (Enawenê-Nawê)
-Garifuna,Garifuna,gari1256,,cab,,15.67,-88,,Garifuna (Black Carib)
-Guinau,Guinau,guin1258,,,,4.5,-64.3,,Guinau (Guinao)
-Ignaciano,Ignaciano,igna1246,,ign,,-15.17,-65.42,,Ignaciano (Moxos)
-Inapari,Iñapari,inap1243,,inp,,-12.5,-69.33,,Inapari (Inamari)
-IslandCarib,Island Carib,isla1278,,crb,,15.4,-61.3,,Island Carib (Karífuna)
-Jumana,Jumana,juma1250,,,,-2,-68,,Yumana
-Kaishana,Kaishana,kais1242,,,,-2.5,-68,,Kauixana
+Achagua,Achagua,acha1250,Achagua,aca,South America,4.42,-72.25,Arawakan,Achagua
+Anauya,Anauyá,anau1243,Anauyá,,South America,-2,-66,Arawakan,Anauya
+Apurina,Apurinã,apur1254,Apurinã,apu,South America,-9,-67,Arawakan,Apurina (Apurinã)
+Araicu,Araicu,arai1239,Araicu,,South America,-3.1,-67.9,Arawakan,Waraicu
+Aruan,Aruan,arua1264,Aruan,,South America,0,-50,Arawakan,Arua (Aruã)
+Ashaninka,Asháninka,asha1243,Asháninka,cni,South America,-12,-74,Arawakan,Asheninka (Campa)
+Avane,Avane,bani1254,Avane,bvv,South America,2.71,-67.55,Arawakan,Baniva (Avani Baniwa do)
+BaniwaDoIcana,Baniwa do Icana,bani1255,Baniwa do Icana,bwi,South America,2.67,-66.83,Arawakan,Baniwa (Içana)
+Bare,Baré,bare1276,Baré,bae,South America,1,-67,Arawakan,Bare (Barawana)
+Baure,Baure,baur1253,Baure,brg,South America,-13.08,-64.17,Arawakan,Baure 
+Cabiyari,Cabiyarí,cabi1241,Cabiyarí,cbb,South America,-0.5,-71.5,Arawakan,Cabiyari (Caviyari)
+Caquinte,Caquinte,caqu1242,Caquinte,cot,South America,-11.5,-73.5,Arawakan,Caquinte (Poyenisati)
+Cariai,Cariai,cari1280,Cariay,,South America,-2,-62,Arawakan,Cabiai (Cariaí)
+Chamicuro,Chamicuro,cham1318,Chamicuro,ccc,South America,-5.17,-75.67,Arawakan,Chamicuro
+Curripaco,Curripaco,curr1243,Curripaco,kpc,South America,2.5,-68.5,Arawakan,Kurripaco (Wakuenai)
+EnaweneNawe,Enawené-Nawé,enaw1238,Enawené-Nawé,unk,South America,-12.2,-58.6,Arawakan,Enawene-Mawe (Enawenê-Nawê)
+Garifuna,Garifuna,gari1256,Garifuna,cab,North America,15.67,-88,Arawakan,Garifuna (Black Carib)
+Guinau,Guinau,guin1258,Guinau,,South America,4.5,-64.3,Arawakan,Guinau (Guinao)
+Ignaciano,Ignaciano,igna1246,Ignaciano,ign,South America,-15.17,-65.42,Arawakan,Ignaciano (Moxos)
+Inapari,Iñapari,inap1243,Iñapari,inp,South America,-12.5,-69.33,Arawakan,Inapari (Inamari)
+IslandCarib,Island Carib,isla1278,Island Carib,crb,North America,15.4,-61.3,Arawakan,Island Carib (Karífuna)
+Jumana,Jumana,juma1250,Jumana,,South America,-2,-68,Arawakan,Yumana
+Kaishana,Kaishana,kais1242,Kaishana,,South America,-2.5,-68,Arawakan,Kauixana
 Karutana,Karutana,,,,,2.6,-68,,Karutana (Karútana)
-Kinikinao,Kinikinao,guan1270,,gqn,,-21.5,-57.6,,Kinikinau (Guaná)
-Lokono,Lokono,araw1276,,arw,,5.5,-55.17,,Lokono (Arawak)
-Machiguenga,Machiguenga,mach1267,,mcb,,-12,-72.67,,Matchiguenga (Matsigenka)
-Machinere,Machinere,mach1268,,mpd,,-10.67,-70.25,,Manxineri (Machinere)
-Maipure,Maipure,maip1246,,,,4.8,-67.7,,Maipure
-Manao,Manao,mana1299,,,,-1,-63,,Manao
-Mandahuaca,Mandahuaca,mand1448,,mht,,1.75,-66.83,,Mandawaka (Mandahuaca)
-MapidianMawayana,Mapidian-Mawayana,mapi1252,,mpw,,4.5,-58.3,,Mawayana (Mapidian)
-Maragua,Maragua,mara1409,,,,-3,-66,,Marawa (Maragua)
-Marawan,Marawan,mara1408,,,,3.9,-51.8,,Marawan
-Mariate,Mariate,uain1239,,,,-3,-68,,Mariate
-Mehinaku,Mehináku,mehi1240,,mmh,,-12.5,-53.42,,Mehinaku
-Nomatsiguenga,Nomatsiguenga,noma1263,,not,,-11.67,-74.5,,Nomatsiguenga
-Palikur,Palikúr,pali1279,,plu,,3,-51,,Palikur
-Paraujano,Paraujano,para1316,,pbg,,10.83,-71.92,,Paraujano (Añú)
-Parecis,Parecís,pare1272,,pab,,-14,-57,,Paresi (Parecís)
-Passe,Passe,pass1250,,,,-3,-68,,Pase (Pasé)
-Piapoco,Piapoco,piap1246,,pio,,4,-69.5,,Piapoco (Dzaze)
-Resigaro,Resígaro,resi1247,,rgr,,-2.42,-71.5,,Resigaro (Resígaro)
-Saraveca,Saraveca,sara1331,,sar,,-15,-60,,Saraveka
-Taino,Taino,tain1254,,tnq,,24.3,-76,,Taino (Taíno)
-Tariana,Tariana,tari1256,,tae,,1,-69.17,,Tariana
-Terena,Terena,tere1281,,ter,,-20,-56,,Terena (Terêna)
-Trinitario,Trinitario,trin1274,,trn,,-15.33,-65.42,,Trinitario (Moxos)
-Wainuma,Wainuma,uain1239,,,,-3,-68,,Uainuma
-Wapishana,Wapishana,wapi1253,,wap,,2.67,-60,,Wapixana (Wapishana)
+Kinikinao,Kinikinao,guan1270,Kinikinao,gqn,South America,-21.5,-57.6,Arawakan,Kinikinau (Guaná)
+Lokono,Lokono,araw1276,Lokono,arw,South America,5.5,-55.17,Arawakan,Lokono (Arawak)
+Machiguenga,Machiguenga,mach1267,Machiguenga,mcb,South America,-12,-72.67,Arawakan,Matchiguenga (Matsigenka)
+Machinere,Machinere,mach1268,Machinere,mpd,South America,-10.67,-70.25,Arawakan,Manxineri (Machinere)
+Maipure,Maipure,maip1246,Maipure,,South America,4.8,-67.7,Arawakan,Maipure
+Manao,Manao,mana1299,Manao,,South America,-1,-63,Arawakan,Manao
+Mandahuaca,Mandahuaca,mand1448,Mandahuaca,mht,South America,1.75,-66.83,Arawakan,Mandawaka (Mandahuaca)
+MapidianMawayana,Mapidian-Mawayana,mapi1252,Mapidian-Mawayana,mpw,South America,4.5,-58.3,Arawakan,Mawayana (Mapidian)
+Maragua,Maragua,mara1409,Maragua,,South America,-3,-66,Arawakan,Marawa (Maragua)
+Marawan,Marawan,mara1408,Marawan,,South America,3.9,-51.8,Arawakan,Marawan
+Mariate,Mariate,uain1239,Uainuma-Mariate,,South America,-3,-68,Arawakan,Mariate
+Mehinaku,Mehináku,mehi1240,Mehináku,mmh,South America,-12.5,-53.42,Arawakan,Mehinaku
+Nomatsiguenga,Nomatsiguenga,noma1263,Nomatsiguenga,not,South America,-11.67,-74.5,Arawakan,Nomatsiguenga
+Palikur,Palikúr,pali1279,Palikúr,plu,South America,3,-51,Arawakan,Palikur
+Paraujano,Paraujano,para1316,Paraujano,pbg,South America,10.83,-71.92,Arawakan,Paraujano (Añú)
+Parecis,Parecís,pare1272,Parecís,pab,South America,-14,-57,Arawakan,Paresi (Parecís)
+Passe,Passe,pass1250,Passe,,South America,-3,-68,Arawakan,Pase (Pasé)
+Piapoco,Piapoco,piap1246,Piapoco,pio,South America,4,-69.5,Arawakan,Piapoco (Dzaze)
+Resigaro,Resígaro,resi1247,Resígaro,rgr,South America,-2.42,-71.5,Arawakan,Resigaro (Resígaro)
+Saraveca,Saraveca,sara1331,Saraveca,sar,South America,-15,-60,Arawakan,Saraveka
+Taino,Taino,tain1254,Taino,tnq,North America,24.3,-76,Arawakan,Taino (Taíno)
+Tariana,Tariana,tari1256,Tariana,tae,South America,1,-69.17,Arawakan,Tariana
+Terena,Terena,tere1281,Terena,ter,South America,-20,-56,Arawakan,Terena (Terêna)
+Trinitario,Trinitario,trin1274,Trinitario-Javeriano-Loretano,trn,South America,-15.33,-65.42,Arawakan,Trinitario (Moxos)
+Wainuma,Wainuma,uain1239,Uainuma-Mariate,,South America,-3,-68,Arawakan,Uainuma
+Wapishana,Wapishana,wapi1253,Wapishana,wap,South America,2.67,-60,Arawakan,Wapixana (Wapishana)
 Warekena,Warekena,,,,,1.5,-67.5,,Warekena
-WarekenaVelha,Warekena Velha,ware1255,,,,1.5,-67.5,,Warekena
-Waura,Waurá,waur1244,,wau,,-12.4,-53.6,,Waura (Waurá)
-Wayuu,Wayuu,wayu1243,,guc,,12,-72,,Guajiro (Wayuu)
-Xiriana,Xiriâna,xiri1243,,xir,,-0.5,-62.5,,Bahuana (Shiriana)
-Yanesha,Yanesha',yane1238,,ame,,-10.5,-75.42,,Amuesha (Yanesha')
-Yavitero,Yavitero,yavi1244,,yvt,,2.4,-67.5,,Yavitero (Paraene)
-Yawalapiti,Yawalapití,yawa1261,,yaw,,-12.2,-53.3,,Yawalapiti (Yawalapití)
-Yine,Yine,yine1238,,pib,,-11,-73,,Piro (Yine)
-Yucuna,Yucuna,yucu1253,,ycn,,-0.75,-71,,Yukuna (Matapi)
+WarekenaVelha,Warekena Velha,ware1255,Warekena Velha,,South America,1.5,-67.5,Arawakan,Warekena
+Waura,Waurá,waur1244,Waurá,wau,South America,-12.4,-53.6,Arawakan,Waura (Waurá)
+Wayuu,Wayuu,wayu1243,Wayuu,guc,South America,12,-72,Arawakan,Guajiro (Wayuu)
+Xiriana,Xiriâna,xiri1243,Xiriâna,xir,South America,-0.5,-62.5,Arawakan,Bahuana (Shiriana)
+Yanesha,Yanesha',yane1238,Yanesha',ame,South America,-10.5,-75.42,Arawakan,Amuesha (Yanesha')
+Yavitero,Yavitero,yavi1244,Yavitero,yvt,South America,2.4,-67.5,Arawakan,Yavitero (Paraene)
+Yawalapiti,Yawalapití,yawa1261,Yawalapití,yaw,South America,-12.2,-53.3,Arawakan,Yawalapiti (Yawalapití)
+Yine,Yine,yine1238,Yine,pib,South America,-11,-73,Arawakan,Piro (Yine)
+Yucuna,Yucuna,yucu1253,Yucuna,ycn,South America,-0.75,-71,Arawakan,Yukuna (Matapi)
