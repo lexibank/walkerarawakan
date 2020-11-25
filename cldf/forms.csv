@@ -16,7 +16,7 @@ Caquinte-1_i-1,,Caquinte,1_i,no,no,n o,,walker2011,,,^n o$,default
 Cariai-1_i-1,,Cariai,1_i,ni-wai,ni-wai,n i + w a i,,walker2011,,,^n i - w a i$,default
 Chamicuro-1_i-1,,Chamicuro,1_i,uʔti,uʔti,u ʔ t i,,walker2011,,,^u ʔ t i$,default
 EnaweneNawe-1_i-1,,EnaweneNawe,1_i,nato,nato,n a t o,,walker2011,,,^n a t o$,default
-Garifuna-1_i-1,,Garifuna,1_i,au[m] nuguya[f],au nuguya,a u + n u g u y a,,walker2011,,,^a u + n u g u y a$,default
+Garifuna-1_i-1,,Garifuna,1_i,au[m] nuguya[f],au_nuguya,a u + n u g u y a,,walker2011,,,^a u _ n u g u y a$,default
 Wayuu-1_i-1,,Wayuu,1_i,ta-ya,ta-ya,t a + y a,,walker2011,,,^t a - y a$,default
 Guinau-1_i-1,,Guinau,1_i,ndu,ndu,n d u,,walker2011,,,^n d u$,default
 Ignaciano-1_i-1,,Ignaciano,1_i,núti,núti,n ú/u t i,,walker2011,,,^n ú t i$,default
@@ -174,8 +174,8 @@ Parecis-3_we-1,,Parecis,3_we,witso,witso,w i ts o,,walker2011,,,^w i ts o$,defau
 Passe-3_we-1,,Passe,3_we,wela,wela,w e l a,,walker2011,,,^w e l a$,default
 Piapoco-3_we-1,,Piapoco,3_we,wía,wía,w í/i a,,walker2011,,,^w í a$,default
 Yine-3_we-1,,Yine,3_we,wija,wija,w i j a,,walker2011,,,^w i j a$,default
-Resigaro-3_we-1,,Resigaro,3_we,"faʔa [excl.], mouʔa [incl.]",faʔa,f a ʔ a,,walker2011,,,^f a ʔ a$,default
-Resigaro-3_we-2,,Resigaro,3_we,"faʔa [excl.], mouʔa [incl.]",mouʔa,m o u ʔ a,,walker2011,,,^m o u ʔ a$,default
+Resigaro-3_we-1,,Resigaro,3_we,"faʔa [excl.], mouʔa [incl.]",faʔa_,f a ʔ a,,walker2011,,,^f a ʔ a _$,default
+Resigaro-3_we-2,,Resigaro,3_we,"faʔa [excl.], mouʔa [incl.]",mouʔa_,m o u ʔ a,,walker2011,,,^m o u ʔ a _$,default
 Saraveca-3_we-1,,Saraveca,3_we,avi,avi,a v i,,walker2011,,,^a v i$,default
 Taino-3_we-1,,Taino,3_we,"guakia, ua-, -wo",guakia,g u a k i a,,walker2011,,,^g u a k i a$,default
 Taino-3_we-2,,Taino,3_we,"guakia, ua-, -wo",ua-,u a,,walker2011,,,^u a -$,default
@@ -193,8 +193,8 @@ Yavitero-3_we-1,,Yavitero,3_we,waya,waya,w a y a,,walker2011,,,^w a y a$,default
 Yawalapiti-3_we-1,,Yawalapiti,3_we,aʂu,aʂu,a ʂ u,,walker2011,,,^a ʂ u$,default
 Yucuna-3_we-1,,Yucuna,3_we,weka,weka,w e k a,,walker2011,,,^w e k a$,default
 Jumana-3_we-1,,Jumana,3_we,te-la,te-la,t e + l a,,walker2011,,,^t e - l a$,default
-Achagua-4_this-1,,Achagua,4_this,"liani [m],  ɻuani [f]",liani,l i a n i,,walker2011,,,^l i a n i$,default
-Achagua-4_this-2,,Achagua,4_this,"liani [m],  ɻuani [f]",ɻuani,ɻ u a n i,,walker2011,,,^ɻ u a n i$,default
+Achagua-4_this-1,,Achagua,4_this,"liani [m],  ɻuani [f]",liani_,l i a n i,,walker2011,,,^l i a n i _$,default
+Achagua-4_this-2,,Achagua,4_this,"liani [m],  ɻuani [f]",ɻuani_,ɻ u a n i,,walker2011,,,^ɻ u a n i _$,default
 Yanesha-4_this-1,,Yanesha,4_this,anj,anj,a n j,,walker2011,,,^a n j$,default
 Anauya-4_this-1,,Anauya,4_this,masareni,masareni,m a s a r e n i,,walker2011,,,^m a s a r e n i$,default
 Apurina-4_this-1,,Apurina,4_this,ɨ-je,ɨ-je,ɨ + j e,,walker2011,,,^ɨ - j e$,default
@@ -203,8 +203,8 @@ Xiriana-4_this-1,,Xiriana,4_this,nahi,nahi,n a h i,,walker2011,,,^n a h i$,defau
 Avane-4_this-1,,Avane,4_this,eni,eni,e n i,,walker2011,,,^e n i$,default
 BaniwaDoIcana-4_this-1,,BaniwaDoIcana,4_this,hɻie(hẽ),hɻie,h ɻ i e,,walker2011,,,^h ɻ i e$,default
 Bare-4_this-1,,Bare,4_this,aɻi,aɻi,a ɻ i,,walker2011,,,^a ɻ i$,default
-Baure-4_this-1,,Baure,4_this,"tetʃ [m], titʃ [f]",tetʃ,t e tʃ,,walker2011,,,^t e tʃ$,default
-Baure-4_this-2,,Baure,4_this,"tetʃ [m], titʃ [f]",titʃ,t i tʃ,,walker2011,,,^t i tʃ$,default
+Baure-4_this-1,,Baure,4_this,"tetʃ [m], titʃ [f]",tetʃ_,t e tʃ,,walker2011,,,^t e tʃ _$,default
+Baure-4_this-2,,Baure,4_this,"tetʃ [m], titʃ [f]",titʃ_,t i tʃ,,walker2011,,,^t i tʃ _$,default
 Cabiyari-4_this-1,,Cabiyari,4_this,yari,yari,y a r i,,walker2011,,,^y a r i$,default
 Caquinte-4_this-1,,Caquinte,4_this,irika,irika,i r i k a,,walker2011,,,^i r i k a$,default
 Chamicuro-4_this-1,,Chamicuro,4_this,aneʔye,aneʔye,a n e ʔ y e,,walker2011,,,^a n e ʔ y e$,default
@@ -213,12 +213,12 @@ Garifuna-4_this-1,,Garifuna,4_this,"le, to",le,l e,,walker2011,,,^l e$,default
 Garifuna-4_this-2,,Garifuna,4_this,"le, to",to,t o,,walker2011,,,^t o$,default
 Wayuu-4_this-1,,Wayuu,4_this,tʃia,tʃia,tʃ i a,,walker2011,,,^tʃ i a$,default
 Guinau-4_this-1,,Guinau,4_this,auhu,auhu,a u h u,,walker2011,,,^a u h u$,default
-Ignaciano-4_this-1,,Ignaciano,4_this,"maka [fala m.], ɲika [fala f.]",maka,m a k a,,walker2011,,,^m a k a$,default
-Ignaciano-4_this-2,,Ignaciano,4_this,"maka [fala m.], ɲika [fala f.]",ɲika,ɲ i k a,,walker2011,,,^ɲ i k a$,default
+Ignaciano-4_this-1,,Ignaciano,4_this,"maka [fala m.], ɲika [fala f.]",maka_,m a k a,,walker2011,,,^m a k a _$,default
+Ignaciano-4_this-2,,Ignaciano,4_this,"maka [fala m.], ɲika [fala f.]",ɲika_,ɲ i k a,,walker2011,,,^ɲ i k a _$,default
 Inapari-4_this-1,,Inapari,4_this,tʃaá(ma),tʃaá,tʃ a á/a,,walker2011,,,^tʃ a á$,default
 IslandCarib-4_this-1,,IslandCarib,4_this,tua,tua,t u a,,walker2011,,,^t u a$,default
-Kaishana-4_this-1,,Kaishana,4_this,"cai ima, neh hej",cai ima,c a i + i m a,,walker2011,,,^c a i + i m a$,default
-Kaishana-4_this-2,,Kaishana,4_this,"cai ima, neh hej",neh hej,n e h + h e j,,walker2011,,,^n e h + h e j$,default
+Kaishana-4_this-1,,Kaishana,4_this,"cai ima, neh hej",cai_ima,c a i + i m a,,walker2011,,,^c a i _ i m a$,default
+Kaishana-4_this-2,,Kaishana,4_this,"cai ima, neh hej",neh_hej,n e h + h e j,,walker2011,,,^n e h _ h e j$,default
 Kinikinao-4_this-1,,Kinikinao,4_this,enepone,enepone,e n e p o n e,,walker2011,,,^e n e p o n e$,default
 Curripaco-4_this-1,,Curripaco,4_this,thiaha,thiaha,tʰ i a h a,,walker2011,,,^th i a h a$,default
 Lokono-4_this-1,,Lokono,4_this,lihi,lihi,l i h i,,walker2011,,,^l i h i$,default
@@ -232,7 +232,7 @@ Maragua-4_this-1,,Maragua,4_this,ihehi,ihehi,i h e h i,,walker2011,,,^i h e h i$
 MapidianMawayana-4_this-1,,MapidianMawayana,4_this,ti’a,ti’a,t i ʔ a,,walker2011,,,^t i ’ a$,default
 Mehinaku-4_this-1,,Mehinaku,4_this,ɨʂɨ,ɨʂɨ,ɨ ʂ ɨ,,walker2011,,,^ɨ ʂ ɨ$,default
 Nomatsiguenga-4_this-1,,Nomatsiguenga,4_this,ikwa,ikwa,i kʷ a,,walker2011,,,^i kw a$,default
-Palikur-4_this-1,,Palikur,4_this,"ner [m], ini[n], ner[f]",ner,n e r,,walker2011,,,^n e r$,default
+Palikur-4_this-1,,Palikur,4_this,"ner [m], ini[n], ner[f]",ner_,n e r,,walker2011,,,^n e r _$,default
 Palikur-4_this-2,,Palikur,4_this,"ner [m], ini[n], ner[f]",ini,i n i,,walker2011,,,^i n i$,default
 Palikur-4_this-3,,Palikur,4_this,"ner [m], ini[n], ner[f]",ner,n e r,,walker2011,,,^n e r$,default
 Paraujano-4_this-1,,Paraujano,4_this,tʃi,tʃi,tʃ i,,walker2011,,,^tʃ i$,default
@@ -246,15 +246,15 @@ Terena-4_this-1,,Terena,4_this,ra,ra,r a,,walker2011,,,^r a$,default
 Trinitario-4_this-1,,Trinitario,4_this,tetʃ,tetʃ,t e tʃ,,walker2011,,,^t e tʃ$,default
 Wapishana-4_this-1,,Wapishana,4_this,"ɖiwɨɽaː, wɨɽɨː",ɖiwɨɽaː,ɖ i w ɨ ɽ aː,,walker2011,,,^ɖ i w ɨ ɽ aː$,default
 Wapishana-4_this-2,,Wapishana,4_this,"ɖiwɨɽaː, wɨɽɨː",wɨɽɨː,w ɨ ɽ ɨː,,walker2011,,,^w ɨ ɽ ɨː$,default
-Warekena-4_this-1,,Warekena,4_this,nihiadi kadeka,nihiadi kadeka,n i h i a d i + k a d e k a,,walker2011,,,^n i h i a d i + k a d e k a$,default
+Warekena-4_this-1,,Warekena,4_this,nihiadi kadeka,nihiadi_kadeka,n i h i a d i + k a d e k a,,walker2011,,,^n i h i a d i _ k a d e k a$,default
 WarekenaVelha-4_this-1,,WarekenaVelha,4_this,eni,eni,e n i,,walker2011,,,^e n i$,default
 Waura-4_this-1,,Waura,4_this,ɨʐɨ,ɨʐɨ,ɨ ʐ ɨ,,walker2011,,,^ɨ ʐ ɨ$,default
 Yavitero-4_this-1,,Yavitero,4_this,ini,ini,i n i,,walker2011,,,^i n i$,default
-Yawalapiti-4_this-1,,Yawalapiti,4_this,"iɾi [m], itiɾa [f]",iɾi,i ɾ i,,walker2011,,,^i ɾ i$,default
-Yawalapiti-4_this-2,,Yawalapiti,4_this,"iɾi [m], itiɾa [f]",itiɾa,i t i ɾ a,,walker2011,,,^i t i ɾ a$,default
+Yawalapiti-4_this-1,,Yawalapiti,4_this,"iɾi [m], itiɾa [f]",iɾi_,i ɾ i,,walker2011,,,^i ɾ i _$,default
+Yawalapiti-4_this-2,,Yawalapiti,4_this,"iɾi [m], itiɾa [f]",itiɾa_,i t i ɾ a,,walker2011,,,^i t i ɾ a _$,default
 Yucuna-4_this-1,,Yucuna,4_this,kele,kele,k e l e,,walker2011,,,^k e l e$,default
-Achagua-5_that-1,,Achagua,5_that,"liaʔa [m], ɻuaʔa [f]",liaʔa,l i a ʔ a,,walker2011,,,^l i a ʔ a$,default
-Achagua-5_that-2,,Achagua,5_that,"liaʔa [m], ɻuaʔa [f]",ɻuaʔa,ɻ u a ʔ a,,walker2011,,,^ɻ u a ʔ a$,default
+Achagua-5_that-1,,Achagua,5_that,"liaʔa [m], ɻuaʔa [f]",liaʔa_,l i a ʔ a,,walker2011,,,^l i a ʔ a _$,default
+Achagua-5_that-2,,Achagua,5_that,"liaʔa [m], ɻuaʔa [f]",ɻuaʔa_,ɻ u a ʔ a,,walker2011,,,^ɻ u a ʔ a _$,default
 Yanesha-5_that-1,,Yanesha,5_that,tjaʐ,tjaʐ,t j a ʐ,,walker2011,,,^t j a ʐ$,default
 Anauya-5_that-1,,Anauya,5_that,"iraha,aki,maːta",iraha,i r a h a,,walker2011,,,^i r a h a$,default
 Anauya-5_that-2,,Anauya,5_that,"iraha,aki,maːta",aki,a k i,,walker2011,,,^a k i$,default
@@ -276,9 +276,9 @@ Chamicuro-5_that-1,,Chamicuro,5_that,maʃala,maʃala,m a ʃ a l a,,walker2011,,,
 Garifuna-5_that-1,,Garifuna,5_that,lira,lira,l i r a,,walker2011,,,^l i r a$,default
 Wayuu-5_that-1,,Wayuu,5_that,tʃia,tʃia,tʃ i a,,walker2011,,,^tʃ i a$,default
 Guinau-5_that-1,,Guinau,5_that,dʒuahe,dʒuahe,dʒ u a h e,,walker2011,,,^dʒ u a h e$,default
-Ignaciano-5_that-1,,Ignaciano,5_that,"hena [inan.] , maena [homem, fala m], suna [mulher], ɲiɲa[homem, fala f.]",hena,h e n a,,walker2011,,,^h e n a$,default
-Ignaciano-5_that-2,,Ignaciano,5_that,"hena [inan.] , maena [homem, fala m], suna [mulher], ɲiɲa[homem, fala f.]",maena,m a e n a,,walker2011,,,^m a e n a$,default
-Ignaciano-5_that-3,,Ignaciano,5_that,"hena [inan.] , maena [homem, fala m], suna [mulher], ɲiɲa[homem, fala f.]",suna,s u n a,,walker2011,,,^s u n a$,default
+Ignaciano-5_that-1,,Ignaciano,5_that,"hena [inan.] , maena [homem, fala m], suna [mulher], ɲiɲa[homem, fala f.]",hena_,h e n a,,walker2011,,,^h e n a _$,default
+Ignaciano-5_that-2,,Ignaciano,5_that,"hena [inan.] , maena [homem, fala m], suna [mulher], ɲiɲa[homem, fala f.]",maena_,m a e n a,,walker2011,,,^m a e n a _$,default
+Ignaciano-5_that-3,,Ignaciano,5_that,"hena [inan.] , maena [homem, fala m], suna [mulher], ɲiɲa[homem, fala f.]",suna_,s u n a,,walker2011,,,^s u n a _$,default
 Ignaciano-5_that-4,,Ignaciano,5_that,"hena [inan.] , maena [homem, fala m], suna [mulher], ɲiɲa[homem, fala f.]",ɲiɲa,ɲ i ɲ a,,walker2011,,,^ɲ i ɲ a$,default
 Inapari-5_that-1,,Inapari,5_that,waʔahéri,waʔahéri,w a ʔ a h é/e r i,,walker2011,,,^w a ʔ a h é r i$,default
 IslandCarib-5_that-1,,IslandCarib,5_that,tura,tura,t u r a,,walker2011,,,^t u r a$,default
@@ -316,13 +316,13 @@ Trinitario-5_that-1,,Trinitario,5_that,ten,ten,t e n,,walker2011,,,^t e n$,defau
 Wainuma-5_that-1,,Wainuma,5_that,tʃiy,tʃiy,tʃ i y,,walker2011,,,^tʃ i y$,default
 Wapishana-5_that-1,,Wapishana,5_that,tawɨɽɨ,tawɨɽɨ,t a w ɨ ɽ ɨ,,walker2011,,,^t a w ɨ ɽ ɨ$,default
 Araicu-5_that-1,,Araicu,5_that,ilekali,ilekali,i l e k a l i,,walker2011,,,^i l e k a l i$,default
-Warekena-5_that-1,,Warekena,5_that,nihiadi kati,nihiadi kati,n i h i a d i + k a t i,,walker2011,,,^n i h i a d i + k a t i$,default
+Warekena-5_that-1,,Warekena,5_that,nihiadi kati,nihiadi_kati,n i h i a d i + k a t i,,walker2011,,,^n i h i a d i _ k a t i$,default
 WarekenaVelha-5_that-1,,WarekenaVelha,5_that,eta,eta,e t a,,walker2011,,,^e t a$,default
 Waura-5_that-1,,Waura,5_that,"ʐa, kala",ʐa,ʐ a,,walker2011,,,^ʐ a$,default
 Waura-5_that-2,,Waura,5_that,"ʐa, kala",kala,k a l a,,walker2011,,,^k a l a$,default
 Yavitero-5_that-1,,Yavitero,5_that,ita,ita,i t a,,walker2011,,,^i t a$,default
-Yawalapiti-5_that-1,,Yawalapiti,5_that,"iɾu [m], iɾutiɾa [f]",iɾu,i ɾ u,,walker2011,,,^i ɾ u$,default
-Yawalapiti-5_that-2,,Yawalapiti,5_that,"iɾu [m], iɾutiɾa [f]",iɾutiɾa,i ɾ u t i ɾ a,,walker2011,,,^i ɾ u t i ɾ a$,default
+Yawalapiti-5_that-1,,Yawalapiti,5_that,"iɾu [m], iɾutiɾa [f]",iɾu_,i ɾ u,,walker2011,,,^i ɾ u _$,default
+Yawalapiti-5_that-2,,Yawalapiti,5_that,"iɾu [m], iɾutiɾa [f]",iɾutiɾa_,i ɾ u t i ɾ a,,walker2011,,,^i ɾ u t i ɾ a _$,default
 Yucuna-5_that-1,,Yucuna,5_that,ile,ile,i l e,,walker2011,,,^i l e$,default
 Achagua-6_what-1,,Achagua,6_what,tanaa,tanaa,t a n aː,,walker2011,,,^t a n aa$,default
 Yanesha-6_what-1,,Yanesha,6_what,esoʼt,esoʼt,e s oˀ t,,walker2011,,,^e s oʼ t$,default
@@ -339,7 +339,7 @@ Caquinte-6_what-1,,Caquinte,6_what,taː,taː,t aː,,walker2011,,,^t aː$,default
 EnaweneNawe-6_what-1,,EnaweneNawe,6_what,deːta,deːta,d eː t a,,walker2011,,,^d eː t a$,default
 Garifuna-6_what-1,,Garifuna,6_what,"ka, katei",ka,k a,,walker2011,,,^k a$,default
 Garifuna-6_what-2,,Garifuna,6_what,"ka, katei",katei,k a t e i,,walker2011,,,^k a t e i$,default
-Wayuu-6_what-1,,Wayuu,6_what,kasa wayu,kasa wayu,k a s a + w a y u,,walker2011,,,^k a s a + w a y u$,default
+Wayuu-6_what-1,,Wayuu,6_what,kasa wayu,kasa_wayu,k a s a + w a y u,,walker2011,,,^k a s a _ w a y u$,default
 Ignaciano-6_what-1,,Ignaciano,6_what,táhaʔa,táhaʔa,t á/a h a ʔ a,,walker2011,,,^t á h a ʔ a$,default
 Inapari-6_what-1,,Inapari,6_what,haí(ra),haí,h a í/i,,walker2011,,,^h a í$,default
 IslandCarib-6_what-1,,IslandCarib,6_what,kaka,kaka,k a k a,,walker2011,,,^k a k a$,default
@@ -355,7 +355,7 @@ Manao-6_what-1,,Manao,6_what,kapa-,kapa-,k a p a,,walker2011,,,^k a p a -$,defau
 Mandahuaca-6_what-1,,Mandahuaca,6_what,kaniatire,kaniatire,k a n i a t i r e,,walker2011,,,^k a n i a t i r e$,default
 Machinere-6_what-1,,Machinere,6_what,tɨhirɨ,tɨhirɨ,t ɨ h i r ɨ,,walker2011,,,^t ɨ h i r ɨ$,default
 Maragua-6_what-1,,Maragua,6_what,"ka-,ai- ya-",ka-,k a,,walker2011,,,^k a -$,default
-Maragua-6_what-2,,Maragua,6_what,"ka-,ai- ya-",ai- ya-,a i + + y a,,walker2011,,,^a i - + y a -$,default
+Maragua-6_what-2,,Maragua,6_what,"ka-,ai- ya-",ai-_ya-,a i + y a,,walker2011,,,^a i -_ y a -$,default
 MapidianMawayana-6_what-1,,MapidianMawayana,6_what,ka,ka,k a,,walker2011,,,^k a$,default
 Mehinaku-6_what-1,,Mehinaku,6_what,atsa,atsa,a ts a,,walker2011,,,^a ts a$,default
 Nomatsiguenga-6_what-1,,Nomatsiguenga,6_what,pairo,pairo,p a i r o,,walker2011,,,^p a i r o$,default
@@ -371,7 +371,7 @@ Taino-6_what-1,,Taino,6_what,ka,ka,k a,,walker2011,,,^k a$,default
 Tariana-6_what-1,,Tariana,6_what,kwaka,kwaka,kʷ a k a,,walker2011,,,^kw a k a$,default
 Terena-6_what-1,,Terena,6_what,kuti,kuti,k u t i,,walker2011,,,^k u t i$,default
 Trinitario-6_what-1,,Trinitario,6_what,ta(h)a,taa,t aː,,walker2011,,,^t aa$,default
-Wapishana-6_what-1,,Wapishana,6_what,kan(um) ɖiː,kan ɖiː,k a n + ɖ iː,,walker2011,,,^k a n + ɖ iː$,default
+Wapishana-6_what-1,,Wapishana,6_what,kan(um) ɖiː,kan_ɖiː,k a n + ɖ iː,,walker2011,,,^k a n _ ɖ iː$,default
 Warekena-6_what-1,,Warekena,6_what,kaki,kaki,k a k i,,walker2011,,,^k a k i$,default
 WarekenaVelha-6_what-1,,WarekenaVelha,6_what,iʃi,iʃi,i ʃ i,,walker2011,,,^i ʃ i$,default
 Waura-6_what-1,,Waura,6_what,kaitsa,kaitsa,k a i ts a,,walker2011,,,^k a i ts a$,default
@@ -394,8 +394,8 @@ Chamicuro-7_who-1,,Chamicuro,7_who,naʔʃanana,naʔʃanana,n a ʔ ʃ a n a n a,,
 EnaweneNawe-7_who-1,,EnaweneNawe,7_who,deːta,deːta,d eː t a,,walker2011,,,^d eː t a$,default
 Garifuna-7_who-1,,Garifuna,7_who,"ka,katei, kabaʔ [future]",ka,k a,,walker2011,,,^k a$,default
 Garifuna-7_who-2,,Garifuna,7_who,"ka,katei, kabaʔ [future]",katei,k a t e i,,walker2011,,,^k a t e i$,default
-Garifuna-7_who-3,,Garifuna,7_who,"ka,katei, kabaʔ [future]",kabaʔ,k a b a ʔ,,walker2011,,,^k a b a ʔ$,default
-Wayuu-7_who-1,,Wayuu,7_who,haɾai ya,haɾai ya,h a ɾ a i + y a,,walker2011,,,^h a ɾ a i + y a$,default
+Garifuna-7_who-3,,Garifuna,7_who,"ka,katei, kabaʔ [future]",kabaʔ_,k a b a ʔ,,walker2011,,,^k a b a ʔ _$,default
+Wayuu-7_who-1,,Wayuu,7_who,haɾai ya,haɾai_ya,h a ɾ a i + y a,,walker2011,,,^h a ɾ a i _ y a$,default
 Ignaciano-7_who-1,,Ignaciano,7_who,náhaʔa,náhaʔa,n á/a h a ʔ a,,walker2011,,,^n á h a ʔ a$,default
 Inapari-7_who-1,,Inapari,7_who,hawá(ra),hawá,h a w á/a,,walker2011,,,^h a w á$,default
 IslandCarib-7_who-1,,IslandCarib,7_who,kata,kata,k a t a,,walker2011,,,^k a t a$,default
@@ -411,7 +411,7 @@ Manao-7_who-1,,Manao,7_who,kapa-,kapa-,k a p a,,walker2011,,,^k a p a -$,default
 Mandahuaca-7_who-1,,Mandahuaca,7_who,kaniapa,kaniapa,k a n i a p a,,walker2011,,,^k a n i a p a$,default
 Machinere-7_who-1,,Machinere,7_who,tɨhirɨ,tɨhirɨ,t ɨ h i r ɨ,,walker2011,,,^t ɨ h i r ɨ$,default
 Maragua-7_who-1,,Maragua,7_who,"ka-,ai- ya-",ka-,k a,,walker2011,,,^k a -$,default
-Maragua-7_who-2,,Maragua,7_who,"ka-,ai- ya-",ai- ya-,a i + + y a,,walker2011,,,^a i - + y a -$,default
+Maragua-7_who-2,,Maragua,7_who,"ka-,ai- ya-",ai-_ya-,a i + y a,,walker2011,,,^a i -_ y a -$,default
 MapidianMawayana-7_who-1,,MapidianMawayana,7_who,ka,ka,k a,,walker2011,,,^k a$,default
 Mehinaku-7_who-1,,Mehinaku,7_who,atsa,atsa,a ts a,,walker2011,,,^a ts a$,default
 Nomatsiguenga-7_who-1,,Nomatsiguenga,7_who,atini,atini,a t i n i,,walker2011,,,^a t i n i$,default
@@ -427,7 +427,7 @@ Taino-7_who-1,,Taino,7_who,ka,ka,k a,,walker2011,,,^k a$,default
 Tariana-7_who-1,,Tariana,7_who,kwana,kwana,kʷ a n a,,walker2011,,,^kw a n a$,default
 Terena-7_who-1,,Terena,7_who,kuti,kuti,k u t i,,walker2011,,,^k u t i$,default
 Trinitario-7_who-1,,Trinitario,7_who,naha,naha,n a h a,,walker2011,,,^n a h a$,default
-Wapishana-7_who-1,,Wapishana,7_who,kan(um) ɖiː,kan ɖiː,k a n + ɖ iː,,walker2011,,,^k a n + ɖ iː$,default
+Wapishana-7_who-1,,Wapishana,7_who,kan(um) ɖiː,kan_ɖiː,k a n + ɖ iː,,walker2011,,,^k a n _ ɖ iː$,default
 Warekena-7_who-1,,Warekena,7_who,kaki,kaki,k a k i,,walker2011,,,^k a k i$,default
 WarekenaVelha-7_who-1,,WarekenaVelha,7_who,iʃi,iʃi,i ʃ i,,walker2011,,,^i ʃ i$,default
 Waura-7_who-1,,Waura,7_who,kaitsa,kaitsa,k a i ts a,,walker2011,,,^k a i ts a$,default
@@ -436,7 +436,7 @@ Yawalapiti-7_who-1,,Yawalapiti,7_who,kanauka,kanauka,k a n a u k a,,walker2011,,
 Yucuna-7_who-1,,Yucuna,7_who,na,na,n a,,walker2011,,,^n a$,default
 Achagua-8_not-1,,Achagua,8_not,"ma-, hoːkai",ma-,m a,,walker2011,,,^m a -$,default
 Achagua-8_not-2,,Achagua,8_not,"ma-, hoːkai",hoːkai,h oː k a i,,walker2011,,,^h oː k a i$,default
-Yanesha-8_not-1,,Yanesha,8_not,ama  [+..-o no verbo],ama,a m a,,walker2011,,,^a m a$,default
+Yanesha-8_not-1,,Yanesha,8_not,ama  [+..-o no verbo],ama__,a m a,,walker2011,,,^a m a __$,default
 Apurina-8_not-1,,Apurina,8_not,kona,kona,k o n a,,walker2011,,,^k o n a$,default
 Ashaninka-8_not-1,,Ashaninka,8_not,tee,tee,t eː,,walker2011,,,^t ee$,default
 Xiriana-8_not-1,,Xiriana,8_not,"ma-, mainda",ma-,m a,,walker2011,,,^m a -$,default
@@ -493,7 +493,7 @@ Yine-8_not-1,,Yine,8_not,gike,gike,g i k e,,walker2011,,,^g i k e$,default
 Resigaro-8_not-1,,Resigaro,8_not,niː,niː,n iː,,walker2011,,,^n iː$,default
 Saraveca-8_not-1,,Saraveca,8_not,matʃa,matʃa,m a tʃ a,,walker2011,,,^m a tʃ a$,default
 Taino-8_not-1,,Taino,8_not,ua,ua,u a,,walker2011,,,^u a$,default
-Tariana-8_not-1,,Tariana,8_not,ma-...-kade,ma-...-kade,m a + + + + + k a d e,,walker2011,,,^m a - . . . - k a d e$,default
+Tariana-8_not-1,,Tariana,8_not,ma-...-kade,ma-...-kade,m a + k a d e,,walker2011,,,^m a -...- k a d e$,default
 Terena-8_not-1,,Terena,8_not,haina,haina,h a i n a,,walker2011,,,^h a i n a$,default
 Trinitario-8_not-1,,Trinitario,8_not,woʔi,woʔi,w o ʔ i,,walker2011,,,^w o ʔ i$,default
 Wainuma-8_not-1,,Wainuma,8_not,"tʃama, huikah, ka-",tʃama,tʃ a m a,,walker2011,,,^tʃ a m a$,default
@@ -508,7 +508,7 @@ WarekenaVelha-8_not-1,,WarekenaVelha,8_not,ya-,ya-,y a,,walker2011,,,^y a -$,def
 Waura-8_not-1,,Waura,8_not,aitsa,aitsa,a i ts a,,walker2011,,,^a i ts a$,default
 Yavitero-8_not-1,,Yavitero,8_not,uama,uama,u a m a,,walker2011,,,^u a m a$,default
 Yawalapiti-8_not-1,,Yawalapiti,8_not,atsa,atsa,a ts a,,walker2011,,,^a ts a$,default
-Yucuna-8_not-1,,Yucuna,8_not,unka..... -la,unka..... -la,u n k a + + + l a,,walker2011,,,^u n k a ..... + - l a$,default
+Yucuna-8_not-1,,Yucuna,8_not,unka..... -la,unka....._-la,u n k a + l a,,walker2011,,,^u n k a ....._- l a$,default
 Jumana-8_not-1,,Jumana,8_not,"meyu, meiho",meyu,m e y u,,walker2011,,,^m e y u$,default
 Jumana-8_not-2,,Jumana,8_not,"meyu, meiho",meiho,m e i h o,,walker2011,,,^m e i h o$,default
 Achagua-9_all-1,,Achagua,9_all,ke(i)ninama,keninama,k e n i n a m a,,walker2011,,,^k e n i n a m a$,default
@@ -539,9 +539,9 @@ Kaishana-9_all-4,,Kaishana,9_all,"alenumakari, sɨmasami,lo(u)wa(ma), jalaɨwagw
 Kinikinao-9_all-1,,Kinikinao,9_all,hɔu,hɔu,h ɔ u,,walker2011,,,^h ɔ u$,default
 Curripaco-9_all-1,,Curripaco,9_all,padeːniri,padeːniri,p a d eː n i r i,,walker2011,,,^p a d eː n i r i$,default
 Lokono-9_all-1,,Lokono,9_all,haɽan,haɽan,h a ɽ a n,,walker2011,,,^h a ɽ a n$,default
-Machiguenga-9_all-1,,Machiguenga,9_all,"magatiro [inan.], imirinka [m], magniro [an.]",magatiro,m a g a t i r o,,walker2011,,,^m a g a t i r o$,default
-Machiguenga-9_all-2,,Machiguenga,9_all,"magatiro [inan.], imirinka [m], magniro [an.]",imirinka,i m i r i n k a,,walker2011,,,^i m i r i n k a$,default
-Machiguenga-9_all-3,,Machiguenga,9_all,"magatiro [inan.], imirinka [m], magniro [an.]",magniro,m a g n i r o,,walker2011,,,^m a g n i r o$,default
+Machiguenga-9_all-1,,Machiguenga,9_all,"magatiro [inan.], imirinka [m], magniro [an.]",magatiro_,m a g a t i r o,,walker2011,,,^m a g a t i r o _$,default
+Machiguenga-9_all-2,,Machiguenga,9_all,"magatiro [inan.], imirinka [m], magniro [an.]",imirinka_,i m i r i n k a,,walker2011,,,^i m i r i n k a _$,default
+Machiguenga-9_all-3,,Machiguenga,9_all,"magatiro [inan.], imirinka [m], magniro [an.]",magniro_,m a g n i r o,,walker2011,,,^m a g n i r o _$,default
 Maipure-9_all-1,,Maipure,9_all,ununa,ununa,u n u n a,,walker2011,,,^u n u n a$,default
 Manao-9_all-1,,Manao,9_all,sabage,sabage,s a b a g e,,walker2011,,,^s a b a g e$,default
 Mandahuaca-9_all-1,,Mandahuaca,9_all,make:ri,make:ri,m a k eː r i,,walker2011,,,^m a k e: r i$,default
@@ -553,8 +553,8 @@ Paraujano-9_all-1,,Paraujano,9_all,hikiko,hikiko,h i k i k o,,walker2011,,,^h i 
 Parecis-9_all-1,,Parecis,9_all,inihatjaka,inihatjaka,i n i h a t j a k a,,walker2011,,,^i n i h a t j a k a$,default
 Piapoco-9_all-1,,Piapoco,9_all,kanánama,kanánama,k a n á/a n a m a,,walker2011,,,^k a n á n a m a$,default
 Yine-9_all-1,,Yine,9_all,psolɨko,psolɨko,p s o l ɨ k o,,walker2011,,,^ps o l ɨ k o$,default
-Resigaro-9_all-1,,Resigaro,9_all,"pheʔeto [inan.], paʔahnu [anim.]",pheʔeto,pʰ e ʔ e t o,,walker2011,,,^ph e ʔ e t o$,default
-Resigaro-9_all-2,,Resigaro,9_all,"pheʔeto [inan.], paʔahnu [anim.]",paʔahnu,p a ʔ a h n u,,walker2011,,,^p a ʔ a h n u$,default
+Resigaro-9_all-1,,Resigaro,9_all,"pheʔeto [inan.], paʔahnu [anim.]",pheʔeto_,pʰ e ʔ e t o,,walker2011,,,^ph e ʔ e t o _$,default
+Resigaro-9_all-2,,Resigaro,9_all,"pheʔeto [inan.], paʔahnu [anim.]",paʔahnu_,p a ʔ a h n u,,walker2011,,,^p a ʔ a h n u _$,default
 Taino-9_all-1,,Taino,9_all,"kis, man",kis,k i s,,walker2011,,,^k i s$,default
 Taino-9_all-2,,Taino,9_all,"kis, man",man,m a n,,walker2011,,,^m a n$,default
 Tariana-9_all-1,,Tariana,9_all,thui,thui,tʰ u i,,walker2011,,,^th u i$,default
@@ -609,14 +609,14 @@ Mariate-10_many-2,,Mariate,10_many,"atapuɨ, ekurɨ-neikene",ekurɨ-neikene,e k 
 MapidianMawayana-10_many-1,,MapidianMawayana,10_many,reeːanu,reeːanu,r ee ʔ a n u,,walker2011,,,^r eeː a n u$,default
 Mehinaku-10_many-1,,Mehinaku,10_many,amunija,amunija,a m u n i j a,,walker2011,,,^a m u n i j a$,default
 Nomatsiguenga-10_many-1,,Nomatsiguenga,10_many,agabeni,agabeni,a g a b e n i,,walker2011,,,^a g a b e n i$,default
-Palikur-10_many-1,,Palikur,10_many,ka aynsima,ka aynsima,k a + a y n s i m a,,walker2011,,,^k a + a y ns i m a$,default
+Palikur-10_many-1,,Palikur,10_many,ka aynsima,ka_aynsima,k a + a y n s i m a,,walker2011,,,^k a _ a y ns i m a$,default
 Paraujano-10_many-1,,Paraujano,10_many,kaaya,kaaya,k aː y a,,walker2011,,,^k aa y a$,default
 Parecis-10_many-1,,Parecis,10_many,hitsoaka,hitsoaka,h i ts o a k a,,walker2011,,,^h i ts o a k a$,default
 Passe-10_many-1,,Passe,10_many,polayu,polayu,p o l a y u,,walker2011,,,^p o l a y u$,default
 Piapoco-10_many-1,,Piapoco,10_many,mádekaná,mádekaná,m á/a d e k a n á/a,,walker2011,,,^m á d e k a n á$,default
 Yine-10_many-1,,Yine,10_many,gitjo,gitjo,g i t j o,,walker2011,,,^g i t j o$,default
 Resigaro-10_many-1,,Resigaro,10_many,an̥epuːʔ,an̥epuːʔ,a n̥ e p uː ʔ,,walker2011,,,^a n̥ e p uː ʔ$,default
-Saraveca-10_many-1,,Saraveca,10_many,kavi hitʃe,kavi hitʃe,k a v i + h i tʃ e,,walker2011,,,^k a v i + h i tʃ e$,default
+Saraveca-10_many-1,,Saraveca,10_many,kavi hitʃe,kavi_hitʃe,k a v i + h i tʃ e,,walker2011,,,^k a v i _ h i tʃ e$,default
 Taino-10_many-1,,Taino,10_many,"tocheta, teketa",tocheta,t o tʃ e t a,,walker2011,,,^t o ch e t a$,default
 Taino-10_many-2,,Taino,10_many,"tocheta, teketa",teketa,t e k e t a,,walker2011,,,^t e k e t a$,default
 Tariana-10_many-1,,Tariana,10_many,hanupe,hanupe,h a n u p e,,walker2011,,,^h a n u p e$,default
@@ -640,7 +640,7 @@ Anauya-11_one-1,,Anauya,11_one,ahiari,ahiari,a h i a r i,,walker2011,,,^a h i a 
 Apurina-11_one-1,,Apurina,11_one,(h)ãt-ɨ,ãt-ɨ,ã t + ɨ,,walker2011,,,^ã t - ɨ$,default
 Aruan-11_one-1,,Aruan,11_one,auseyre,auseyre,a u s e y r e,,walker2011,,,^a u s e y r e$,default
 Ashaninka-11_one-1,,Ashaninka,11_one,aparo,aparo,a p a r o,,walker2011,,,^a p a r o$,default
-Xiriana-11_one-1,,Xiriana,11_one,a-….-rini,a-….-rini,a + + + r i n i,,walker2011,,,^a - … . - r i n i$,default
+Xiriana-11_one-1,,Xiriana,11_one,a-….-rini,a-….-rini,a + r i n i,,walker2011,,,^a -….- r i n i$,default
 Avane-11_one-1,,Avane,11_one,apeːya,apeːya,a p eː y a,,walker2011,,,^a p eː y a$,default
 BaniwaDoIcana-11_one-1,,BaniwaDoIcana,11_one,aːpa,aːpa,aː p a,,walker2011,,,^aː p a$,default
 Bare-11_one-1,,Bare,11_one,bakũ-nakaɻi,bakũ-nakaɻi,b a k ũ + n a k a ɻ i,,walker2011,,,^b a k ũ - n a k a ɻ i$,default
@@ -664,8 +664,8 @@ Kaishana-11_one-2,,Kaishana,11_one,"pela, pellɨmɨ",pellɨmɨ,p e j ɨ m ɨ,,wa
 Kinikinao-11_one-1,,Kinikinao,11_one,pɔhuti,pɔhuti,p ɔ h u t i,,walker2011,,,^p ɔ h u t i$,default
 Curripaco-11_one-1,,Curripaco,11_one,apadanali,apadanali,a p a d a n a l i,,walker2011,,,^a p a d a n a l i$,default
 Lokono-11_one-1,,Lokono,11_one,aba,aba,a b a,,walker2011,,,^a b a$,default
-Machiguenga-11_one-1,,Machiguenga,11_one,"patiro [inan.], paniro [an.]",patiro,p a t i r o,,walker2011,,,^p a t i r o$,default
-Machiguenga-11_one-2,,Machiguenga,11_one,"patiro [inan.], paniro [an.]",paniro,p a n i r o,,walker2011,,,^p a n i r o$,default
+Machiguenga-11_one-1,,Machiguenga,11_one,"patiro [inan.], paniro [an.]",patiro_,p a t i r o,,walker2011,,,^p a t i r o _$,default
+Machiguenga-11_one-2,,Machiguenga,11_one,"patiro [inan.], paniro [an.]",paniro_,p a n i r o,,walker2011,,,^p a n i r o _$,default
 Maipure-11_one-1,,Maipure,11_one,pakiata,pakiata,p a k i a t a,,walker2011,,,^p a k i a t a$,default
 Manao-11_one-1,,Manao,11_one,panimu,panimu,p a n i m u,,walker2011,,,^p a n i m u$,default
 Mandahuaca-11_one-1,,Mandahuaca,11_one,hetiha,hetiha,h e t i h a,,walker2011,,,^h e t i h a$,default
@@ -677,8 +677,8 @@ Maragua-11_one-2,,Maragua,11_one,"ukwaʃumu, ukwadiu",ukwadiu,u kʷ a d i u,,wal
 Mariate-11_one-1,,Mariate,11_one,apa-kerɨ,apa-kerɨ,a p a + k e r ɨ,,walker2011,,,^a p a - k e r ɨ$,default
 MapidianMawayana-11_one-1,,MapidianMawayana,11_one,aboyɲa,aboyɲa,a b o y ɲ a,,walker2011,,,^a b o y ɲ a$,default
 Mehinaku-11_one-1,,Mehinaku,11_one,pawitsa,pawitsa,p a w i ts a,,walker2011,,,^p a w i ts a$,default
-Nomatsiguenga-11_one-1,,Nomatsiguenga,11_one,"paniro [anim.], patiro [inan.]",paniro,p a n i r o,,walker2011,,,^p a n i r o$,default
-Nomatsiguenga-11_one-2,,Nomatsiguenga,11_one,"paniro [anim.], patiro [inan.]",patiro,p a t i r o,,walker2011,,,^p a t i r o$,default
+Nomatsiguenga-11_one-1,,Nomatsiguenga,11_one,"paniro [anim.], patiro [inan.]",paniro_,p a n i r o,,walker2011,,,^p a n i r o _$,default
+Nomatsiguenga-11_one-2,,Nomatsiguenga,11_one,"paniro [anim.], patiro [inan.]",patiro_,p a t i r o,,walker2011,,,^p a t i r o _$,default
 Palikur-11_one-1,,Palikur,11_one,pahat,pahat,p a h a t,,walker2011,,,^p a h a t$,default
 Paraujano-11_one-1,,Paraujano,11_one,mane,mane,m a n e,,walker2011,,,^m a n e$,default
 Parecis-11_one-1,,Parecis,11_one,hatita,hatita,h a t i t a,,walker2011,,,^h a t i t a$,default
@@ -732,8 +732,8 @@ Kaishana-12_two-3,,Kaishana,12_two,"pedahe, petolo, petahima",petahima,p e t a h
 Kinikinao-12_two-1,,Kinikinao,12_two,piatʃɔ,piatʃɔ,p i a tʃ ɔ,,walker2011,,,^p i a tʃ ɔ$,default
 Curripaco-12_two-1,,Curripaco,12_two,dzahme,dzahme,dz a h m e,,walker2011,,,^dz a h m e$,default
 Lokono-12_two-1,,Lokono,12_two,bian,bian,b i a n,,walker2011,,,^b i a n$,default
-Machiguenga-12_two-1,,Machiguenga,12_two,"piteni [an.], piteti [inan.]",piteni,p i t e n i,,walker2011,,,^p i t e n i$,default
-Machiguenga-12_two-2,,Machiguenga,12_two,"piteni [an.], piteti [inan.]",piteti,p i t e t i,,walker2011,,,^p i t e t i$,default
+Machiguenga-12_two-1,,Machiguenga,12_two,"piteni [an.], piteti [inan.]",piteni_,p i t e n i,,walker2011,,,^p i t e n i _$,default
+Machiguenga-12_two-2,,Machiguenga,12_two,"piteni [an.], piteti [inan.]",piteti_,p i t e t i,,walker2011,,,^p i t e t i _$,default
 Maipure-12_two-1,,Maipure,12_two,"akinume, pina",akinume,a k i n u m e,,walker2011,,,^a k i n u m e$,default
 Maipure-12_two-2,,Maipure,12_two,"akinume, pina",pina,p i n a,,walker2011,,,^p i n a$,default
 Manao-12_two-1,,Manao,12_two,pyarakuma,pyarakuma,p y a r a k u m a,,walker2011,,,^p y a r a k u m a$,default
@@ -746,8 +746,8 @@ Maragua-12_two-2,,Maragua,12_two,"muʃamu, mudjama",mudjama,m u d j a m a,,walke
 Mariate-12_two-1,,Mariate,12_two,metʃema,metʃema,m e tʃ e m a,,walker2011,,,^m e tʃ e m a$,default
 MapidianMawayana-12_two-1,,MapidianMawayana,12_two,adaka,adaka,a d a k a,,walker2011,,,^a d a k a$,default
 Mehinaku-12_two-1,,Mehinaku,12_two,mipijama,mipijama,m i p i j a m a,,walker2011,,,^m i p i j a m a$,default
-Nomatsiguenga-12_two-1,,Nomatsiguenga,12_two,"piteni [anim.], piteti [inan.]",piteni,p i t e n i,,walker2011,,,^p i t e n i$,default
-Nomatsiguenga-12_two-2,,Nomatsiguenga,12_two,"piteni [anim.], piteti [inan.]",piteti,p i t e t i,,walker2011,,,^p i t e t i$,default
+Nomatsiguenga-12_two-1,,Nomatsiguenga,12_two,"piteni [anim.], piteti [inan.]",piteni_,p i t e n i,,walker2011,,,^p i t e n i _$,default
+Nomatsiguenga-12_two-2,,Nomatsiguenga,12_two,"piteni [anim.], piteti [inan.]",piteti_,p i t e t i,,walker2011,,,^p i t e t i _$,default
 Palikur-12_two-1,,Palikur,12_two,pitana,pitana,p i t a n a,,walker2011,,,^p i t a n a$,default
 Paraujano-12_two-1,,Paraujano,12_two,piyomu,piyomu,p i y o m u,,walker2011,,,^p i y o m u$,default
 Parecis-12_two-1,,Parecis,12_two,hinama,hinama,h i n a m a,,walker2011,,,^h i n a m a$,default
@@ -803,8 +803,8 @@ Kaishana-13_big-1,,Kaishana,13_big,mare-hĩ,mare-hĩ,m a r e + h ĩ,,walker2011,
 Kinikinao-13_big-1,,Kinikinao,13_big,hana’iti,hana’iti,h a n a ʔ i t i,,walker2011,,,^h a n a ’ i t i$,default
 Curripaco-13_big-1,,Curripaco,13_big,maniri,maniri,m a n i r i,,walker2011,,,^m a n i r i$,default
 Lokono-13_big-1,,Lokono,13_big,ɸiron,ɸiron,ɸ i r o n,,walker2011,,,^ɸ i r o n$,default
-Machiguenga-13_big-1,,Machiguenga,13_big,"imarane [m], omarane [f]",imarane,i m a r a n e,,walker2011,,,^i m a r a n e$,default
-Machiguenga-13_big-2,,Machiguenga,13_big,"imarane [m], omarane [f]",omarane,o m a r a n e,,walker2011,,,^o m a r a n e$,default
+Machiguenga-13_big-1,,Machiguenga,13_big,"imarane [m], omarane [f]",imarane_,i m a r a n e,,walker2011,,,^i m a r a n e _$,default
+Machiguenga-13_big-2,,Machiguenga,13_big,"imarane [m], omarane [f]",omarane_,o m a r a n e,,walker2011,,,^o m a r a n e _$,default
 Maipure-13_big-1,,Maipure,13_big,aubari,aubari,a u b a r i,,walker2011,,,^a u b a r i$,default
 Manao-13_big-1,,Manao,13_big,panumala,panumala,p a n u m a l a,,walker2011,,,^p a n u m a l a$,default
 Mandahuaca-13_big-1,,Mandahuaca,13_big,a:hẽhã,a:hẽhã,aː h ẽ h ã,,walker2011,,,^a: h ẽ h ã$,default
@@ -869,7 +869,7 @@ Inapari-14_long-1,,Inapari,14_long,tenurí,tenurí,t e n u r í/i,,walker2011,,,
 IslandCarib-14_long-1,,IslandCarib,14_long,mutʃipeti,mutʃipeti,m u tʃ i p e t i,,walker2011,,,^m u tʃ i p e t i$,default
 Kaishana-14_long-1,,Kaishana,14_long,"ljema-zi,hitihaɲe,gia auia",ljema-zi,l j e m a + z i,,walker2011,,,^l j e m a - z i$,default
 Kaishana-14_long-2,,Kaishana,14_long,"ljema-zi,hitihaɲe,gia auia",hitihaɲe,h i t i h a ɲ e,,walker2011,,,^h i t i h a ɲ e$,default
-Kaishana-14_long-3,,Kaishana,14_long,"ljema-zi,hitihaɲe,gia auia",gia auia,g i a + a u i a,,walker2011,,,^g i a + a u i a$,default
+Kaishana-14_long-3,,Kaishana,14_long,"ljema-zi,hitihaɲe,gia auia",gia_auia,g i a + a u i a,,walker2011,,,^g i a _ a u i a$,default
 Kinikinao-14_long-1,,Kinikinao,14_long,eiewɔti,eiewɔti,e i e w ɔ t i,,walker2011,,,^e i e w ɔ t i$,default
 Curripaco-14_long-1,,Curripaco,14_long,yaːpi,yaːpi,y aː p i,,walker2011,,,^y aː p i$,default
 Lokono-14_long-1,,Lokono,14_long,wadin,wadin,w a d i n,,walker2011,,,^w a d i n$,default
@@ -937,15 +937,15 @@ Kinikinao-15_small-1,,Kinikinao,15_small,kali,kali,k a l i,,walker2011,,,^k a l 
 Curripaco-15_small-1,,Curripaco,15_small,tsuːdali,tsuːdali,ts uː d a l i,,walker2011,,,^ts uː d a l i$,default
 Lokono-15_small-1,,Lokono,15_small,basaban,basaban,b a s a b a n,,walker2011,,,^b a s a b a n$,default
 Machiguenga-15_small-1,,Machiguenga,15_small,"itjomiani, tsepekini [an.], tserepekiti [inan.]",itjomiani,i t j o m i a n i,,walker2011,,,^i t j o m i a n i$,default
-Machiguenga-15_small-2,,Machiguenga,15_small,"itjomiani, tsepekini [an.], tserepekiti [inan.]",tsepekini,ts e p e k i n i,,walker2011,,,^ts e p e k i n i$,default
-Machiguenga-15_small-3,,Machiguenga,15_small,"itjomiani, tsepekini [an.], tserepekiti [inan.]",tserepekiti,ts e r e p e k i t i,,walker2011,,,^ts e r e p e k i t i$,default
+Machiguenga-15_small-2,,Machiguenga,15_small,"itjomiani, tsepekini [an.], tserepekiti [inan.]",tsepekini_,ts e p e k i n i,,walker2011,,,^ts e p e k i n i _$,default
+Machiguenga-15_small-3,,Machiguenga,15_small,"itjomiani, tsepekini [an.], tserepekiti [inan.]",tserepekiti_,ts e r e p e k i t i,,walker2011,,,^ts e r e p e k i t i _$,default
 Maipure-15_small-1,,Maipure,15_small,-isi,-isi,i s i,,walker2011,,,^- i s i$,default
 Manao-15_small-1,,Manao,15_small,"tayamala, kɨawisiko",tayamala,t a y a m a l a,,walker2011,,,^t a y a m a l a$,default
 Manao-15_small-2,,Manao,15_small,"tayamala, kɨawisiko",kɨawisiko,k ɨ a w i s i k o,,walker2011,,,^k ɨ a w i s i k o$,default
 Mandahuaca-15_small-1,,Mandahuaca,15_small,a:tʃidiha,a:tʃidiha,aː tʃ i d i h a,,walker2011,,,^a: tʃ i d i h a$,default
 Machinere-15_small-1,,Machinere,15_small,itsɨrɨ,itsɨrɨ,i ts ɨ r ɨ,,walker2011,,,^i ts ɨ r ɨ$,default
 Marawan-15_small-1,,Marawan,15_small,nekane,nekane,n e k a n e,,walker2011,,,^n e k a n e$,default
-Maragua-15_small-1,,Maragua,15_small,"yrebeta jakahe, itubuta",yrebeta jakahe,y r e b e t a + j a k a h e,,walker2011,,,^y r e b e t a + j a k a h e$,default
+Maragua-15_small-1,,Maragua,15_small,"yrebeta jakahe, itubuta",yrebeta_jakahe,y r e b e t a + j a k a h e,,walker2011,,,^y r e b e t a _ j a k a h e$,default
 Maragua-15_small-2,,Maragua,15_small,"yrebeta jakahe, itubuta",itubuta,i t u b u t a,,walker2011,,,^i t u b u t a$,default
 Mariate-15_small-1,,Mariate,15_small,itʃimai,itʃimai,i tʃ i m a i,,walker2011,,,^i tʃ i m a i$,default
 MapidianMawayana-15_small-1,,MapidianMawayana,15_small,ʃidjidjare,ʃidjidjare,ʃ i d j i d j a r e,,walker2011,,,^ʃ i d j i d j a r e$,default
@@ -981,7 +981,7 @@ Jumana-15_small-1,,Jumana,15_small,"mauiyapɨ, tʃuɲɨala,tʃuyula",mauiyapɨ,m
 Jumana-15_small-2,,Jumana,15_small,"mauiyapɨ, tʃuɲɨala,tʃuyula",tʃuɲɨala,tʃ u ɲ ɨ a l a,,walker2011,,,^tʃ u ɲ ɨ a l a$,default
 Jumana-15_small-3,,Jumana,15_small,"mauiyapɨ, tʃuɲɨala,tʃuyula",tʃuyula,tʃ u y u l a,,walker2011,,,^tʃ u y u l a$,default
 Achagua-16_woman-1,,Achagua,16_woman,iːnetuː,iːnetuː,iː n e t uː,,walker2011,,,^iː n e t uː$,default
-Yanesha-16_woman-1,,Yanesha,16_woman,koyaneʃaʼ [fala masc.],koyaneʃaʼ,k o y a n e ʃ aˀ,,walker2011,,,^k o y a n e ʃ aʼ$,default
+Yanesha-16_woman-1,,Yanesha,16_woman,koyaneʃaʼ [fala masc.],koyaneʃaʼ_,k o y a n e ʃ aˀ,,walker2011,,,^k o y a n e ʃ aʼ _$,default
 Anauya-16_woman-1,,Anauya,16_woman,inanai,inanai,i n a n a i,,walker2011,,,^i n a n a i$,default
 Apurina-16_woman-1,,Apurina,16_woman,sɨto,sɨto,s ɨ t o,,walker2011,,,^s ɨ t o$,default
 Aruan-16_woman-1,,Aruan,16_woman,"itunalo, eiʃakal",itunalo,i t u n a l o,,walker2011,,,^i t u n a l o$,default
@@ -998,10 +998,10 @@ Caquinte-16_woman-1,,Caquinte,16_woman,tsinani,tsinani,ts i n a n i,,walker2011,
 Cariai-16_woman-1,,Cariai,16_woman,henitaki,henitaki,h e n i t a k i,,walker2011,,,^h e n i t a k i$,default
 Chamicuro-16_woman-1,,Chamicuro,16_woman,molota,molota,m o l o t a,,walker2011,,,^m o l o t a$,default
 EnaweneNawe-16_woman-1,,EnaweneNawe,16_woman,uhiɾu,uhiɾu,u h i ɾ u,,walker2011,,,^u h i ɾ u$,default
-Garifuna-16_woman-1,,Garifuna,16_woman,"wɨri [M], hiɲaruɲu [F]",wɨri,w ɨ r i,,walker2011,,,^w ɨ r i$,default
-Garifuna-16_woman-2,,Garifuna,16_woman,"wɨri [M], hiɲaruɲu [F]",hiɲaruɲu,h i ɲ a r u ɲ u,,walker2011,,,^h i ɲ a r u ɲ u$,default
-Wayuu-16_woman-1,,Wayuu,16_woman,wayuu hieɾi,wayuu hieɾi,w a y uː + h i e ɾ i,,walker2011,,,^w a y uu + h i e ɾ i$,default
-Guinau-16_woman-1,,Guinau,16_woman,henau. Apahoko,henau. Apahoko,h e n a u + + a p a h o k o,,walker2011,,,^h e n a u . + A p a h o k o$,default
+Garifuna-16_woman-1,,Garifuna,16_woman,"wɨri [M], hiɲaruɲu [F]",wɨri_,w ɨ r i,,walker2011,,,^w ɨ r i _$,default
+Garifuna-16_woman-2,,Garifuna,16_woman,"wɨri [M], hiɲaruɲu [F]",hiɲaruɲu_,h i ɲ a r u ɲ u,,walker2011,,,^h i ɲ a r u ɲ u _$,default
+Wayuu-16_woman-1,,Wayuu,16_woman,wayuu hieɾi,wayuu_hieɾi,w a y uː + h i e ɾ i,,walker2011,,,^w a y uu _ h i e ɾ i$,default
+Guinau-16_woman-1,,Guinau,16_woman,henau. Apahoko,henau._Apahoko,h e n a u + a p a h o k o,,walker2011,,,^h e n a u ._ A p a h o k o$,default
 Ignaciano-16_woman-1,,Ignaciano,16_woman,esena,esena,e s e n a,,walker2011,,,^e s e n a$,default
 Inapari-16_woman-1,,Inapari,16_woman,awɨtú,awɨtú,a w ɨ t ú/u,,walker2011,,,^a w ɨ t ú$,default
 IslandCarib-16_woman-1,,IslandCarib,16_woman,iaru,iaru,i a r u,,walker2011,,,^i a r u$,default
@@ -1062,9 +1062,9 @@ Cabiyari-17_man-1,,Cabiyari,17_man,tiyare,tiyare,t i y a r e,,walker2011,,,^t i 
 Cariai-17_man-1,,Cariai,17_man,hamati,hamati,h a m a t i,,walker2011,,,^h a m a t i$,default
 Chamicuro-17_man-1,,Chamicuro,17_man,yelna,yelna,y e l n a,,walker2011,,,^y e l n a$,default
 EnaweneNawe-17_man-1,,EnaweneNawe,17_man,ena,ena,e n a,,walker2011,,,^e n a$,default
-Garifuna-17_man-1,,Garifuna,17_man,"wɨgɨri [M], eyeri [F]",wɨgɨri,w ɨ g ɨ r i,,walker2011,,,^w ɨ g ɨ r i$,default
-Garifuna-17_man-2,,Garifuna,17_man,"wɨgɨri [M], eyeri [F]",eyeri,e y e r i,,walker2011,,,^e y e r i$,default
-Wayuu-17_man-1,,Wayuu,17_man,wayuu tooľo,wayuu tooľo,w a y uː + t oː ľ/j o,,walker2011,,,^w a y uu + t oo ľ o$,default
+Garifuna-17_man-1,,Garifuna,17_man,"wɨgɨri [M], eyeri [F]",wɨgɨri_,w ɨ g ɨ r i,,walker2011,,,^w ɨ g ɨ r i _$,default
+Garifuna-17_man-2,,Garifuna,17_man,"wɨgɨri [M], eyeri [F]",eyeri_,e y e r i,,walker2011,,,^e y e r i _$,default
+Wayuu-17_man-1,,Wayuu,17_man,wayuu tooľo,wayuu_tooľo,w a y uː + t oː ľ/j o,,walker2011,,,^w a y uu _ t oo ľ o$,default
 Guinau-17_man-1,,Guinau,17_man,"heːnale, apaheu",heːnale,h eː n a l e,,walker2011,,,^h eː n a l e$,default
 Guinau-17_man-2,,Guinau,17_man,"heːnale, apaheu",apaheu,a p a h e u,,walker2011,,,^a p a h e u$,default
 Ignaciano-17_man-1,,Ignaciano,17_man,ahaira,ahaira,a h a i r a,,walker2011,,,^a h a i r a$,default
@@ -1164,7 +1164,7 @@ Yine-18_child-1,,Yine,18_child,mtɨrɨ,mtɨrɨ,m t ɨ r ɨ,,walker2011,,,^m t ɨ
 Resigaro-18_child-1,,Resigaro,18_child,dʒaːnu,dʒaːnu,dʒ aː n u,,walker2011,,,^dʒ aː n u$,default
 Saraveca-18_child-1,,Saraveca,18_child,imiaetsani,imiaetsani,i m i a e ts a n i,,walker2011,,,^i m i a e ts a n i$,default
 Taino-18_child-1,,Taino,18_child,"guali, rahu [children]",guali,g u a l i,,walker2011,,,^g u a l i$,default
-Taino-18_child-2,,Taino,18_child,"guali, rahu [children]",rahu,r a h u,,walker2011,,,^r a h u$,default
+Taino-18_child-2,,Taino,18_child,"guali, rahu [children]",rahu_,r a h u,,walker2011,,,^r a h u _$,default
 Tariana-18_child-1,,Tariana,18_child,emite,emite,e m i t e,,walker2011,,,^e m i t e$,default
 Terena-18_child-1,,Terena,18_child,kaliwôno,kaliwôno,k a l i w ô/o n o,,walker2011,,,^k a l i w ô n o$,default
 Trinitario-18_child-1,,Trinitario,18_child,ʔmoyo,ʔmoyo,ʔ m o y o,,walker2011,,,^ʔ m o y o$,default
@@ -1412,7 +1412,7 @@ Piapoco-22_louse-1,,Piapoco,22_louse,kùlibàu,kùlibàu,k ù/u l i b à/a u,,wa
 Yine-22_louse-1,,Yine,22_louse,ʃeptʃi,ʃeptʃi,ʃ e p tʃ i,,walker2011,,,^ʃ e p tʃ i$,default
 Resigaro-22_louse-1,,Resigaro,22_louse,netetsihiʔo,netetsihiʔo,n e t e ts i h i ʔ o,,walker2011,,,^n e t e ts i h i ʔ o$,default
 Saraveca-22_louse-1,,Saraveca,22_louse,inehe,inehe,i n e h e,,walker2011,,,^i n e h e$,default
-Taino-22_louse-1,,Taino,22_louse,"haiaba [pulga], hiriwawo, nagua",haiaba,h a i a b a,,walker2011,,,^h a i a b a$,default
+Taino-22_louse-1,,Taino,22_louse,"haiaba [pulga], hiriwawo, nagua",haiaba_,h a i a b a,,walker2011,,,^h a i a b a _$,default
 Taino-22_louse-2,,Taino,22_louse,"haiaba [pulga], hiriwawo, nagua",hiriwawo,h i r i w a w o,,walker2011,,,^h i r i w a w o$,default
 Taino-22_louse-3,,Taino,22_louse,"haiaba [pulga], hiriwawo, nagua",nagua,n a g u a,,walker2011,,,^n a g u a$,default
 Tariana-22_louse-1,,Tariana,22_louse,kawhaneɾi,kawhaneɾi,k a wʰ a n e ɾ i,,walker2011,,,^k a wh a n e ɾ i$,default
@@ -1441,7 +1441,7 @@ Caquinte-23_tree-1,,Caquinte,23_tree,tʃaki,tʃaki,tʃ a k i,,walker2011,,,^tʃ 
 Cariai-23_tree-1,,Cariai,23_tree,atamina,atamina,a t a m i n a,,walker2011,,,^a t a m i n a$,default
 Chamicuro-23_tree-1,,Chamicuro,23_tree,tʃenaʔto,tʃenaʔto,tʃ e n a ʔ t o,,walker2011,,,^tʃ e n a ʔ t o$,default
 EnaweneNawe-23_tree-1,,EnaweneNawe,23_tree,atajɾa,atajɾa,a t a j ɾ a,,walker2011,,,^a t a j ɾ a$,default
-Garifuna-23_tree-1,,Garifuna,23_tree,tίdibu wewe,tίdibu wewe,t ί/i d i b u + w e w e,,walker2011,,,^t ί d i b u + w e w e$,default
+Garifuna-23_tree-1,,Garifuna,23_tree,tίdibu wewe,tίdibu_wewe,t ί/i d i b u + w e w e,,walker2011,,,^t ί d i b u _ w e w e$,default
 Wayuu-23_tree-1,,Wayuu,23_tree,wunuʔu-ľia,wunuʔu-ľia,w u n u ʔ u + ľ/j i a,,walker2011,,,^w u n u ʔ u - ľ i a$,default
 Guinau-23_tree-1,,Guinau,23_tree,"ndauma, tamon-hiha",ndauma,n d a u m a,,walker2011,,,^n d a u m a$,default
 Guinau-23_tree-2,,Guinau,23_tree,"ndauma, tamon-hiha",tamon-hiha,t a m o n + h i h a,,walker2011,,,^t a m o n - h i h a$,default
@@ -1631,7 +1631,7 @@ IslandCarib-26_root-1,,IslandCarib,26_root,ilagora,ilagora,i l a g o r a,,walker
 Kaishana-26_root-1,,Kaishana,26_root,"-luaa, -ili, zapory",-luaa,l u aː,,walker2011,,,^- l u aa$,default
 Kaishana-26_root-2,,Kaishana,26_root,"-luaa, -ili, zapory",-ili,i l i,,walker2011,,,^- i l i$,default
 Kaishana-26_root-3,,Kaishana,26_root,"-luaa, -ili, zapory",zapory,z a p o r y,,walker2011,,,^z a p o r y$,default
-Kinikinao-26_root-1,,Kinikinao,26_root,poi koʃe,poi koʃe,p o i + k o ʃ e,,walker2011,,,^p o i + k o ʃ e$,default
+Kinikinao-26_root-1,,Kinikinao,26_root,poi koʃe,poi_koʃe,p o i + k o ʃ e,,walker2011,,,^p o i _ k o ʃ e$,default
 Curripaco-26_root-1,,Curripaco,26_root,lipali,lipali,l i p a l i,,walker2011,,,^l i p a l i$,default
 Lokono-26_root-1,,Lokono,26_root,ɨkɨra,ɨkɨra,ɨ k ɨ r a,,walker2011,,,^ɨ k ɨ r a$,default
 Machiguenga-26_root-1,,Machiguenga,26_root,pokintintsi,pokintintsi,p o k i n t i n ts i,,walker2011,,,^p o k i n t i n ts i$,default
@@ -1818,7 +1818,7 @@ Parecis-29_fleshmeat-1,,Parecis,29_fleshmeat,eteti,eteti,e t e t i,,walker2011,,
 Piapoco-29_fleshmeat-1,,Piapoco,29_fleshmeat,iinasi,iinasi,iː n a s i,,walker2011,,,^ii n a s i$,default
 Yine-29_fleshmeat-1,,Yine,29_fleshmeat,giitʃi,giitʃi,g iː tʃ i,,walker2011,,,^g ii tʃ i$,default
 Resigaro-29_fleshmeat-1,,Resigaro,29_fleshmeat,"giʔi, piʃaːni [de animal]",giʔi,g i ʔ i,,walker2011,,,^g i ʔ i$,default
-Resigaro-29_fleshmeat-2,,Resigaro,29_fleshmeat,"giʔi, piʃaːni [de animal]",piʃaːni,p i ʃ aː n i,,walker2011,,,^p i ʃ aː n i$,default
+Resigaro-29_fleshmeat-2,,Resigaro,29_fleshmeat,"giʔi, piʃaːni [de animal]",piʃaːni_,p i ʃ aː n i,,walker2011,,,^p i ʃ aː n i _$,default
 Saraveca-29_fleshmeat-1,,Saraveca,29_fleshmeat,e-teti,e-teti,e + t e t i,,walker2011,,,^e - t e t i$,default
 Taino-29_fleshmeat-1,,Taino,29_fleshmeat,kai,kai,k a i,,walker2011,,,^k a i$,default
 Tariana-29_fleshmeat-1,,Tariana,29_fleshmeat,pe,pe,p e,,walker2011,,,^p e$,default
@@ -2192,7 +2192,7 @@ Yavitero-36_feather-1,,Yavitero,36_feather,itsu,itsu,i ts u,,walker2011,,,^i ts 
 Yawalapiti-36_feather-1,,Yawalapiti,36_feather,tana,tana,t a n a,,walker2011,,,^t a n a$,default
 Yucuna-36_feather-1,,Yucuna,36_feather,tʃihnehi,tʃihnehi,tʃ i h n e h i,,walker2011,,,^tʃ i h n e h i$,default
 Jumana-36_feather-1,,Jumana,36_feather,aenuakpɨpuɨ,aenuakpɨpuɨ,a e n u a k p ɨ p u ɨ,,walker2011,,,^a e n u a k p ɨ p u ɨ$,default
-Achagua-37_hair-1,,Achagua,37_hair,-wita bainaː,-wita bainaː,w i t a + b a i n aː,,walker2011,,,^- w i t a + b a i n aː$,default
+Achagua-37_hair-1,,Achagua,37_hair,-wita bainaː,-wita_bainaː,w i t a + b a i n aː,,walker2011,,,^- w i t a _ b a i n aː$,default
 Yanesha-37_hair-1,,Yanesha,37_hair,"etʃets, yetʃ",etʃets,e tʃ e ts,,walker2011,,,^e tʃ e ts$,default
 Yanesha-37_hair-2,,Yanesha,37_hair,"etʃets, yetʃ",yetʃ,y e tʃ,,walker2011,,,^y e tʃ$,default
 Anauya-37_hair-1,,Anauya,37_hair,-huisihin,-huisihin,h u i s i h i n,,walker2011,,,^- h u i s i h i n$,default
@@ -2246,8 +2246,8 @@ Terena-37_hair-1,,Terena,37_hair,iʃeʔo,iʃeʔo,i ʃ e ʔ o,,walker2011,,,^i ʃ
 Trinitario-37_hair-1,,Trinitario,37_hair,tʃutmoko,tʃutmoko,tʃ u t m o k o,,walker2011,,,^tʃ u t m o k o$,default
 Wainuma-37_hair-1,,Wainuma,37_hair,"itzihi, ygtsy",itzihi,i t͡s i h i,,walker2011,,,^i tz i h i$,default
 Wainuma-37_hair-2,,Wainuma,37_hair,"itzihi, ygtsy",ygtsy,y g ts y,,walker2011,,,^y g ts y$,default
-Wapishana-37_hair-1,,Wapishana,37_hair,"ʐuaɨɖɨj  [cabelo de homem], ɖɨʐuj [de mulher]",ʐuaɨɖɨj,ʐ u a ɨ ɖ ɨ j,,walker2011,,,^ʐ u a ɨ ɖ ɨ j$,default
-Wapishana-37_hair-2,,Wapishana,37_hair,"ʐuaɨɖɨj  [cabelo de homem], ɖɨʐuj [de mulher]",ɖɨʐuj,ɖ ɨ ʐ u j,,walker2011,,,^ɖ ɨ ʐ u j$,default
+Wapishana-37_hair-1,,Wapishana,37_hair,"ʐuaɨɖɨj  [cabelo de homem], ɖɨʐuj [de mulher]",ʐuaɨɖɨj__,ʐ u a ɨ ɖ ɨ j,,walker2011,,,^ʐ u a ɨ ɖ ɨ j __$,default
+Wapishana-37_hair-2,,Wapishana,37_hair,"ʐuaɨɖɨj  [cabelo de homem], ɖɨʐuj [de mulher]",ɖɨʐuj_,ɖ ɨ ʐ u j,,walker2011,,,^ɖ ɨ ʐ u j _$,default
 Araicu-37_hair-1,,Araicu,37_hair,nitʃi,nitʃi,n i tʃ i,,walker2011,,,^n i tʃ i$,default
 Warekena-37_hair-1,,Warekena,37_hair,hiwesi,hiwesi,h i w e s i,,walker2011,,,^h i w e s i$,default
 WarekenaVelha-37_hair-1,,WarekenaVelha,37_hair,tʃipana,tʃipana,tʃ i p a n a,,walker2011,,,^tʃ i p a n a$,default
@@ -2285,7 +2285,7 @@ Inapari-38_head-1,,Inapari,38_head,hɨwɨ́ti,hɨwɨ́ti,h ɨ w ɨ́/ɨ t i,,wal
 IslandCarib-38_head-1,,IslandCarib,38_head,itsogo,itsogo,i ts o g o,,walker2011,,,^i ts o g o$,default
 Karutana-38_head-1,,Karutana,38_head,iwida,iwida,i w i d a,,walker2011,,,^i w i d a$,default
 Kaishana-38_head-1,,Kaishana,38_head,-wa,-wa,w a,,walker2011,,,^- w a$,default
-Kinikinao-38_head-1,,Kinikinao,38_head,tuːti hiko,tuːti hiko,t uː t i + h i k o,,walker2011,,,^t uː t i + h i k o$,default
+Kinikinao-38_head-1,,Kinikinao,38_head,tuːti hiko,tuːti_hiko,t uː t i + h i k o,,walker2011,,,^t uː t i _ h i k o$,default
 Curripaco-38_head-1,,Curripaco,38_head,liwida,liwida,l i w i d a,,walker2011,,,^l i w i d a$,default
 Lokono-38_head-1,,Lokono,38_head,(i)si,si,s i,,walker2011,,,^s i$,default
 Machiguenga-38_head-1,,Machiguenga,38_head,gito-tsi,gito-tsi,g i t o + ts i,,walker2011,,,^g i t o - ts i$,default
@@ -2403,7 +2403,7 @@ Ashaninka-40_eye-1,,Ashaninka,40_eye,oki,oki,o k i,,walker2011,,,^o k i$,default
 Xiriana-40_eye-1,,Xiriana,40_eye,nau(kɨsaɨ),nau,n a u,,walker2011,,,^n a u$,default
 Avane-40_eye-1,,Avane,40_eye,-puli-ʂi,-puli-ʂi,p u l i + ʂ i,,walker2011,,,^- p u l i - ʂ i$,default
 BaniwaDoIcana-40_eye-1,,BaniwaDoIcana,40_eye,"-thi, - ithiti",-thi,tʰ i,,walker2011,,,^- th i$,default
-BaniwaDoIcana-40_eye-2,,BaniwaDoIcana,40_eye,"-thi, - ithiti",- ithiti,+ i tʰ i t i,,walker2011,,,^- + i th i t i$,default
+BaniwaDoIcana-40_eye-2,,BaniwaDoIcana,40_eye,"-thi, - ithiti",-_ithiti,i tʰ i t i,,walker2011,,,^-_ i th i t i$,default
 Bare-40_eye-1,,Bare,40_eye,withi,withi,w i tʰ i,,walker2011,,,^w i th i$,default
 Baure-40_eye-1,,Baure,40_eye,kis,kis,k i s,,walker2011,,,^k i s$,default
 Cabiyari-40_eye-1,,Cabiyari,40_eye,-thu,-thu,tʰ u,,walker2011,,,^- th u$,default
@@ -2624,7 +2624,6 @@ Marawan-43_tooth-1,,Marawan,43_tooth,pa-ibun,pa-ibun,p a + i b u n,,walker2011,,
 Maragua-43_tooth-1,,Maragua,43_tooth,"n-atu, -atɨh",n-atu,n + a t u,,walker2011,,,^n - a t u$,default
 Maragua-43_tooth-2,,Maragua,43_tooth,"n-atu, -atɨh",-atɨh,a t ɨ h,,walker2011,,,^- a t ɨ h$,default
 Mariate-43_tooth-1,,Mariate,43_tooth,ai,ai,a i,,walker2011,,,^a i$,default
-MapidianMawayana-43_tooth-1,,MapidianMawayana,43_tooth,-‘u,-,,,walker2011,,,^- $,default
 Mehinaku-43_tooth-1,,Mehinaku,43_tooth,tewei,tewei,t e w e i,,walker2011,,,^t e w e i$,default
 Nomatsiguenga-43_tooth-1,,Nomatsiguenga,43_tooth,irai,irai,i r a i,,walker2011,,,^i r a i$,default
 Palikur-43_tooth-1,,Palikur,43_tooth,-aybu,-aybu,a y b u,,walker2011,,,^- a y b u$,default
@@ -3077,7 +3076,7 @@ Wainuma-50_neck-1,,Wainuma,50_neck,"-ruhrupi, -taky",-ruhrupi,r u h r u p i,,wal
 Wainuma-50_neck-2,,Wainuma,50_neck,"-ruhrupi, -taky",-taky,t a k y,,walker2011,,,^- t a k y$,default
 Wapishana-50_neck-1,,Wapishana,50_neck,kanaɨ,kanaɨ,k a n a ɨ,,walker2011,,,^k a n a ɨ$,default
 Araicu-50_neck-1,,Araicu,50_neck,nono,nono,n o n o,,walker2011,,,^n o n o$,default
-Warekena-50_neck-1,,Warekena,50_neck,bilaka kalusi,bilaka kalusi,b i l a k a + k a l u s i,,walker2011,,,^b i l a k a + k a l u s i$,default
+Warekena-50_neck-1,,Warekena,50_neck,bilaka kalusi,bilaka_kalusi,b i l a k a + k a l u s i,,walker2011,,,^b i l a k a _ k a l u s i$,default
 WarekenaVelha-50_neck-1,,WarekenaVelha,50_neck,inupi,inupi,i n u p i,,walker2011,,,^i n u p i$,default
 Waura-50_neck-1,,Waura,50_neck,-pĩjũ,-pĩjũ,p ĩ j ũ,,walker2011,,,^- p ĩ j ũ$,default
 Yavitero-50_neck-1,,Yavitero,50_neck,inu,inu,i n u,,walker2011,,,^i n u$,default
@@ -3142,7 +3141,7 @@ Warekena-51_breast-1,,Warekena,51_breast,tʃitʃinisi,tʃitʃinisi,tʃ i tʃ i n
 WarekenaVelha-51_breast-1,,WarekenaVelha,51_breast,tʃini,tʃini,tʃ i n i,,walker2011,,,^tʃ i n i$,default
 Waura-51_breast-1,,Waura,51_breast,-hɨ̃,-hɨ̃,h ɨ̃/ɨ,,walker2011,,,^- h ɨ̃$,default
 Yavitero-51_breast-1,,Yavitero,51_breast,tsini,tsini,ts i n i,,walker2011,,,^ts i n i$,default
-Yawalapiti-51_breast-1,,Yawalapiti,51_breast,tinaw tihi,tinaw tihi,t i n a w + t i h i,,walker2011,,,^t i n a w + t i h i$,default
+Yawalapiti-51_breast-1,,Yawalapiti,51_breast,tinaw tihi,tinaw_tihi,t i n a w + t i h i,,walker2011,,,^t i n a w _ t i h i$,default
 Yucuna-51_breast-1,,Yucuna,51_breast,ritʃuʔutʃure,ritʃuʔutʃure,r i tʃ u ʔ u tʃ u r e,,walker2011,,,^r i tʃ u ʔ u tʃ u r e$,default
 Jumana-51_breast-1,,Jumana,51_breast,nihi,nihi,n i h i,,walker2011,,,^n i h i$,default
 Achagua-52_heart-1,,Achagua,52_heart,-wowa,-wowa,w o w a,,walker2011,,,^- w o w a$,default
@@ -3164,7 +3163,7 @@ Ignaciano-52_heart-1,,Ignaciano,52_heart,samure,samure,s a m u r e,,walker2011,,
 Inapari-52_heart-1,,Inapari,52_heart,ahɨ́pati,ahɨ́pati,a h ɨ́/ɨ p a t i,,walker2011,,,^a h ɨ́ p a t i$,default
 IslandCarib-52_heart-1,,IslandCarib,52_heart,anigi,anigi,a n i g i,,walker2011,,,^a n i g i$,default
 Karutana-52_heart-1,,Karutana,52_heart,kare,kare,k a r e,,walker2011,,,^k a r e$,default
-Kaishana-52_heart-1,,Kaishana,52_heart,-(i) ɲahina,- ɲahina,+ ɲ a h i n a,,walker2011,,,^- + ɲ a h i n a$,default
+Kaishana-52_heart-1,,Kaishana,52_heart,-(i) ɲahina,-_ɲahina,ɲ a h i n a,,walker2011,,,^-_ ɲ a h i n a$,default
 Kinikinao-52_heart-1,,Kinikinao,52_heart,umintʃɔ,umintʃɔ,u m i n tʃ ɔ,,walker2011,,,^u m i n tʃ ɔ$,default
 Curripaco-52_heart-1,,Curripaco,52_heart,likaːle,likaːle,l i k aː l e,,walker2011,,,^l i k aː l e$,default
 Lokono-52_heart-1,,Lokono,52_heart,loa,loa,l o a,,walker2011,,,^l o a$,default
@@ -3357,7 +3356,7 @@ Curripaco-55_toeat-1,,Curripaco,55_toeat,ihniakheti,ihniakheti,i h n i a kʰ e t
 Lokono-55_toeat-1,,Lokono,55_toeat,khoton,khoton,kʰ o t o n,,walker2011,,,^kh o t o n$,default
 Machiguenga-55_toeat-1,,Machiguenga,55_toeat,ga-gantsi,ga-gantsi,g a + g a n ts i,,walker2011,,,^g a - g a n ts i$,default
 Maipure-55_toeat-1,,Maipure,55_toeat,-eka-,-eka-,e k a,,walker2011,,,^- e k a -$,default
-Manao-55_toeat-1,,Manao,55_toeat,wena aitʃa,wena aitʃa,w e n a + a i tʃ a,,walker2011,,,^w e n a + a i tʃ a$,default
+Manao-55_toeat-1,,Manao,55_toeat,wena aitʃa,wena_aitʃa,w e n a + a i tʃ a,,walker2011,,,^w e n a _ a i tʃ a$,default
 Mandahuaca-55_toeat-1,,Mandahuaca,55_toeat,-naha,-naha,n a h a,,walker2011,,,^- n a h a$,default
 Machinere-55_toeat-1,,Machinere,55_toeat,niki-li,niki-li,n i k i + l i,,walker2011,,,^n i k i - l i$,default
 Marawan-55_toeat-1,,Marawan,55_toeat,"aisa, aiskar",aisa,a i s a,,walker2011,,,^a i s a$,default
@@ -3377,8 +3376,8 @@ Passe-55_toeat-1,,Passe,55_toeat,zunau,zunau,z u n a u,,walker2011,,,^z u n a u$
 Piapoco-55_toeat-1,,Piapoco,55_toeat,nuyáaka,nuyáaka,n u y á/a a k a,,walker2011,,,^n u y á a k a$,default
 Yine-55_toeat-1,,Yine,55_toeat,naʃnew-lɨ,naʃnew-lɨ,n a ʃ n e w + l ɨ,,walker2011,,,^n a ʃ n e w - l ɨ$,default
 Resigaro-55_toeat-1,,Resigaro,55_toeat,"-aʔmitu, -ʃu [carne], -khu [fruta e coisas doces]",-aʔmitu,a ʔ m i t u,,walker2011,,,^- a ʔ m i t u$,default
-Resigaro-55_toeat-2,,Resigaro,55_toeat,"-aʔmitu, -ʃu [carne], -khu [fruta e coisas doces]",-ʃu,ʃ u,,walker2011,,,^- ʃ u$,default
-Resigaro-55_toeat-3,,Resigaro,55_toeat,"-aʔmitu, -ʃu [carne], -khu [fruta e coisas doces]",-khu,kʰ u,,walker2011,,,^- kh u$,default
+Resigaro-55_toeat-2,,Resigaro,55_toeat,"-aʔmitu, -ʃu [carne], -khu [fruta e coisas doces]",-ʃu_,ʃ u,,walker2011,,,^- ʃ u _$,default
+Resigaro-55_toeat-3,,Resigaro,55_toeat,"-aʔmitu, -ʃu [carne], -khu [fruta e coisas doces]",-khu_,kʰ u,,walker2011,,,^- kh u _$,default
 Saraveca-55_toeat-1,,Saraveca,55_toeat,i-nihitʃa,i-nihitʃa,i + n i h i tʃ a,,walker2011,,,^i - n i h i tʃ a$,default
 Taino-55_toeat-1,,Taino,55_toeat,"imas, yamuy",imas,i m a s,,walker2011,,,^i m a s$,default
 Taino-55_toeat-2,,Taino,55_toeat,"imas, yamuy",yamuy,y a m u y,,walker2011,,,^y a m u y$,default
@@ -3745,7 +3744,7 @@ EnaweneNawe-62_tokill-1,,EnaweneNawe,62_tokill,iyyaka,iyyaka,i jː a k a,,walker
 Garifuna-62_tokill-1,,Garifuna,62_tokill,"áfara, áfaragua, áfaraha",áfara,á/a f a r a,,walker2011,,,^á f a r a$,default
 Garifuna-62_tokill-2,,Garifuna,62_tokill,"áfara, áfaragua, áfaraha",áfaragua,á/a f a r a g u a,,walker2011,,,^á f a r a g u a$,default
 Garifuna-62_tokill-3,,Garifuna,62_tokill,"áfara, áfaragua, áfaraha",áfaraha,á/a f a r a h a,,walker2011,,,^á f a r a h a$,default
-Wayuu-62_tokill-1,,Wayuu,62_tokill,outa ain-i,outa ain-i,o u t a + a i n + i,,walker2011,,,^o u t a + a i n - i$,default
+Wayuu-62_tokill-1,,Wayuu,62_tokill,outa ain-i,outa_ain-i,o u t a + a i n + i,,walker2011,,,^o u t a _ a i n - i$,default
 Guinau-62_tokill-1,,Guinau,62_tokill,ndʒiːmalata,ndʒiːmalata,n dʒ iː m a l a t a,,walker2011,,,^n dʒ iː m a l a t a$,default
 Ignaciano-62_tokill-1,,Ignaciano,62_tokill,kapa,kapa,k a p a,,walker2011,,,^k a p a$,default
 Inapari-62_tokill-1,,Inapari,62_tokill,rɨnoʔámari,rɨnoʔámari,r ɨ n o ʔ á/a m a r i,,walker2011,,,^r ɨ n o ʔ á m a r i$,default
@@ -3872,7 +3871,7 @@ Achagua-65_towalk-1,,Achagua,65_towalk,"-a, -hina",-a,a,,walker2011,,,^- a$,defa
 Achagua-65_towalk-2,,Achagua,65_towalk,"-a, -hina",-hina,h i n a,,walker2011,,,^- h i n a$,default
 Yanesha-65_towalk-1,,Yanesha,65_towalk,tʃopeʼtʃenjets,tʃopeʼtʃenjets,tʃ o p eˀ tʃ e n j e ts,,walker2011,,,^tʃ o p eʼ tʃ e n j e ts$,default
 Apurina-65_towalk-1,,Apurina,65_towalk,ajana,ajana,a j a n a,,walker2011,,,^a j a n a$,default
-Aruan-65_towalk-1,,Aruan,65_towalk,da anaul,da anaul,d a + a n a u l,,walker2011,,,^d a + a n a u l$,default
+Aruan-65_towalk-1,,Aruan,65_towalk,da anaul,da_anaul,d a + a n a u l,,walker2011,,,^d a _ a n a u l$,default
 Ashaninka-65_towalk-1,,Ashaninka,65_towalk,nohate,nohate,n o h a t e,,walker2011,,,^n o h a t e$,default
 Xiriana-65_towalk-1,,Xiriana,65_towalk,"-kua, -kuf",-kua,k u a,,walker2011,,,^- k u a$,default
 Xiriana-65_towalk-2,,Xiriana,65_towalk,"-kua, -kuf",-kuf,k u f,,walker2011,,,^- k u f$,default
@@ -3959,17 +3958,17 @@ Curripaco-66_tocome-1,,Curripaco,66_tocome,inokheti,inokheti,i n o kʰ e t i,,wa
 Lokono-66_tocome-1,,Lokono,66_tocome,andin,andin,a n d i n,,walker2011,,,^a n d i n$,default
 Machiguenga-66_tocome-1,,Machiguenga,66_tocome,poka-gantsi,poka-gantsi,p o k a + g a n ts i,,walker2011,,,^p o k a - g a n ts i$,default
 Maipure-66_tocome-1,,Maipure,66_tocome,-nua,-nua,n u a,,walker2011,,,^- n u a$,default
-Manao-66_tocome-1,,Manao,66_tocome,natsi kayititʃi,natsi kayititʃi,n a ts i + k a y i t i tʃ i,,walker2011,,,^n a ts i + k a y i t i tʃ i$,default
+Manao-66_tocome-1,,Manao,66_tocome,natsi kayititʃi,natsi_kayititʃi,n a ts i + k a y i t i tʃ i,,walker2011,,,^n a ts i _ k a y i t i tʃ i$,default
 Mandahuaca-66_tocome-1,,Mandahuaca,66_tocome,-winawa,-winawa,w i n a w a,,walker2011,,,^- w i n a w a$,default
 Machinere-66_tocome-1,,Machinere,66_tocome,tirpatɨ,tirpatɨ,t i r p a t ɨ,,walker2011,,,^t i r p a t ɨ$,default
-Maragua-66_tocome-1,,Maragua,66_tocome,waku nihã,waku nihã,w a k u + n i h ã,,walker2011,,,^w a k u + n i h ã$,default
+Maragua-66_tocome-1,,Maragua,66_tocome,waku nihã,waku_nihã,w a k u + n i h ã,,walker2011,,,^w a k u _ n i h ã$,default
 MapidianMawayana-66_tocome-1,,MapidianMawayana,66_tocome,yade-nu,yade-nu,y a d e + n u,,walker2011,,,^y a d e - n u$,default
 Mehinaku-66_tocome-1,,Mehinaku,66_tocome,putukene,putukene,p u t u k e n e,,walker2011,,,^p u t u k e n e$,default
 Nomatsiguenga-66_tocome-1,,Nomatsiguenga,66_tocome,ipoke,ipoke,i p o k e,,walker2011,,,^i p o k e$,default
 Palikur-66_tocome-1,,Palikur,66_tocome,ayta,ayta,a y t a,,walker2011,,,^a y t a$,default
 Paraujano-66_tocome-1,,Paraujano,66_tocome,a-inta,a-inta,a + i n t a,,walker2011,,,^a - i n t a$,default
 Parecis-66_tocome-1,,Parecis,66_tocome,tjwoa,tjwoa,tʲʷ o a,,walker2011,,,^tjw o a$,default
-Piapoco-66_tocome-1,,Piapoco,66_tocome,nùakawa néese,nùakawa néese,n ù/u a k a w a + n é/e e s e,,walker2011,,,^n ù a k a w a + n é e s e$,default
+Piapoco-66_tocome-1,,Piapoco,66_tocome,nùakawa néese,nùakawa_néese,n ù/u a k a w a + n é/e e s e,,walker2011,,,^n ù a k a w a _ n é e s e$,default
 Yine-66_tocome-1,,Yine,66_tocome,gin-rɨ,gin-rɨ,g i n + r ɨ,,walker2011,,,^g i n - r ɨ$,default
 Resigaro-66_tocome-1,,Resigaro,66_tocome,-tsaʔnu,-tsaʔnu,ts a ʔ n u,,walker2011,,,^- ts a ʔ n u$,default
 Saraveca-66_tocome-1,,Saraveca,66_tocome,aʃena,aʃena,a ʃ e n a,,walker2011,,,^a ʃ e n a$,default
@@ -4241,7 +4240,7 @@ Resigaro-71_tosay-1,,Resigaro,71_tosay,-kemu,-kemu,k e m u,,walker2011,,,^- k e 
 Saraveca-71_tosay-1,,Saraveca,71_tosay,i-mema,i-mema,i + m e m a,,walker2011,,,^i - m e m a$,default
 Taino-71_tosay-1,,Taino,71_tosay,"áiem, ahiyaka, -hiya [to speak]",áiem,á/a i e m,,walker2011,,,^á i e m$,default
 Taino-71_tosay-2,,Taino,71_tosay,"áiem, ahiyaka, -hiya [to speak]",ahiyaka,a h i y a k a,,walker2011,,,^a h i y a k a$,default
-Taino-71_tosay-3,,Taino,71_tosay,"áiem, ahiyaka, -hiya [to speak]",-hiya,h i y a,,walker2011,,,^- h i y a$,default
+Taino-71_tosay-3,,Taino,71_tosay,"áiem, ahiyaka, -hiya [to speak]",-hiya_,h i y a,,walker2011,,,^- h i y a _$,default
 Tariana-71_tosay-1,,Tariana,71_tosay,a,a,a,,walker2011,,,^a$,default
 Terena-71_tosay-1,,Terena,71_tosay,kôe,kôe,k ô/o e,,walker2011,,,^k ô e$,default
 Trinitario-71_tosay-1,,Trinitario,71_tosay,koʔe,koʔe,k o ʔ e,,walker2011,,,^k o ʔ e$,default
@@ -4302,10 +4301,10 @@ Passe-72_sun-1,,Passe,72_sun,ayuma,ayuma,a y u m a,,walker2011,,,^a y u m a$,def
 Piapoco-72_sun-1,,Piapoco,72_sun,éeri,éeri,é/e e r i,,walker2011,,,^é e r i$,default
 Yine-72_sun-1,,Yine,72_sun,tkatʃi,tkatʃi,t k a tʃ i,,walker2011,,,^t k a tʃ i$,default
 Resigaro-72_sun-1,,Resigaro,72_sun,"haʔi, kami [verão]",haʔi,h a ʔ i,,walker2011,,,^h a ʔ i$,default
-Resigaro-72_sun-2,,Resigaro,72_sun,"haʔi, kami [verão]",kami,k a m i,,walker2011,,,^k a m i$,default
+Resigaro-72_sun-2,,Resigaro,72_sun,"haʔi, kami [verão]",kami_,k a m i,,walker2011,,,^k a m i _$,default
 Saraveca-72_sun-1,,Saraveca,72_sun,kaame,kaame,k aː m e,,walker2011,,,^k aa m e$,default
 Taino-72_sun-1,,Taino,72_sun,guey,guey,g u e y,,walker2011,,,^g u e y$,default
-Tariana-72_sun-1,,Tariana,72_sun,ehkwapite keɾi,ehkwapite keɾi,e h kʷ a p i t e + k e ɾ i,,walker2011,,,^e h kw a p i t e + k e ɾ i$,default
+Tariana-72_sun-1,,Tariana,72_sun,ehkwapite keɾi,ehkwapite_keɾi,e h kʷ a p i t e + k e ɾ i,,walker2011,,,^e h kw a p i t e _ k e ɾ i$,default
 Terena-72_sun-1,,Terena,72_sun,káʃe,káʃe,k á/a ʃ e,,walker2011,,,^k á ʃ e$,default
 Trinitario-72_sun-1,,Trinitario,72_sun,satʃe,satʃe,s a tʃ e,,walker2011,,,^s a tʃ e$,default
 Wainuma-72_sun-1,,Wainuma,72_sun,kamu(h)i,kamui,k a m u i,,walker2011,,,^k a m u i$,default
@@ -4366,7 +4365,7 @@ Yine-73_moon-1,,Yine,73_moon,ksɨrɨ,ksɨrɨ,k s ɨ r ɨ,,walker2011,,,^ks ɨ r 
 Resigaro-73_moon-1,,Resigaro,73_moon,keːgi,keːgi,k eː g i,,walker2011,,,^k eː g i$,default
 Saraveca-73_moon-1,,Saraveca,73_moon,katʃe,katʃe,k a tʃ e,,walker2011,,,^k a tʃ e$,default
 Taino-73_moon-1,,Taino,73_moon,karaya,karaya,k a r a y a,,walker2011,,,^k a r a y a$,default
-Tariana-73_moon-1,,Tariana,73_moon,depite keɾi,depite keɾi,d e p i t e + k e ɾ i,,walker2011,,,^d e p i t e + k e ɾ i$,default
+Tariana-73_moon-1,,Tariana,73_moon,depite keɾi,depite_keɾi,d e p i t e + k e ɾ i,,walker2011,,,^d e p i t e _ k e ɾ i$,default
 Terena-73_moon-1,,Terena,73_moon,kohjêe,kohjêe,k o h j ê/e e,,walker2011,,,^k o h j ê e$,default
 Trinitario-73_moon-1,,Trinitario,73_moon,kohe,kohe,k o h e,,walker2011,,,^k o h e$,default
 Wainuma-73_moon-1,,Wainuma,73_moon,kaːɨ(h)ri,kaːɨri,k aː ɨ r i,,walker2011,,,^k aː ɨ r i$,default
@@ -4550,7 +4549,7 @@ Parecis-76_rain-1,,Parecis,76_rain,enudati,enudati,e n u d a t i,,walker2011,,,^
 Piapoco-76_rain-1,,Piapoco,76_rain,unía,unía,u n í/i a,,walker2011,,,^u n í a$,default
 Yine-76_rain-1,,Yine,76_rain,gina,gina,g i n a,,walker2011,,,^g i n a$,default
 Resigaro-76_rain-1,,Resigaro,76_rain,faʔvoːtsi,faʔvoːtsi,f a ʔ v oː ts i,,walker2011,,,^f a ʔ v oː ts i$,default
-Taino-76_rain-1,,Taino,76_rain,áhuia [to rain],áhuia,á/a h u i a,,walker2011,,,^á h u i a$,default
+Taino-76_rain-1,,Taino,76_rain,áhuia [to rain],áhuia_,á/a h u i a,,walker2011,,,^á h u i a _$,default
 Tariana-76_rain-1,,Tariana,76_rain,ija,ija,i j a,,walker2011,,,^i j a$,default
 Terena-76_rain-1,,Terena,76_rain,uko,uko,u k o,,walker2011,,,^u k o$,default
 Trinitario-76_rain-1,,Trinitario,76_rain,tɣiwo,tɣiwo,t ɣ i w o,,walker2011,,,^t ɣ i w o$,default
@@ -4578,7 +4577,7 @@ Caquinte-77_stone-1,,Caquinte,77_stone,mapi,mapi,m a p i,,walker2011,,,^m a p i$
 Cariai-77_stone-1,,Cariai,77_stone,kɨpai,kɨpai,k ɨ p a i,,walker2011,,,^k ɨ p a i$,default
 Chamicuro-77_stone-1,,Chamicuro,77_stone,tʃena,tʃena,tʃ e n a,,walker2011,,,^tʃ e n a$,default
 EnaweneNawe-77_stone-1,,EnaweneNawe,77_stone,sajɾi,sajɾi,s a j ɾ i,,walker2011,,,^s a j ɾ i$,default
-Garifuna-77_stone-1,,Garifuna,77_stone,atʃamuragua dɨbɨ,atʃamuragua dɨbɨ,a tʃ a m u r a g u a + d ɨ b ɨ,,walker2011,,,^a tʃ a m u r a g u a + d ɨ b ɨ$,default
+Garifuna-77_stone-1,,Garifuna,77_stone,atʃamuragua dɨbɨ,atʃamuragua_dɨbɨ,a tʃ a m u r a g u a + d ɨ b ɨ,,walker2011,,,^a tʃ a m u r a g u a _ d ɨ b ɨ$,default
 Wayuu-77_stone-1,,Wayuu,77_stone,ipa,ipa,i p a,,walker2011,,,^i p a$,default
 Guinau-77_stone-1,,Guinau,77_stone,ʒiːba,ʒiːba,ʒ iː b a,,walker2011,,,^ʒ iː b a$,default
 Ignaciano-77_stone-1,,Ignaciano,77_stone,mari,mari,m a r i,,walker2011,,,^m a r i$,default
@@ -4660,7 +4659,7 @@ Palikur-78_sand-1,,Palikur,78_sand,kayh,kayh,k a y h,,walker2011,,,^k a y h$,def
 Paraujano-78_sand-1,,Paraujano,78_sand,mo,mo,m o,,walker2011,,,^m o$,default
 Parecis-78_sand-1,,Parecis,78_sand,kaiholo,kaiholo,k a i h o l o,,walker2011,,,^k a i h o l o$,default
 Piapoco-78_sand-1,,Piapoco,78_sand,kàina,kàina,k à/a i n a,,walker2011,,,^k à i n a$,default
-Yine-78_sand-1,,Yine,78_sand,ksatɨ pagi,ksatɨ pagi,k s a t ɨ + p a g i,,walker2011,,,^ks a t ɨ + p a g i$,default
+Yine-78_sand-1,,Yine,78_sand,ksatɨ pagi,ksatɨ_pagi,k s a t ɨ + p a g i,,walker2011,,,^ks a t ɨ _ p a g i$,default
 Resigaro-78_sand-1,,Resigaro,78_sand,koveːʔkoveʔdʐihu,koveːʔkoveʔdʐihu,k o v eː ʔ k o v e ʔ d ʐ i h u,,walker2011,,,^k o v eː ʔ k o v e ʔ d ʐ i h u$,default
 Saraveca-78_sand-1,,Saraveca,78_sand,hateʃe,hateʃe,h a t e ʃ e,,walker2011,,,^h a t e ʃ e$,default
 Taino-78_sand-1,,Taino,78_sand,si-,si-,s i,,walker2011,,,^s i -$,default
@@ -4720,7 +4719,7 @@ Parecis-79_groundearth-1,,Parecis,79_groundearth,waikohe,waikohe,w a i k o h e,,
 Passe-79_groundearth-1,,Passe,79_groundearth,pawaka,pawaka,p a w a k a,,walker2011,,,^p a w a k a$,default
 Piapoco-79_groundearth-1,,Piapoco,79_groundearth,káli,káli,k á/a l i,,walker2011,,,^k á l i$,default
 Yine-79_groundearth-1,,Yine,79_groundearth,tʃihi,tʃihi,tʃ i h i,,walker2011,,,^tʃ i h i$,default
-Resigaro-79_groundearth-1,,Resigaro,79_groundearth,hipohi. hihi,hipohi. hihi,h i p o h i + + h i h i,,walker2011,,,^h i p o h i . + h i h i$,default
+Resigaro-79_groundearth-1,,Resigaro,79_groundearth,hipohi. hihi,hipohi._hihi,h i p o h i + h i h i,,walker2011,,,^h i p o h i ._ h i h i$,default
 Saraveca-79_groundearth-1,,Saraveca,79_groundearth,iʃihi,iʃihi,i ʃ i h i,,walker2011,,,^i ʃ i h i$,default
 Taino-79_groundearth-1,,Taino,79_groundearth,uku,uku,u k u,,walker2011,,,^u k u$,default
 Tariana-79_groundearth-1,,Tariana,79_groundearth,ejawa,ejawa,e j a w a,,walker2011,,,^e j a w a$,default
@@ -4790,9 +4789,9 @@ Warekena-80_cloud-1,,Warekena,80_cloud,enu-pisa,enu-pisa,e n u + p i s a,,walker
 WarekenaVelha-80_cloud-1,,WarekenaVelha,80_cloud,"seɻeɻi, witsi ",seɻeɻi,s e ɻ e ɻ i,,walker2011,,,^s e ɻ e ɻ i$,default
 WarekenaVelha-80_cloud-2,,WarekenaVelha,80_cloud,"seɻeɻi, witsi ",witsi,w i ts i,,walker2011,,,^w i ts i$,default
 Waura-80_cloud-1,,Waura,80_cloud,ijepe,ijepe,i j e p e,,walker2011,,,^i j e p e$,default
-Yavitero-80_cloud-1,,Yavitero,80_cloud,liaľ̥i-lľ̥i enu,liaľ̥i-lľ̥i enu,l i a ľ̥/l̥ i + l ľ̥/l̥ i + e n u,,walker2011,,,^l i a ľ̥ i - l ľ̥ i + e n u$,default
+Yavitero-80_cloud-1,,Yavitero,80_cloud,liaľ̥i-lľ̥i enu,liaľ̥i-lľ̥i_enu,l i a ľ̥/l̥ i + l ľ̥/l̥ i + e n u,,walker2011,,,^l i a ľ̥ i - l ľ̥ i _ e n u$,default
 Yawalapiti-80_cloud-1,,Yawalapiti,80_cloud,ijɨpɨ,ijɨpɨ,i j ɨ p ɨ,,walker2011,,,^i j ɨ p ɨ$,default
-Yucuna-80_cloud-1,,Yucuna,80_cloud,huni huwakaʔala,huni huwakaʔala,h u n i + h u w a k a ʔ a l a,,walker2011,,,^h u n i + h u w a k a ʔ a l a$,default
+Yucuna-80_cloud-1,,Yucuna,80_cloud,huni huwakaʔala,huni_huwakaʔala,h u n i + h u w a k a ʔ a l a,,walker2011,,,^h u n i _ h u w a k a ʔ a l a$,default
 Achagua-81_smoke-1,,Achagua,81_smoke,iːʃa,iːʃa,iː ʃ a,,walker2011,,,^iː ʃ a$,default
 Yanesha-81_smoke-1,,Yanesha,81_smoke,amoʃ,amoʃ,a m o ʃ,,walker2011,,,^a m o ʃ$,default
 Apurina-81_smoke-1,,Apurina,81_smoke,-tʃĩjã,-tʃĩjã,tʃ ĩ j ã,,walker2011,,,^- tʃ ĩ j ã$,default
@@ -4807,7 +4806,7 @@ Caquinte-81_smoke-1,,Caquinte,81_smoke,poaː,poaː,p o aː,,walker2011,,,^p o a�
 Chamicuro-81_smoke-1,,Chamicuro,81_smoke,kawsa,kawsa,k a w s a,,walker2011,,,^k a ws a$,default
 EnaweneNawe-81_smoke-1,,EnaweneNawe,81_smoke,iʃima,iʃima,i ʃ i m a,,walker2011,,,^i ʃ i m a$,default
 Garifuna-81_smoke-1,,Garifuna,81_smoke,"seiri, sielu [SPANISH?], ubehu",seiri,s e i r i,,walker2011,,,^s e i r i$,default
-Garifuna-81_smoke-2,,Garifuna,81_smoke,"seiri, sielu [SPANISH?], ubehu",sielu,s i e l u,,walker2011,,,^s i e l u$,default
+Garifuna-81_smoke-2,,Garifuna,81_smoke,"seiri, sielu [SPANISH?], ubehu",sielu_,s i e l u,,walker2011,,,^s i e l u _$,default
 Garifuna-81_smoke-3,,Garifuna,81_smoke,"seiri, sielu [SPANISH?], ubehu",ubehu,u b e h u,,walker2011,,,^u b e h u$,default
 Wayuu-81_smoke-1,,Wayuu,81_smoke,sik-amɨsaľa,sik-amɨsaľa,s i k + a m ɨ s a ľ/j a,,walker2011,,,^s i k - a m ɨ s a ľ a$,default
 Guinau-81_smoke-1,,Guinau,81_smoke,kebokowahi,kebokowahi,k e b o k o w a h i,,walker2011,,,^k e b o k o w a h i$,default
@@ -4889,7 +4888,7 @@ Passe-82_fire-1,,Passe,82_fire,hekje,hekje,h e k j e,,walker2011,,,^h e k j e$,d
 Piapoco-82_fire-1,,Piapoco,82_fire,kitʃái,kitʃái,k i tʃ á/a i,,walker2011,,,^k i tʃ á i$,default
 Yine-82_fire-1,,Yine,82_fire,pawtʃi,pawtʃi,p a w tʃ i,,walker2011,,,^p a w tʃ i$,default
 Resigaro-82_fire-1,,Resigaro,82_fire,"okoniːgi, itsitso [lenha?]",okoniːgi,o k o n iː g i,,walker2011,,,^o k o n iː g i$,default
-Resigaro-82_fire-2,,Resigaro,82_fire,"okoniːgi, itsitso [lenha?]",itsitso,i ts i ts o,,walker2011,,,^i ts i ts o$,default
+Resigaro-82_fire-2,,Resigaro,82_fire,"okoniːgi, itsitso [lenha?]",itsitso_,i ts i ts o,,walker2011,,,^i ts i ts o _$,default
 Saraveca-82_fire-1,,Saraveca,82_fire,tikai,tikai,t i k a i,,walker2011,,,^t i k a i$,default
 Taino-82_fire-1,,Taino,82_fire,"kuyo, uato, guatu’",kuyo,k u y o,,walker2011,,,^k u y o$,default
 Taino-82_fire-2,,Taino,82_fire,"kuyo, uato, guatu’",uato,u a t o,,walker2011,,,^u a t o$,default
@@ -4950,7 +4949,7 @@ Palikur-83_ash-1,,Palikur,83_ash,hew-ahewra,hew-ahewra,h e w + a h e w r a,,walk
 Paraujano-83_ash-1,,Paraujano,83_ash,paiʔire,paiʔire,p a i ʔ i r e,,walker2011,,,^p a i ʔ i r e$,default
 Parecis-83_ash-1,,Parecis,83_ash,nehe,nehe,n e h e,,walker2011,,,^n e h e$,default
 Piapoco-83_ash-1,,Piapoco,83_ash,balìi,balìi,b a l ì/i i,,walker2011,,,^b a l ì i$,default
-Yine-83_ash-1,,Yine,83_ash,tʃitʃi pagi,tʃitʃi pagi,tʃ i tʃ i + p a g i,,walker2011,,,^tʃ i tʃ i + p a g i$,default
+Yine-83_ash-1,,Yine,83_ash,tʃitʃi pagi,tʃitʃi_pagi,tʃ i tʃ i + p a g i,,walker2011,,,^tʃ i tʃ i _ p a g i$,default
 Resigaro-83_ash-1,,Resigaro,83_ash,okoniːgidʐihu,okoniːgidʐihu,o k o n iː g i d ʐ i h u,,walker2011,,,^o k o n iː g i d ʐ i h u$,default
 Tariana-83_ash-1,,Tariana,83_ash,pali,pali,p a l i,,walker2011,,,^p a l i$,default
 Terena-83_ash-1,,Terena,83_ash,pou,pou,p o u,,walker2011,,,^p o u$,default
@@ -4998,7 +4997,7 @@ Paraujano-84_toburn-1,,Paraujano,84_toburn,orotetse,orotetse,o r o t e ts e,,wal
 Parecis-84_toburn-1,,Parecis,84_toburn,kera,kera,k e r a,,walker2011,,,^k e r a$,default
 Piapoco-84_toburn-1,,Piapoco,84_toburn,nuemáka,nuemáka,n u e m á/a k a,,walker2011,,,^n u e m á k a$,default
 Yine-84_toburn-1,,Yine,84_toburn,yotʃpik-lɨ,yotʃpik-lɨ,y o tʃ p i k + l ɨ,,walker2011,,,^y o tʃ p i k - l ɨ$,default
-Resigaro-84_toburn-1,,Resigaro,84_toburn,-aʔmu [intr.],-aʔmu,a ʔ m u,,walker2011,,,^- a ʔ m u$,default
+Resigaro-84_toburn-1,,Resigaro,84_toburn,-aʔmu [intr.],-aʔmu_,a ʔ m u,,walker2011,,,^- a ʔ m u _$,default
 Tariana-84_toburn-1,,Tariana,84_toburn,ha,ha,h a,,walker2011,,,^h a$,default
 Terena-84_toburn-1,,Terena,84_toburn,mure,mure,m u r e,,walker2011,,,^m u r e$,default
 Trinitario-84_toburn-1,,Trinitario,84_toburn,yustako,yustako,y u s t a k o,,walker2011,,,^y u s t a k o$,default
@@ -5046,7 +5045,7 @@ Palikur-85_pathroad-1,,Palikur,85_pathroad,ahin,ahin,a h i n,,walker2011,,,^a h 
 Paraujano-85_pathroad-1,,Paraujano,85_pathroad,wobuh,wobuh,w o b u h,,walker2011,,,^w o b u h$,default
 Parecis-85_pathroad-1,,Parecis,85_pathroad,ahotita,ahotita,a h o t i t a,,walker2011,,,^a h o t i t a$,default
 Piapoco-85_pathroad-1,,Piapoco,85_pathroad,àyapi,àyapi,à/a y a p i,,walker2011,,,^à y a p i$,default
-Yine-85_pathroad-1,,Yine,85_pathroad,gatnɨ gapo,gatnɨ gapo,g a t n ɨ + g a p o,,walker2011,,,^g a t n ɨ + g a p o$,default
+Yine-85_pathroad-1,,Yine,85_pathroad,gatnɨ gapo,gatnɨ_gapo,g a t n ɨ + g a p o,,walker2011,,,^g a t n ɨ _ g a p o$,default
 Resigaro-85_pathroad-1,,Resigaro,85_pathroad,"adʒapo, ehuːhi, adʒapu",adʒapo,a dʒ a p o,,walker2011,,,^a dʒ a p o$,default
 Resigaro-85_pathroad-2,,Resigaro,85_pathroad,"adʒapo, ehuːhi, adʒapu",ehuːhi,e h uː h i,,walker2011,,,^e h uː h i$,default
 Resigaro-85_pathroad-3,,Resigaro,85_pathroad,"adʒapo, ehuːhi, adʒapu",adʒapu,a dʒ a p u,,walker2011,,,^a dʒ a p u$,default
@@ -5099,11 +5098,11 @@ Mariate-86_mountain-1,,Mariate,86_mountain,ekutɨ,ekutɨ,e k u t ɨ,,walker2011,
 MapidianMawayana-86_mountain-1,,MapidianMawayana,86_mountain,rɨnɨ,rɨnɨ,r ɨ n ɨ,,walker2011,,,^r ɨ n ɨ$,default
 Mehinaku-86_mountain-1,,Mehinaku,86_mountain,kehɨtɨkumã,kehɨtɨkumã,k e h ɨ t ɨ k u m ã,,walker2011,,,^k e h ɨ t ɨ k u m ã$,default
 Nomatsiguenga-86_mountain-1,,Nomatsiguenga,86_mountain,ogitoha,ogitoha,o g i t o h a,,walker2011,,,^o g i t o h a$,default
-Palikur-86_mountain-1,,Palikur,86_mountain,waxi imuwad,waxi imuwad,w a x i + i m u w a d,,walker2011,,,^w a x i + i m u w a d$,default
+Palikur-86_mountain-1,,Palikur,86_mountain,waxi imuwad,waxi_imuwad,w a x i + i m u w a d,,walker2011,,,^w a x i _ i m u w a d$,default
 Paraujano-86_mountain-1,,Paraujano,86_mountain,utatʃi,utatʃi,u t a tʃ i,,walker2011,,,^u t a tʃ i$,default
 Parecis-86_mountain-1,,Parecis,86_mountain,tjairi,tjairi,t j a i r i,,walker2011,,,^t j a i r i$,default
 Passe-86_mountain-1,,Passe,86_mountain,papuaka,papuaka,p a p u a k a,,walker2011,,,^p a p u a k a$,default
-Piapoco-86_mountain-1,,Piapoco,86_mountain,manuíri dúli,manuíri dúli,m a n u í/i r i + d ú/u l i,,walker2011,,,^m a n u í r i + d ú l i$,default
+Piapoco-86_mountain-1,,Piapoco,86_mountain,manuíri dúli,manuíri_dúli,m a n u í/i r i + d ú/u l i,,walker2011,,,^m a n u í r i _ d ú l i$,default
 Yine-86_mountain-1,,Yine,86_mountain,magka,magka,m a g k a,,walker2011,,,^m a g k a$,default
 Resigaro-86_mountain-1,,Resigaro,86_mountain,tebahu,tebahu,t e b a h u,,walker2011,,,^t e b a h u$,default
 Saraveca-86_mountain-1,,Saraveca,86_mountain,uti,uti,u t i,,walker2011,,,^u t i$,default
@@ -5114,7 +5113,7 @@ Taino-86_mountain-4,,Taino,86_mountain,"o, wito, huibo, oconuco, baino",oconuco,
 Taino-86_mountain-5,,Taino,86_mountain,"o, wito, huibo, oconuco, baino",baino,b a i n o,,walker2011,,,^b a i n o$,default
 Tariana-86_mountain-1,,Tariana,86_mountain,hjapa,hjapa,h j a p a,,walker2011,,,^h j a p a$,default
 Terena-86_mountain-1,,Terena,86_mountain,mapôi,mapôi,m a p ô/o i,,walker2011,,,^m a p ô i$,default
-Trinitario-86_mountain-1,,Trinitario,86_mountain,ʔnuɣʔe mari,ʔnuɣʔe mari,ʔ n u ɣ ʔ e + m a r i,,walker2011,,,^ʔ n u ɣ ʔ e + m a r i$,default
+Trinitario-86_mountain-1,,Trinitario,86_mountain,ʔnuɣʔe mari,ʔnuɣʔe_mari,ʔ n u ɣ ʔ e + m a r i,,walker2011,,,^ʔ n u ɣ ʔ e _ m a r i$,default
 Wainuma-86_mountain-1,,Wainuma,86_mountain,banangbiba,banangbiba,b a n a n g b i b a,,walker2011,,,^b a n a n g b i b a$,default
 Wapishana-86_mountain-1,,Wapishana,86_mountain,ɖɨkɨu,ɖɨkɨu,ɖ ɨ k ɨ u,,walker2011,,,^ɖ ɨ k ɨ u$,default
 Araicu-86_mountain-1,,Araicu,86_mountain,mabɨeti,mabɨeti,m a b ɨ e t i,,walker2011,,,^m a b ɨ e t i$,default
@@ -5518,7 +5517,7 @@ Kinikinao-93_warmhot-1,,Kinikinao,93_warmhot,kɔtuti,kɔtuti,k ɔ t u t i,,walke
 Curripaco-93_warmhot-1,,Curripaco,93_warmhot,haːmu,haːmu,h aː m u,,walker2011,,,^h aː m u$,default
 Lokono-93_warmhot-1,,Lokono,93_warmhot,wereben,wereben,w e r e b e n,,walker2011,,,^w e r e b e n$,default
 Machiguenga-93_warmhot-1,,Machiguenga,93_warmhot,katsirinkari,katsirinkari,k a ts i r i n k a r i,,walker2011,,,^k a ts i r i n k a r i$,default
-Mandahuaca-93_warmhot-1,,Mandahuaca,93_warmhot,hatamida he:ri,hatamida he:ri,h a t a m i d a + h eː r i,,walker2011,,,^h a t a m i d a + h e: r i$,default
+Mandahuaca-93_warmhot-1,,Mandahuaca,93_warmhot,hatamida he:ri,hatamida_he:ri,h a t a m i d a + h eː r i,,walker2011,,,^h a t a m i d a _ h e: r i$,default
 Maragua-93_warmhot-1,,Maragua,93_warmhot,"hadamiha, adahi",hadamiha,h a d a m i h a,,walker2011,,,^h a d a m i h a$,default
 Maragua-93_warmhot-2,,Maragua,93_warmhot,"hadamiha, adahi",adahi,a d a h i,,walker2011,,,^a d a h i$,default
 MapidianMawayana-93_warmhot-1,,MapidianMawayana,93_warmhot,ritʃa,ritʃa,r i tʃ a,,walker2011,,,^r i tʃ a$,default
@@ -5674,7 +5673,7 @@ Lokono-96_good-1,,Lokono,96_good,san,san,s a n,,walker2011,,,^s a n$,default
 Machiguenga-96_good-1,,Machiguenga,96_good,kameti,kameti,k a m e t i,,walker2011,,,^k a m e t i$,default
 Maipure-96_good-1,,Maipure,96_good,sonikaperi,sonikaperi,s o n i k a p e r i,,walker2011,,,^s o n i k a p e r i$,default
 Manao-96_good-1,,Manao,96_good,sabi,sabi,s a b i,,walker2011,,,^s a b i$,default
-Mandahuaca-96_good-1,,Mandahuaca,96_good,wewakanaha nama:li,wewakanaha nama:li,w e w a k a n a h a + n a m aː l i,,walker2011,,,^w e w a k a n a h a + n a m a: l i$,default
+Mandahuaca-96_good-1,,Mandahuaca,96_good,wewakanaha nama:li,wewakanaha_nama:li,w e w a k a n a h a + n a m aː l i,,walker2011,,,^w e w a k a n a h a _ n a m a: l i$,default
 Machinere-96_good-1,,Machinere,96_good,kihilɨrɨ,kihilɨrɨ,k i h i l ɨ r ɨ,,walker2011,,,^k i h i l ɨ r ɨ$,default
 Maragua-96_good-1,,Maragua,96_good,ila(-kuru-i),ila,i l a,,walker2011,,,^i l a$,default
 MapidianMawayana-96_good-1,,MapidianMawayana,96_good,wĩɲa,wĩɲa,w ĩ ɲ a,,walker2011,,,^w ĩ ɲ a$,default
@@ -5783,15 +5782,15 @@ Palikur-98_round-1,,Palikur,98_round,huwipatip,huwipatip,h u w i p a t i p,,walk
 Parecis-98_round-1,,Parecis,98_round,ehoko,ehoko,e h o k o,,walker2011,,,^e h o k o$,default
 Piapoco-98_round-1,,Piapoco,98_round,màkapukuíre,màkapukuíre,m à/a k a p u k u í/i r e,,walker2011,,,^m à k a p u k u í r e$,default
 Yine-98_round-1,,Yine,98_round,poprololɨ,poprololɨ,p o p r o l o l ɨ,,walker2011,,,^p o p r o l o l ɨ$,default
-Resigaro-98_round-1,,Resigaro,98_round,"pavuːdu [como um tronco de madeira], papasi [como rodas, aros], pau [como uma bola]",pavuːdu,p a v uː d u,,walker2011,,,^p a v uː d u$,default
-Resigaro-98_round-2,,Resigaro,98_round,"pavuːdu [como um tronco de madeira], papasi [como rodas, aros], pau [como uma bola]",papasi,p a p a s i,,walker2011,,,^p a p a s i$,default
-Resigaro-98_round-3,,Resigaro,98_round,"pavuːdu [como um tronco de madeira], papasi [como rodas, aros], pau [como uma bola]",pau,p a u,,walker2011,,,^p a u$,default
+Resigaro-98_round-1,,Resigaro,98_round,"pavuːdu [como um tronco de madeira], papasi [como rodas, aros], pau [como uma bola]",pavuːdu_,p a v uː d u,,walker2011,,,^p a v uː d u _$,default
+Resigaro-98_round-2,,Resigaro,98_round,"pavuːdu [como um tronco de madeira], papasi [como rodas, aros], pau [como uma bola]",papasi_,p a p a s i,,walker2011,,,^p a p a s i _$,default
+Resigaro-98_round-3,,Resigaro,98_round,"pavuːdu [como um tronco de madeira], papasi [como rodas, aros], pau [como uma bola]",pau_,p a u,,walker2011,,,^p a u _$,default
 Taino-98_round-1,,Taino,98_round,bo,bo,b o,,walker2011,,,^b o$,default
 Tariana-98_round-1,,Tariana,98_round,makaiobona,makaiobona,m a k a i o b o n a,,walker2011,,,^m a k a i o b o n a$,default
 Terena-98_round-1,,Terena,98_round,puiti,puiti,p u i t i,,walker2011,,,^p u i t i$,default
 Trinitario-98_round-1,,Trinitario,98_round,tʃioro,tʃioro,tʃ i o r o,,walker2011,,,^tʃ i o r o$,default
 Wapishana-98_round-1,,Wapishana,98_round,kaɖaʐɖaɨʔu,kaɖaʐɖaɨʔu,k a ɖ a ʐ ɖ a ɨ ʔ u,,walker2011,,,^k a ɖ a ʐ ɖ a ɨ ʔ u$,default
-Warekena-98_round-1,,Warekena,98_round,makapu kuli,makapu kuli,m a k a p u + k u l i,,walker2011,,,^m a k a p u + k u l i$,default
+Warekena-98_round-1,,Warekena,98_round,makapu kuli,makapu_kuli,m a k a p u + k u l i,,walker2011,,,^m a k a p u _ k u l i$,default
 WarekenaVelha-98_round-1,,WarekenaVelha,98_round,tʃiɻueɻi,tʃiɻueɻi,tʃ i ɻ u e ɻ i,,walker2011,,,^tʃ i ɻ u e ɻ i$,default
 Waura-98_round-1,,Waura,98_round,tari,tari,t a r i,,walker2011,,,^t a r i$,default
 Yucuna-98_round-1,,Yucuna,98_round,makapukutʃini,makapukutʃini,m a k a p u k u tʃ i n i,,walker2011,,,^m a k a p u k u tʃ i n i$,default
@@ -5822,7 +5821,7 @@ Kinikinao-99_dry-1,,Kinikinao,99_dry,mowoʔiti,mowoʔiti,m o w o ʔ i t i,,walke
 Curripaco-99_dry-1,,Curripaco,99_dry,metaːdali,metaːdali,m e t aː d a l i,,walker2011,,,^m e t aː d a l i$,default
 Lokono-99_dry-1,,Lokono,99_dry,wan,wan,w a n,,walker2011,,,^w a n$,default
 Machiguenga-99_dry-1,,Machiguenga,99_dry,piriata,piriata,p i r i a t a,,walker2011,,,^p i r i a t a$,default
-Mandahuaca-99_dry-1,,Mandahuaca,99_dry,mayamaya wakali,mayamaya wakali,m a y a m a y a + w a k a l i,,walker2011,,,^m a y a m a y a + w a k a l i$,default
+Mandahuaca-99_dry-1,,Mandahuaca,99_dry,mayamaya wakali,mayamaya_wakali,m a y a m a y a + w a k a l i,,walker2011,,,^m a y a m a y a _ w a k a l i$,default
 Machinere-99_dry-1,,Machinere,99_dry,pupiri,pupiri,p u p i r i,,walker2011,,,^p u p i r i$,default
 Maragua-99_dry-1,,Maragua,99_dry,djana-hi,djana-hi,d j a n a + h i,,walker2011,,,^d j a n a - h i$,default
 MapidianMawayana-99_dry-1,,MapidianMawayana,99_dry,marbasɨ,marbasɨ,m a r b a s ɨ,,walker2011,,,^m a r b a s ɨ$,default

@@ -1,4 +1,18 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+-_	+
+^-_	NULL
+^-	NULL
+-$	NULL
+-….-	+
+....._-	+
+._	+
+_$	NULL
+^_	NULL
+__	+
+__$	NULL
+^__	NULL
+_	+
+-...-	+
 ^	NULL				
 $	NULL				
 (	NULL				

@@ -17,20 +17,23 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 - **Varieties:** 60
 - **Concepts:** 100
-- **Lexemes:** 5,895
+- **Lexemes:** 5,894
 - **Sources:** 1
 - **Synonymy:** 1.12
 - **Invalid lexemes:** 0
-- **Tokens:** 32,042
+- **Tokens:** 32,028
 - **Segments:** 134 (0 BIPA errors, 0 CTLS sound class errors, 134 CLTS modified)
-- **Inventory size (avg):** 28.33
+- **Inventory size (avg):** 28.32
 
 # Contributors
 
 Name | GitHub user | Descripion | Role
 -----|-------------|------ | -----
-Tiago Tresoldi | @tresoldi | patron, setup file, code | Author
-Natalia Morozova | @natalia-morozova | orthographic profile | Author
+Tiago Tresoldi | @tresoldi | patron, setup file, code | Other 
+Natalia Morozova | @natalia-morozova | orthographic profile | Other
+Robert S. Walker | | original data collection | Author
+Lincoln A. Ribeiro |  | original data collection | Author
+
 
 
 
