@@ -18,9 +18,9 @@ def test_forms(cldf_dataset):
 
     assert f[0]["Parameter_ID"] == "5_that"
     assert f[0]["Language_ID"] == "Yawalapiti"
-    assert f[0]["Form"] == "iɾu"
+    assert f[0]["Form"] == "iɾu_"
 
     assert f[1]["Parameter_ID"] == "5_that"
     assert f[1]["Language_ID"] == "Yawalapiti"
-    assert f[1]["Form"] == "iɾutiɾa"
+    assert f[1]["Form"] == "iɾutiɾa_"
 
