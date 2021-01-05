@@ -1,4 +1,3 @@
-# encoding: utf-8
 import attr
 from pathlib import Path
 
@@ -35,7 +34,7 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
         
         concepts = args.writer.add_concepts(
-            id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
+            id_factory=lambda c: c.id.split('-')[-1] + '_' + slug(c.english),
             lookup_factory="Name"
         )
         
@@ -47,7 +46,7 @@ class Dataset(BaseDataset):
                 if col in ('ID', 'English'):
                     continue
 
-                lex = args.writer.add_forms_from_value(
+                args.writer.add_forms_from_value(
                     Language_ID=languages[col],
                     Parameter_ID=concepts.get(row['English']),
                     Value=row[col],
