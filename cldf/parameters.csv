@@ -1,6 +1,6 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
 1_i,I,1209,I
-2_you,you,1215,THOU
+2_you,you,1213,YOU
 3_we,we,1212,WE
 4_this,this,1214,THIS
 5_that,that,78,THAT
@@ -55,6 +55,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 54_todrink,to drink,1401,DRINK
 55_toeat,to eat,1336,EAT
 56_tobite,to bite,1403,BITE
+84_toburn,to burn,2102,BURN
 57_tosee,to see,1409,SEE
 58_tohear,to hear,1408,HEAR
 59_toknow,to know,1410,KNOW (SOMETHING)
@@ -77,12 +78,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 76_rain,rain,658,RAIN (PRECIPITATION)
 77_stone,stone,857,STONE
 78_sand,sand,671,SAND
-79_groundearth,ground/earth,1228,EARTH (SOIL)
+79_groundearth,ground/earth,2159,GROUND
 80_cloud,cloud,1489,CLOUD
 81_smoke,smoke,778,SMOKE (EXHAUST)
 82_fire,fire,221,FIRE
 83_ash,ash,646,ASH
-84_toburn,to burn,2102,BURN
 85_pathroad,path/road,2457,PATH OR ROAD
 86_mountain,mountain,639,MOUNTAIN
 87_red,red,156,RED
@@ -91,7 +91,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 90_white,white,1335,WHITE
 91_black,black,163,BLACK
 92_night,night,1233,NIGHT
-93_warmhot,warm/hot,1286,HOT
+93_warmhot,warm/hot,2272,HOT OR WARM
 94_cold,cold,1287,COLD
 95_full,full,1429,FULL
 96_good,good,1035,GOOD

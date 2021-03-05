@@ -31,6 +31,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Robert S. Walker and Lincoln A. Ribeiro. 2011. Bayesian phylogeography of the Arawak expansion in lowland South America. *Proceedings of the Royal Society B: Biological Sciences*. Volume 278, Number 1718, 2562--2567. DOI: 10.1098/rspb.2010.2579</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-NC-4.0"
+        "id": "CC-BY-4.0"
     }
 }
