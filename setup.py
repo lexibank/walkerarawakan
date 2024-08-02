@@ -1,5 +1,4 @@
 from setuptools import setup
-import sys
 import json
 
 
@@ -20,6 +19,7 @@ setup(
             'walkerarawakan=lexibank_walkerarawakan:Dataset',
         ]
     },
+    extras_require={"test": ["pytest-cldf"]},
     install_requires=[
         'pylexibank>=2.0',
     ]
