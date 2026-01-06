@@ -8,6 +8,6 @@ Christoph Rzymski  | @chrzyki | patron | Editor
 Johann-Mattis List | @LinguList | profile fixes | Other
 Tiago Tresoldi     | @tresoldi | patron, setup file, code | Other
 Natalia Morozova   | @natalia-morozova | orthographic profile | Other
-
+Simon Greenhill    | @SimonGreenhill   | cognates             | Other
 
 

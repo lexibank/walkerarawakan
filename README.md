@@ -21,7 +21,7 @@ Conceptlists in Concepticon:
 
 
 [![CLDF validation](https://github.com/lexibank/walkerarawakan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/walkerarawakan/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 97%](https://img.shields.io/badge/Glottolog-97%25-green.svg "Glottolog: 97%")
+![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
@@ -32,6 +32,8 @@ Conceptlists in Concepticon:
 - **Lexemes:** 5,894
 - **Sources:** 1
 - **Synonymy:** 1.12
+- **Cognacy:** 5,894 cognates in 400 cognate sets (41 singletons)
+- **Cognate Diversity:** 0.05
 - **Invalid lexemes:** 0
 - **Tokens:** 32,003
 - **Segments:** 137 (0 BIPA errors, 0 CLTS sound class errors, 137 CLTS modified)
